@@ -1,0 +1,27 @@
+k141_14	1236	class	Gammaproteobacteria	120	115	65	0.550	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_43043	115784	family	Phaffomycetaceae	2	2	1	0.940	Fungi;Ascomycota;Phaffomycetaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Saccharomycotina;c_Saccharomycetes;o_Saccharomycetales;f_Phaffomycetaceae
+k141_49618	468	family	Moraxellaceae	73	72	43	0.570	unknown;Proteobacteria;Moraxellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae
+k141_39850	1	no rank	root	147	134	134	1.000	unknown;unknown;unknown	-_root
+k141_13483	1224	phylum	Proteobacteria	11	9	5	0.570	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_6866	1	no rank	root	78	76	76	1.000	unknown;unknown;unknown	-_root
+k141_46295	1	no rank	root	270	258	258	1.000	unknown;unknown;unknown	-_root
+k141_6924	1	no rank	root	64	57	57	1.000	unknown;unknown;unknown	-_root
+k141_46481	2	superkingdom	Bacteria	151	143	86	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49959	2	superkingdom	Bacteria	233	217	137	0.560	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_43698	1	no rank	root	109	103	103	1.000	unknown;unknown;unknown	-_root
+k141_27292	1	no rank	root	105	95	95	1.000	unknown;unknown;unknown	-_root
+k141_10711	1	no rank	root	163	150	150	1.000	unknown;unknown;unknown	-_root
+k141_50734	2	superkingdom	Bacteria	178	168	95	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14721	131567	no rank	cellular organisms	11	11	11	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_25047	1	no rank	root	99	91	91	1.000	unknown;unknown;unknown	-_root
+k141_44967	131567	no rank	cellular organisms	16	16	16	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_7839	1	no rank	root	71	65	65	1.000	unknown;unknown;unknown	-_root
+k141_18268	469	genus	Acinetobacter	9	9	5	0.700	unknown;Proteobacteria;Moraxellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter
+k141_5180	1	no rank	root	145	136	136	1.000	unknown;unknown;unknown	-_root
+k141_12339	1	no rank	root	160	151	151	1.000	unknown;unknown;unknown	-_root
+k141_22933	1	no rank	root	26	25	25	1.000	unknown;unknown;unknown	-_root
+k141_42574	1	no rank	root	135	130	130	1.000	unknown;unknown;unknown	-_root
+k141_45556	2	superkingdom	Bacteria	69	62	33	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29685	469	genus	Acinetobacter	33	31	21	0.660	unknown;Proteobacteria;Moraxellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter
+k141_42687	2	superkingdom	Bacteria	490	460	276	0.550	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6494	1	no rank	root	134	122	122	1.000	unknown;unknown;unknown	-_root

@@ -1,0 +1,47 @@
+0.1623	1	1	no rank	0	unclassified
+99.8377	615	104	no rank	1	root
+82.9545	511	4	no rank	131567	  cellular organisms
+82.3052	507	124	superkingdom	2	    Bacteria
+61.3636	378	1	clade	1783270	      FCB group
+61.2013	377	4	clade	68336	        Bacteroidetes/Chlorobi group
+60.5519	373	163	phylum	976	          Bacteroidetes
+33.9286	209	25	class	117743	            Flavobacteriia
+29.8701	184	28	order	200644	              Flavobacteriales
+25.1623	155	66	family	49546	                Flavobacteriaceae
+14.1234	87	69	genus	237	                  Flavobacterium
+2.2727	14	1	no rank	196869	                    unclassified Flavobacterium
+1.6234	10	10	species	1229487	                      Flavobacterium sp. WG21
+0.1623	1	1	species	239	                      Flavobacterium sp.
+0.1623	1	1	species	1506583	                      Flavobacterium sp. ASV13
+0.1623	1	1	species	1920029	                      Flavobacterium sp. YO12
+0.1623	1	1	species	96345	                    Flavobacterium psychrophilum
+0.1623	1	1	species	1114873	                    Flavobacterium tructae
+0.1623	1	1	species	1114874	                    Flavobacterium piscis
+0.1623	1	1	species	2212651	                    Flavobacterium cheongpyeongense
+0.1623	1	0	no rank	61432	                  unclassified Flavobacteriaceae
+0.1623	1	1	species	1871037	                    Flavobacteriaceae bacterium
+0.1623	1	0	genus	178469	                  Arenibacter
+0.1623	1	1	species	558155	                    Arenibacter nanhaiticus
+0.1623	1	0	family	2762318	                Weeksellaceae
+0.1623	1	0	no rank	2782232	                  Chryseobacterium group
+0.1623	1	0	genus	2782231	                    Kaistella
+0.1623	1	0	species	421525	                      Kaistella haifensis
+0.1623	1	1	strain	1450526	                        Chryseobacterium haifense DSM 19056
+0.1623	1	0	class	200643	            Bacteroidia
+0.1623	1	1	order	171549	              Bacteroidales
+0.8117	5	0	clade	1783272	      Terrabacteria group
+0.6494	4	0	phylum	1239	        Firmicutes
+0.6494	4	3	class	91061	          Bacilli
+0.1623	1	0	order	186826	            Lactobacillales
+0.1623	1	0	family	81852	              Enterococcaceae
+0.1623	1	0	genus	1350	                Enterococcus
+0.1623	1	0	species	155618	                  Enterococcus haemoperoxidus
+0.1623	1	1	strain	1158608	                    Enterococcus haemoperoxidus ATCC BAA-382
+0.1623	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1623	1	0	phylum	1117	          Cyanobacteria
+0.1623	1	0	subclass	1301283	            Oscillatoriophycideae
+0.1623	1	0	order	1150	              Oscillatoriales
+0.1623	1	0	family	1892252	                Microcoleaceae
+0.1623	1	0	genus	105591	                  Symploca
+0.1623	1	0	no rank	2620434	                    unclassified Symploca
+0.1623	1	1	species	2607769	                      Symploca sp. SIO1C2

@@ -1,0 +1,83 @@
+0.1795	1	1	no rank	0	unclassified
+99.8205	556	128	no rank	1	root
+76.8402	428	6	no rank	131567	  cellular organisms
+74.1472	413	235	superkingdom	2	    Bacteria
+31.7774	177	89	phylum	1224	      Proteobacteria
+15.4399	86	11	class	28216	        Betaproteobacteria
+13.4650	75	49	order	80840	          Burkholderiales
+3.7702	21	12	family	80864	            Comamonadaceae
+1.2567	7	3	genus	80865	              Delftia
+0.3591	2	2	species	180282	                Delftia tsuruhatensis
+0.3591	2	0	no rank	2613839	                unclassified Delftia
+0.1795	1	1	species	1339242	                  Delftia sp. ZNC0008
+0.1795	1	1	species	1537702	                  Delftia sp. 670
+0.1795	1	1	genus	283	              Comamonas
+0.1795	1	0	genus	1649468	              Melaminivora
+0.1795	1	1	species	1165852	                Melaminivora alkalimesophila
+0.8977	5	1	family	119060	            Burkholderiaceae
+0.3591	2	1	genus	32008	              Burkholderia
+0.1795	1	0	species group	87882	                Burkholderia cepacia complex
+0.1795	1	0	species	152480	                  Burkholderia ambifaria
+0.1795	1	1	strain	396596	                    Burkholderia ambifaria IOP40-10
+0.1795	1	0	genus	48736	              Ralstonia
+0.1795	1	1	species	305	                Ralstonia solanacearum
+0.1795	1	0	genus	106589	              Cupriavidus
+0.1795	1	0	species	82541	                Cupriavidus gilardii
+0.1795	1	1	strain	936133	                  Cupriavidus gilardii J11
+0.3591	2	0	class	1236	        Gammaproteobacteria
+0.3591	2	0	order	72274	          Pseudomonadales
+0.3591	2	0	family	135621	            Pseudomonadaceae
+0.3591	2	0	genus	286	              Pseudomonas
+0.1795	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.1795	1	1	species	287	                  Pseudomonas aeruginosa
+0.1795	1	0	no rank	196821	                unclassified Pseudomonas
+0.1795	1	1	species	2487887	                  Pseudomonas sp. KU43P
+0.1795	1	0	clade	1783257	      PVC group
+0.1795	1	0	phylum	74201	        Verrucomicrobia
+0.1795	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.1795	1	1	species	1852926	            Verrucomicrobia bacterium ADurb.Bin063
+1.6158	9	3	superkingdom	2759	    Eukaryota
+0.7181	4	0	kingdom	33090	      Viridiplantae
+0.7181	4	0	phylum	35493	        Streptophyta
+0.7181	4	0	subphylum	131221	          Streptophytina
+0.7181	4	1	clade	3193	            Embryophyta
+0.5386	3	0	clade	58023	              Tracheophyta
+0.5386	3	0	clade	78536	                Euphyllophyta
+0.5386	3	0	clade	58024	                  Spermatophyta
+0.5386	3	0	class	3398	                    Magnoliopsida
+0.5386	3	0	clade	1437183	                      Mesangiospermae
+0.5386	3	0	clade	71240	                        eudicotyledons
+0.5386	3	0	clade	91827	                          Gunneridae
+0.5386	3	1	clade	1437201	                            Pentapetalae
+0.3591	2	1	clade	71275	                              rosids
+0.1795	1	0	clade	91835	                                fabids
+0.1795	1	0	order	3646	                                  Malpighiales
+0.1795	1	0	family	3977	                                    Euphorbiaceae
+0.1795	1	0	subfamily	235629	                                      Acalyphoideae
+0.1795	1	0	tribe	235880	                                        Acalypheae
+0.1795	1	0	genus	3987	                                          Ricinus
+0.1795	1	1	species	3988	                                            Ricinus communis
+0.3591	2	0	clade	33154	      Opisthokonta
+0.3591	2	0	kingdom	33208	        Metazoa
+0.3591	2	0	clade	6072	          Eumetazoa
+0.3591	2	0	clade	33213	            Bilateria
+0.3591	2	0	clade	33317	              Protostomia
+0.3591	2	0	clade	1206794	                Ecdysozoa
+0.3591	2	0	clade	88770	                  Panarthropoda
+0.3591	2	0	phylum	6656	                    Arthropoda
+0.3591	2	0	clade	197563	                      Mandibulata
+0.3591	2	0	clade	197562	                        Pancrustacea
+0.3591	2	0	subphylum	6960	                          Hexapoda
+0.3591	2	0	class	50557	                            Insecta
+0.3591	2	0	clade	85512	                              Dicondylia
+0.3591	2	0	subclass	7496	                                Pterygota
+0.3591	2	0	infraclass	33340	                                  Neoptera
+0.3591	2	0	cohort	33392	                                    Endopterygota
+0.3591	2	0	order	7041	                                      Coleoptera
+0.3591	2	0	suborder	41084	                                        Polyphaga
+0.3591	2	0	infraorder	41087	                                          Elateriformia
+0.3591	2	0	superfamily	71193	                                            Elateroidea
+0.3591	2	0	family	7049	                                              Lampyridae
+0.3591	2	0	subfamily	433515	                                                Luciolinae
+0.3591	2	0	genus	2069291	                                                  Abscondita
+0.3591	2	2	species	2069292	                                                    Abscondita terminalis

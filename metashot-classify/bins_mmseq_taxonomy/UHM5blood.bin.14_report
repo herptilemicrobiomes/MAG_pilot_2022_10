@@ -1,0 +1,76 @@
+100.0000	396	112	no rank	1	root
+71.7172	284	5	no rank	131567	  cellular organisms
+69.4444	275	79	superkingdom	2	    Bacteria
+49.2424	195	98	phylum	1224	      Proteobacteria
+23.4848	93	17	class	28216	        Betaproteobacteria
+19.1919	76	41	order	80840	          Burkholderiales
+8.5859	34	27	family	506	            Alcaligenaceae
+1.7677	7	5	genus	222	              Achromobacter
+0.2525	1	1	species	470868	                Achromobacter marplatensis
+0.2525	1	1	species	1287735	                Achromobacter insuavis
+0.2525	1	1	family	119060	            Burkholderiaceae
+0.5051	2	0	class	1236	        Gammaproteobacteria
+0.5051	2	0	order	72274	          Pseudomonadales
+0.5051	2	0	family	135621	            Pseudomonadaceae
+0.5051	2	2	genus	286	              Pseudomonas
+0.5051	2	1	class	28211	        Alphaproteobacteria
+0.2525	1	1	order	356	          Hyphomicrobiales
+0.2525	1	0	clade	1783272	      Terrabacteria group
+0.2525	1	0	phylum	201174	        Actinobacteria
+0.2525	1	0	class	1760	          Actinomycetia
+0.2525	1	0	order	85007	            Corynebacteriales
+0.2525	1	0	family	1762	              Mycobacteriaceae
+0.2525	1	0	genus	670516	                Mycobacteroides
+0.2525	1	0	species	36809	                  Mycobacteroides abscessus
+0.2525	1	1	subspecies	1185650	                    Mycobacteroides abscessus subsp. abscessus
+1.0101	4	0	superkingdom	2759	    Eukaryota
+0.5051	2	0	kingdom	33090	      Viridiplantae
+0.5051	2	0	phylum	35493	        Streptophyta
+0.5051	2	0	subphylum	131221	          Streptophytina
+0.5051	2	0	clade	3193	            Embryophyta
+0.5051	2	0	clade	58023	              Tracheophyta
+0.5051	2	0	clade	78536	                Euphyllophyta
+0.5051	2	0	clade	58024	                  Spermatophyta
+0.5051	2	0	class	3398	                    Magnoliopsida
+0.5051	2	0	clade	1437183	                      Mesangiospermae
+0.5051	2	0	clade	71240	                        eudicotyledons
+0.5051	2	0	clade	91827	                          Gunneridae
+0.5051	2	1	clade	1437201	                            Pentapetalae
+0.2525	1	0	clade	71274	                              asterids
+0.2525	1	0	clade	91882	                                campanulids
+0.2525	1	0	order	4209	                                  Asterales
+0.2525	1	0	family	4210	                                    Asteraceae
+0.2525	1	0	subfamily	102804	                                      Asteroideae
+0.2525	1	0	tribe	102810	                                        Anthemideae
+0.2525	1	0	subtribe	886730	                                          Anthemidinae
+0.2525	1	0	genus	99105	                                            Tanacetum
+0.2525	1	1	species	118510	                                              Tanacetum cinerariifolium
+0.5051	2	0	clade	33154	      Opisthokonta
+0.2525	1	0	kingdom	4751	        Fungi
+0.2525	1	0	subkingdom	451864	          Dikarya
+0.2525	1	0	phylum	4890	            Ascomycota
+0.2525	1	0	clade	716545	              saccharomyceta
+0.2525	1	0	subphylum	147538	                Pezizomycotina
+0.2525	1	0	clade	716546	                  leotiomyceta
+0.2525	1	0	clade	715989	                    sordariomyceta
+0.2525	1	0	class	147550	                      Sordariomycetes
+0.2525	1	0	subclass	222543	                        Hypocreomycetidae
+0.2525	1	0	order	5125	                          Hypocreales
+0.2525	1	0	family	474943	                            Cordycipitaceae
+0.2525	1	0	genus	5581	                              Beauveria
+0.2525	1	0	species	176275	                                Beauveria bassiana
+0.2525	1	1	strain	1245745	                                  Beauveria bassiana D1-5
+0.2525	1	0	kingdom	33208	        Metazoa
+0.2525	1	0	clade	6072	          Eumetazoa
+0.2525	1	0	clade	33213	            Bilateria
+0.2525	1	0	clade	33317	              Protostomia
+0.2525	1	0	clade	1206794	                Ecdysozoa
+0.2525	1	0	phylum	6231	                  Nematoda
+0.2525	1	0	class	119089	                    Chromadorea
+0.2525	1	0	order	6236	                      Rhabditida
+0.2525	1	0	suborder	6300	                        Tylenchina
+0.2525	1	0	infraorder	2082223	                          Panagrolaimomorpha
+0.2525	1	0	superfamily	2082224	                            Strongyloidoidea
+0.2525	1	0	family	6246	                              Strongyloididae
+0.2525	1	0	genus	131309	                                Parastrongyloides
+0.2525	1	1	species	131310	                                  Parastrongyloides trichosuri

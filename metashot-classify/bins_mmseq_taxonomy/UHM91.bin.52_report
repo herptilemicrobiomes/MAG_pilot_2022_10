@@ -1,0 +1,16 @@
+1.2500	2	2	no rank	0	unclassified
+98.7500	158	0	no rank	1	root
+98.7500	158	0	no rank	131567	  cellular organisms
+98.7500	158	2	superkingdom	2759	    Eukaryota
+97.5000	156	1	clade	33154	      Opisthokonta
+96.8750	155	1	kingdom	4751	        Fungi
+96.2500	154	0	subkingdom	451864	          Dikarya
+96.2500	154	0	phylum	4890	            Ascomycota
+96.2500	154	1	clade	716545	              saccharomyceta
+95.6250	153	0	subphylum	147537	                Saccharomycotina
+95.6250	153	0	class	4891	                  Saccharomycetes
+95.6250	153	8	order	4892	                    Saccharomycetales
+90.6250	145	28	family	1156497	                      Pichiaceae
+73.1250	117	112	genus	4919	                        Pichia
+2.5000	4	4	species	4909	                          Pichia kudriavzevii
+0.6250	1	1	species	4926	                          Pichia membranifaciens

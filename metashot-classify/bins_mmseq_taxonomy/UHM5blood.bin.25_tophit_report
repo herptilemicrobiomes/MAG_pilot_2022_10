@@ -1,0 +1,554 @@
+UniRef50_A0A2X2BKF9	2	1.000	1.388	0.793	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_M7C9V8	1	1.000	1.000	0.938	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3G9IM87	1	0.997	0.997	0.268	642	genus	Aeromonas	unknown;Proteobacteria;Aeromonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Aeromonadales;f_Aeromonadaceae;g_Aeromonas
+UniRef50_P77743	1	0.998	0.998	0.926	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A011NL10	1	0.314	0.314	0.695	1454000	species	Candidatus Accumulibacter sp. SK-11	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;-_unclassified Candidatus Accumulibacter;s_Candidatus Accumulibacter sp. SK-11
+UniRef50_A0A0A2VES7	1	0.999	0.999	0.391	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A448SKZ9	1	0.504	0.504	0.869	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2X1MXC9	1	1.000	1.000	0.635	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A655Y3X4	1	0.850	0.850	0.576	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A376X628	2	1.000	1.689	0.481	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_B2VH48	1	0.973	0.973	0.993	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A367D6L9	1	0.348	0.348	0.888	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2S1BFJ3	1	0.985	0.985	0.819	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A4U9HAF6	1	0.921	0.921	0.194	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_P76502	1	0.944	0.944	0.966	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A381G7S9	1	0.865	0.865	0.924	35703	species	Citrobacter amalonaticus	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter amalonaticus
+UniRef50_P15214	1	0.818	0.818	0.989	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_M1SIN2	1	0.248	0.248	0.963	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_T1NBC3	1	0.607	0.607	0.379	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A379T2K0	1	0.970	0.970	0.898	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A447J5Y9	1	1.000	1.000	0.784	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A6G6SPQ9	1	0.996	0.996	0.996	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_B4F0A6	1	0.982	0.982	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI00104CC285	1	0.563	0.563	0.994	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A2J9L5A1	1	0.997	0.997	0.954	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0D8L4G8	1	1.000	1.000	0.589	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0A5SF72	1	1.000	1.000	0.986	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0A2W0A6	1	0.996	0.996	0.371	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A411Z8J0	1	0.953	0.953	0.880	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M7CBB6	1	0.703	0.703	0.949	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A655C2D4	1	1.000	1.000	0.956	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_A0A0D8LA43	1	1.000	1.000	0.516	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A655DHF0	1	0.460	0.460	0.998	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_V0AMG9	2	1.000	1.899	0.405	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A447J4A4	2	1.000	1.885	0.542	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_I2BAF1	1	0.358	0.358	0.945	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_H2IWR8	1	1.000	1.000	0.923	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_A0A0H3KSV1	2	0.760	1.185	0.784	932677	strain	Pantoea ananatis AJ13355	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea ananatis;-_Pantoea ananatis AJ13355
+UniRef50_M7CPW8	1	1.000	1.000	0.965	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2X2C3I6	1	1.000	1.000	0.993	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A663BIR6	1	0.644	0.644	0.414	1463164	subspecies	Klebsiella quasipneumoniae subsp. similipneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella quasipneumoniae;-_Klebsiella quasipneumoniae subsp. similipneumoniae
+UniRef50_A0A0D8L2Z6	1	0.576	0.576	0.937	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_P75728	1	0.519	0.519	0.615	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P77328	1	1.000	1.000	0.918	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q7N549	1	1.000	1.000	0.929	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A6J6PF46	1	0.377	0.377	1.000	449393	species	freshwater metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_freshwater metagenome
+UniRef50_A0A3S4H2K8	1	0.590	0.590	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A2I8SWS3	1	0.922	0.922	0.972	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A381H5G7	1	0.675	0.675	0.944	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A5M9R9T2	1	0.752	0.752	0.951	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A656BRE6	1	0.681	0.681	0.969	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_A0A379GLE5	1	0.996	0.996	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0AER4	1	0.740	0.740	0.971	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A345WYT0	1	1.000	1.000	0.980	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A3R8N2U9	1	1.000	1.000	0.991	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A378B5Y4	1	1.000	1.000	0.468	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P16700	1	0.997	0.997	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q7N6I1	1	0.985	0.985	0.492	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_C0AWG8	1	0.986	0.986	0.903	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q9KIP8	1	0.993	0.993	0.958	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI00115E051D	1	0.990	0.990	1.000	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_H6Q4C5	1	0.984	0.984	0.878	1142511	forma specialis	Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony)	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Wigglesworthia;s_Wigglesworthia glossinidia;-_Wigglesworthia glossinidia endosymbiont of Glossina morsitans;-_Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony)
+UniRef50_A0A0A2W4Q5	1	0.633	0.633	0.571	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M7C9H7	1	0.978	0.978	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A379FAY2	1	0.469	0.469	0.988	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5M9R855	1	1.000	1.000	0.702	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A0T9QI92	1	0.989	0.989	0.960	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A447S5J4	1	0.957	0.957	0.645	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A2X2W303	1	0.991	0.991	0.631	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2G0Q016	1	0.593	0.593	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2C5TP55	1	1.000	1.000	0.892	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A0A376S1J2	1	0.773	0.773	0.454	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A4U9UF07	1	1.000	1.000	0.975	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_Q7N1X1	1	0.994	0.994	0.917	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q06065	1	0.991	0.991	0.939	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_G8LKS4	1	0.211	0.211	0.536	299767	species	Enterobacter ludwigii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter ludwigii
+UniRef50_A0A379AJM0	1	0.824	0.824	0.339	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A656C4P4	1	0.933	0.933	1.000	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_A0A655WC11	1	1.000	1.000	0.652	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A377A7P9	1	0.912	0.912	0.966	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A655U3Z7	1	1.000	1.000	0.774	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A379FB66	1	1.000	1.000	0.885	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A433ZQI3	1	1.000	1.000	0.961	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A377DSB8	1	0.866	0.866	0.857	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A379GGB4	1	0.965	0.965	0.742	584	species	Proteus mirabilis	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus mirabilis
+UniRef50_A0A0D8MDH5	1	0.991	0.991	0.273	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_P0AFK1	1	1.000	1.000	0.939	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A331J824	2	0.995	1.435	0.779	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A447J2D0	1	0.955	0.955	0.461	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_B6XKZ0	1	0.460	0.460	0.948	126385	species	Providencia alcalifaciens	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Providencia;s_Providencia alcalifaciens
+UniRef50_A0A329VUC8	1	0.996	0.996	0.673	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_UPI0016517725	1	1.000	1.000	0.453	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A2X1T868	1	1.000	1.000	0.951	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0H2V491	1	0.775	0.775	0.777	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A1B8HN48	1	1.000	1.000	0.989	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q8D124	1	0.967	0.967	0.969	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A1B8H1M1	1	0.997	0.997	0.958	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_UPI000F495A66	1	1.000	1.000	0.917	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_Q46799	1	1.000	1.000	0.961	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8Z813	1	1.000	1.000	0.971	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_W1J7J4	1	1.000	1.000	0.710	1427517	strain	Xenorhabdus cabanillasii JM26	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Xenorhabdus;s_Xenorhabdus cabanillasii;-_Xenorhabdus cabanillasii JM26
+UniRef50_Q8ZRP8	1	0.989	0.989	0.911	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A5M9RAP7	1	0.991	0.991	0.499	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A1S8S1	1	1.000	1.000	0.962	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q2SHK3	1	0.333	0.333	0.975	158481	genus	Hahella	unknown;Proteobacteria;Hahellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Oceanospirillales;f_Hahellaceae;g_Hahella
+UniRef50_A0A379Y312	1	0.673	0.673	0.932	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0A5UBF7	1	1.000	1.000	0.474	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A7R9IV09	1	0.999	0.999	0.319	61474	species	Timema californicum	Metazoa;Arthropoda;Timematidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Polyneoptera;o_Phasmatodea;-_Timematodea;-_Timematoidea;f_Timematidae;g_Timema;s_Timema californicum
+UniRef50_A0A0D8L822	1	1.000	1.000	0.890	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_P39832	1	0.989	0.989	0.891	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P15043	1	0.998	0.998	0.967	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0A2I6	1	1.000	1.000	0.965	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4CVG8	1	0.293	0.293	0.934	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4P1AX90	1	0.816	0.816	0.308	54291	species	Raoultella ornithinolytica	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Raoultella;s_Raoultella ornithinolytica
+UniRef50_A0A810YS15	1	0.995	0.995	0.953	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3S5D7Z5	1	0.967	0.967	0.978	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A378ECN1	1	1.000	1.000	0.216	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A143HY61	1	0.444	0.444	0.939	61645	species	Enterobacter asburiae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter asburiae
+UniRef50_A0A4U9HU89	1	0.665	0.665	0.850	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A377LP06	1	0.992	0.992	0.708	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_E1SCZ5	1	0.937	0.937	0.898	1903409	family	Erwiniaceae	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae
+UniRef50_A0A6S6Z7F1	1	0.919	0.919	0.608	1353890	species	Achromobacter kerstersii	unknown;Proteobacteria;Alcaligenaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Achromobacter;s_Achromobacter kerstersii
+UniRef50_A0A433ZT83	2	1.000	1.998	0.862	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0D8L5D0	1	0.993	0.993	0.979	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_X6Q8F7	1	0.755	0.755	0.985	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3S5AN06	2	1.000	1.408	0.489	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0D5WSB9	1	1.000	1.000	0.973	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A447J3Q2	1	1.000	1.000	0.578	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A8B0SW90	1	0.702	0.702	0.396	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A447J0R1	1	1.000	1.000	0.991	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A447WE38	1	0.990	0.990	0.622	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_D3V723	1	0.244	0.244	0.580	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M1SR95	1	1.000	1.000	0.916	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A3S4CRH8	2	1.000	1.953	0.640	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A6J6UDS9	1	0.461	0.461	0.938	449393	species	freshwater metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_freshwater metagenome
+UniRef50_A0A7Y7YNV7	1	1.000	1.000	0.899	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A485CMP3	1	0.690	0.690	0.926	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A3S5D4M8	1	1.000	1.000	0.889	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A193SPS0	1	1.000	1.000	0.971	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3S4CVU8	1	1.000	1.000	0.496	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A3S4CSN3	1	1.000	1.000	0.240	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_M7CTK9	1	1.000	1.000	0.959	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A379UYV6	1	0.880	0.880	0.959	59201	subspecies	Salmonella enterica subsp. enterica	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica
+UniRef50_A0A3S4F2K4	1	1.000	1.000	0.287	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P0AG19	1	0.994	0.994	0.924	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A376L0M3	1	0.991	0.991	0.833	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A5E6Z7U4	1	0.544	0.544	0.783	294	species	Pseudomonas fluorescens	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_A0A0D8L6A5	1	1.000	1.000	0.317	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_D1P6G5	1	0.475	0.475	0.960	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A1N6MTV7	1	0.998	0.998	0.656	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A022PE43	1	0.940	0.940	0.547	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1B8HBH6	1	1.000	1.000	1.000	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1B8HNK0	1	1.000	1.000	0.962	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A2X1J658	1	0.987	0.987	0.722	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A3S4H209	1	0.319	0.319	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_P0A6C1	1	0.972	0.972	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0AAG7	1	0.983	0.983	0.728	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_UPI001954D397	1	1.000	1.000	1.000	40324	species	Stenotrophomonas maltophilia	unknown;Proteobacteria;Xanthomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas;-_Stenotrophomonas maltophilia group;s_Stenotrophomonas maltophilia
+UniRef50_A0A3Q0L452	1	0.980	0.980	1.000	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M7CQL2	1	1.000	1.000	0.997	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_S2XIJ4	1	0.998	0.998	0.907	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4E833	2	1.000	1.862	0.595	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A3S4DIB2	1	0.974	0.974	0.964	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0U5GMU3	1	0.993	0.993	0.725	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A645CIB6	1	0.602	0.602	0.528	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A1G5PSJ5	1	0.995	0.995	0.936	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A0A2X2WFL3	1	0.978	0.978	0.943	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A377ZYH2	1	0.642	0.642	0.928	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A377NJ09	1	1.000	1.000	0.406	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_M7CEG5	1	1.000	1.000	0.985	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A1I4YDI3	1	0.997	0.997	0.444	53341	species	Xenorhabdus japonica	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Xenorhabdus;s_Xenorhabdus japonica
+UniRef50_A0A7U0AP10	1	1.000	1.000	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A377LT57	2	1.000	1.633	0.501	550	species	Enterobacter cloacae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter cloacae
+UniRef50_P03018	1	0.997	0.997	0.962	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A4W8F1	1	0.725	0.725	0.882	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2C5TG91	1	1.000	1.000	0.520	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_UPI0006C0ADF3	1	1.000	1.000	0.936	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A1M7JLF5	1	1.000	1.000	1.000	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A169N085	1	0.975	0.975	0.965	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2X1TLQ5	2	1.000	2.000	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A3S4IIQ3	1	1.000	1.000	0.524	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P0AG01	1	0.991	0.991	0.921	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9TGD5	1	0.855	0.855	0.802	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_UPI0019682464	1	0.526	0.526	0.936	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A4P0XZG9	1	0.993	0.993	0.261	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A083ZTY6	1	0.997	0.997	0.962	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_K8WHR6	1	0.988	0.988	0.948	1141660	strain	Providencia sneebia DSM 19967	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Providencia;s_Providencia sneebia;-_Providencia sneebia DSM 19967
+UniRef50_X1RZX0	1	0.559	0.559	0.841	412755	species	marine sediment metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_marine sediment metagenome
+UniRef50_A0A379ZE65	1	0.824	0.824	0.980	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0A5SEZ0	1	1.000	1.000	0.880	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_W1IYF9	1	0.997	0.997	0.938	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A6P1Q4R1	1	0.974	0.974	0.991	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A380A3C5	1	1.000	1.000	0.214	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A6J7BDV5	1	1.000	1.000	0.534	449393	species	freshwater metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_freshwater metagenome
+UniRef50_A0A6C9QGX8	1	0.634	0.634	0.937	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A1B8HEU1	1	0.995	0.995	0.548	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A0A655TNR4	1	0.851	0.851	0.912	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A0A2WJ08	1	0.346	0.346	0.691	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A433ZX34	1	0.333	0.333	0.895	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_K8C6L5	1	0.768	0.768	0.361	1208663	strain	Cronobacter sakazakii 701	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter sakazakii;-_Cronobacter sakazakii 701
+UniRef50_P23917	1	0.997	0.997	0.975	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0AEX1	1	0.994	0.994	0.708	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0D8L189	1	0.972	0.972	0.190	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A1Z1STV8	1	1.000	1.000	0.971	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P37902	1	0.993	0.993	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G5QAJ7	1	0.949	0.949	0.553	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_Q8ZAG5	1	1.000	1.000	0.933	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A645GVH4	1	0.755	0.755	0.435	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_UPI0015F6C065	1	1.000	1.000	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_UPI000C719AF1	1	1.000	1.000	0.645	7375	species	Lucilia cuprina	Metazoa;Arthropoda;Calliphoridae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Diptera;-_Brachycera;-_Muscomorpha;-_Eremoneura;-_Cyclorrhapha;-_Schizophora;-_Calyptratae;-_Oestroidea;f_Calliphoridae;-_Luciliinae;g_Lucilia;s_Lucilia cuprina
+UniRef50_Q1CMW4	1	1.000	1.000	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1B8H0F8	1	1.000	1.000	0.926	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A8B0SW11	1	0.236	0.236	1.000	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_J8V4N6	1	0.988	0.988	0.528	1218169	strain	Pseudomonas putida S11	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas putida group;s_Pseudomonas putida;-_Pseudomonas putida S11
+UniRef50_A0A3S4E1L3	1	0.986	0.986	0.202	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A1JKL6	1	0.993	0.993	0.993	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A2C5TH91	1	1.000	1.000	0.436	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A7Z7KM62	1	0.958	0.958	0.914	126385	species	Providencia alcalifaciens	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Providencia;s_Providencia alcalifaciens
+UniRef50_K8B1G2	2	0.537	0.734	0.571	1208661	strain	Cronobacter dublinensis 582	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis;-_Cronobacter dublinensis 582
+UniRef50_M7CE04	1	1.000	1.000	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A376VRZ6	1	1.000	1.000	0.710	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_D1P482	1	1.000	1.000	0.981	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_M1SR47	1	1.000	1.000	0.968	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A077ZIV1	1	0.998	0.998	0.701	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A1JL00	1	1.000	1.000	0.956	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q3IGW4	1	1.000	1.000	0.732	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_C0AQU9	1	0.961	0.961	0.601	471881	strain	Proteus penneri ATCC 35198	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus penneri;-_Proteus penneri ATCC 35198
+UniRef50_A0A3S4CVP5	1	1.000	1.000	0.286	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A655WB76	1	0.935	0.935	0.835	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A264VU06	1	0.963	0.963	0.953	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_D1P4N0	1	1.000	1.000	0.934	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_UPI0015F48DBD	1	1.000	1.000	0.479	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_W7WI75	1	1.000	1.000	0.890	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q7N089	1	0.699	0.699	0.931	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0A2RB48	1	1.000	1.000	0.593	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_D1NXV3	1	0.416	0.416	0.948	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A1A9Z129	1	0.973	0.973	0.267	7398	species	Glossina pallidipes	Metazoa;Arthropoda;Glossinidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Diptera;-_Brachycera;-_Muscomorpha;-_Eremoneura;-_Cyclorrhapha;-_Schizophora;-_Calyptratae;-_Hippoboscoidea;f_Glossinidae;g_Glossina;-_Glossina;s_Glossina pallidipes
+UniRef50_A0A3S4EY94	1	0.450	0.450	0.958	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A085ARV4	1	0.944	0.944	0.960	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_O31087	1	0.997	0.997	0.218	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A379FGU1	1	0.657	0.657	0.962	584	species	Proteus mirabilis	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus mirabilis
+UniRef50_A0A1B7JR59	1	0.977	0.977	0.933	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_M7CIV3	1	0.417	0.417	0.921	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A533QSH7	1	0.291	0.291	0.701	2053492	species	Candidatus Accumulibacter sp.	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;-_unclassified Candidatus Accumulibacter;s_Candidatus Accumulibacter sp.
+UniRef50_A0A0L0GXZ8	1	0.856	0.856	0.983	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A379F6D5	1	0.976	0.976	0.912	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q7N8N1	2	1.000	2.000	0.941	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1W9F5I1	1	0.976	0.976	0.705	1449981	strain	Serratia nematodiphila DZ0503SBS1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia nematodiphila;-_Serratia nematodiphila DZ0503SBS1
+UniRef50_P17856	1	1.000	1.000	0.937	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8ZIQ4	1	1.000	1.000	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_M7D410	1	1.000	1.000	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A8B0SYI4	1	0.387	0.387	1.000	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_Q6FA32	1	1.000	1.000	0.254	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A447J6T7	1	1.000	1.000	0.278	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A381GZ07	1	0.403	0.403	0.885	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A3B0IRS4	1	0.928	0.928	0.479	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A9MI98	1	0.994	0.994	0.978	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0U2X0T2	1	1.000	1.000	0.928	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A376L577	1	0.434	0.434	0.933	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A377K3H9	1	0.695	0.695	0.958	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A0F7HHP0	1	1.000	1.000	0.642	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9IQK1	1	0.983	0.983	0.868	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A379GHS6	1	0.976	0.976	0.783	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A3S4F284	1	1.000	1.000	0.278	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_Q9S5G5	1	0.766	0.766	0.994	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P21866	1	0.996	0.996	0.961	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A6M1CM95	1	0.800	0.800	0.920	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A1B8HRX2	1	0.870	0.870	0.921	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A1Y2XNA5	1	0.468	0.468	0.888	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A5M9RCM8	1	0.998	0.998	0.611	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A3A1WNA6	1	0.996	0.996	0.956	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1M9MKV8	1	1.000	1.000	0.639	1185650	subspecies	Mycobacteroides abscessus subsp. abscessus	unknown;Actinobacteria;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_Mycobacteroides abscessus;-_Mycobacteroides abscessus subsp. abscessus
+UniRef50_P0ADU0	1	1.000	1.000	0.942	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A8B0SUJ3	1	1.000	1.000	0.258	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_UPI00063B1151	1	0.553	0.553	0.952	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A084A2C0	1	0.059	0.059	0.831	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0B6XBF3	1	1.000	1.000	1.000	40576	species	Xenorhabdus bovienii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Xenorhabdus;s_Xenorhabdus bovienii
+UniRef50_J2DI74	1	0.991	0.991	0.847	1162296	strain	Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940
+UniRef50_M7CE44	1	1.000	1.000	0.936	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A2X3FA30	1	0.699	0.699	0.282	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A663BJA5	1	0.836	0.836	0.566	1463164	subspecies	Klebsiella quasipneumoniae subsp. similipneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella quasipneumoniae;-_Klebsiella quasipneumoniae subsp. similipneumoniae
+UniRef50_Q8XCH4	1	0.988	0.988	0.963	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0N0ZA06	1	0.990	0.990	0.972	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A655D9V5	2	1.000	1.974	0.629	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_A0A3R8P8L4	1	1.000	1.000	0.976	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A198GDH7	1	1.000	1.000	0.967	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A240ENF6	1	0.999	0.999	0.977	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A655ZQM1	1	0.896	0.896	0.958	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A345D929	1	0.997	0.997	0.885	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A447IZ42	1	1.000	1.000	0.397	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A645HVH5	1	0.335	0.335	0.997	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_P03013	1	0.968	0.968	0.941	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A376U0I5	1	1.000	1.000	0.239	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2C5TMM6	1	1.000	1.000	0.513	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A6J7TK82	1	0.535	0.535	0.811	449393	species	freshwater metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_freshwater metagenome
+UniRef50_A0A3S4GV22	1	0.459	0.459	0.961	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A377DVG0	1	0.933	0.933	0.999	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A3S5D4T3	1	1.000	1.000	0.393	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_Q6D1H8	1	0.986	0.986	0.961	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A377PMY5	1	0.185	0.185	1.000	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A759RAK5	1	0.634	0.634	0.755	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A822TKR9	1	1.000	1.000	0.971	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_Q7CGA7	1	0.990	0.990	0.858	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_M7D733	1	0.838	0.838	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A8B3GFH4	1	0.923	0.923	0.319	103796	no rank	Pseudomonas syringae pv. actinidiae	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 1;s_Pseudomonas syringae;-_Pseudomonas syringae group pathovars incertae sedis;-_Pseudomonas syringae pv. actinidiae
+UniRef50_P0ADC7	1	0.997	0.997	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8ZBL1	1	0.791	0.791	0.922	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A1B8HA22	1	1.000	1.000	1.000	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A3D9URM3	1	0.615	0.615	0.953	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A514EK78	1	0.959	0.959	0.892	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A376SJH1	1	0.549	0.549	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q59545	1	0.985	0.985	0.957	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0A5SLI7	1	1.000	1.000	0.987	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A379V0X1	1	0.799	0.799	0.942	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0A698	1	1.000	1.000	0.725	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4DBN4	1	1.000	1.000	0.951	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A1Z1ST10	1	1.000	1.000	0.978	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P45395	1	1.000	1.000	0.925	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2X2T259	1	1.000	1.000	0.927	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2C5TP54	2	1.000	1.863	0.596	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A1B7JQK2	1	0.962	0.962	0.945	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0H3CUE3	1	1.000	1.000	0.875	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A379F8U0	1	0.662	0.662	0.980	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A645FJ58	1	0.815	0.815	0.395	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A0H2VF98	1	0.977	0.977	0.372	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A484ZHL6	1	0.725	0.725	0.975	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q8ZFX5	1	0.977	0.977	0.691	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4E6V0	1	1.000	1.000	0.904	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A0A1B8HAN4	1	0.969	0.969	0.990	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A1A9AZK8	1	0.986	0.986	0.458	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P96166	1	0.965	0.965	0.955	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0B4ZQE2	1	1.000	1.000	0.212	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A1M7A6T1	1	1.000	1.000	0.923	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_Q7N8V1	1	1.000	1.000	0.803	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0A9K5	1	0.647	0.647	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0E3ZRX6	1	0.992	0.992	0.876	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A240CD85	1	1.000	1.000	0.616	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A078LHY1	1	0.994	0.994	0.958	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A084ZSB0	1	0.908	0.908	0.928	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A481QEH1	1	0.461	0.461	0.851	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3S4FL06	1	1.000	1.000	0.776	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P0AFW8	1	1.000	1.000	0.926	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A198FWI8	1	0.950	0.950	0.961	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A379F6C8	1	1.000	1.000	0.967	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q46812	1	0.998	0.998	0.979	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1M7LTI5	1	0.685	0.685	0.978	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A7Z8D7L2	1	0.671	0.671	0.934	584	species	Proteus mirabilis	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus mirabilis
+UniRef50_A0A0H2YBA3	1	0.859	0.859	0.682	632	species	Yersinia pestis	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Yersinia;-_Yersinia pseudotuberculosis complex;s_Yersinia pestis
+UniRef50_Q8ZP52	1	0.633	0.633	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0A8A0	1	1.000	1.000	0.411	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0AGH4	1	1.000	1.000	0.948	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4U9IWA5	1	0.840	0.840	0.550	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A822TMX0	1	1.000	1.000	0.601	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_M7CE87	1	1.000	1.000	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A645IVK7	1	0.742	0.742	0.701	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_Q8GLH5	1	0.975	0.975	0.777	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A447J8N5	1	0.267	0.267	0.872	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_M7CH31	1	1.000	1.000	0.955	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A330ETM7	1	1.000	1.000	0.761	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A6M1CL23	1	1.000	1.000	0.960	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A378AJQ3	1	1.000	1.000	0.699	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A379FRL3	1	0.982	0.982	0.846	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M7CXM5	1	1.000	1.000	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_P94958	1	1.000	1.000	0.959	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0H5LRU5	1	0.845	0.845	0.870	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A655QKW3	1	0.744	0.744	0.643	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_UPI00094075D6	1	0.713	0.713	0.939	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A2X1TJ65	1	0.997	0.997	0.526	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8CLT4	1	0.942	0.942	0.587	632	species	Yersinia pestis	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Yersinia;-_Yersinia pseudotuberculosis complex;s_Yersinia pestis
+UniRef50_A0A1R3L1T0	1	0.938	0.938	0.605	93759	species	Corchorus olitorius	Viridiplantae;Streptophyta;Malvaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Malvales;f_Malvaceae;-_Grewioideae;-_Apeibeae;g_Corchorus;s_Corchorus olitorius
+UniRef50_A0A699GEI3	1	0.159	0.159	0.172	118510	species	Tanacetum cinerariifolium	Viridiplantae;Streptophyta;Asteraceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_asterids;-_campanulids;o_Asterales;f_Asteraceae;-_Asteroideae;-_Anthemideae;-_Anthemidinae;g_Tanacetum;s_Tanacetum cinerariifolium
+UniRef50_A0A377PQE3	1	0.991	0.991	0.652	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q8XE74	1	1.000	1.000	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_M7CD80	1	1.000	1.000	1.000	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A2C5TN90	1	1.000	1.000	0.772	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0D8L3A3	1	1.000	1.000	0.955	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_Q2C9L8	1	0.995	0.995	0.970	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M7CIN3	1	0.500	0.500	0.990	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_Q7N7B3	1	0.988	0.988	0.774	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A1Z1T117	1	1.000	1.000	0.922	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P72241	1	0.992	0.992	0.512	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q6CZ92	1	0.489	0.489	0.959	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_X2HIM7	1	1.000	1.000	0.946	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C7BLS5	1	0.994	0.994	0.925	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P15038	1	0.522	0.522	0.967	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_P0AA39	1	0.994	0.994	0.940	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A379WJK2	1	0.689	0.689	0.407	59201	subspecies	Salmonella enterica subsp. enterica	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica
+UniRef50_A0A3S5DP53	1	0.793	0.793	1.000	545	species	Citrobacter koseri	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter koseri
+UniRef50_P76459	1	0.954	0.954	0.969	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8ZJ10	1	1.000	1.000	0.801	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R5Y997	1	0.585	0.585	0.837	1262736	species	Bacteroides sp. CAG:144	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:144
+UniRef50_A0A433ZTF5	1	1.000	1.000	0.233	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A6G6SKC8	1	0.829	0.829	0.960	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A1JJ54	1	0.856	0.856	0.877	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_M7CNW9	1	1.000	1.000	0.947	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A655EB83	1	1.000	1.000	0.945	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_Q6D1Y1	1	0.987	0.987	0.992	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2C5TRV8	1	0.409	0.409	0.996	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A2X1TFB5	1	1.000	1.000	0.909	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_S3J085	1	0.981	0.981	0.986	566551	strain	Cedecea davisae DSM 4568	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cedecea;s_Cedecea davisae;-_Cedecea davisae DSM 4568
+UniRef50_A0A2C5TR10	1	1.000	1.000	0.955	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_W6VVZ4	1	0.992	0.992	0.914	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q46808	1	0.989	0.989	0.948	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A656AH94	1	1.000	1.000	0.899	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A140NQV2	1	0.712	0.712	0.890	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_W1DUJ6	1	0.996	0.996	0.940	1432552	strain	Klebsiella pneumoniae IS43	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae IS43
+UniRef50_A0A2X2BI59	1	0.935	0.935	0.596	584	species	Proteus mirabilis	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus mirabilis
+UniRef50_A0A085JC18	1	1.000	1.000	0.953	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3S4CSG3	1	1.000	1.000	0.578	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_M7CY24	1	1.000	1.000	0.240	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_C4K4J2	1	0.998	0.998	0.943	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A655CC17	1	0.260	0.260	0.871	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2C5SL20	1	1.000	1.000	0.980	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0A2WLA5	1	0.641	0.641	0.290	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A0A2R2G1	1	1.000	1.000	0.538	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_P61887	1	1.000	1.000	0.973	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A6VQA3	1	0.845	0.845	0.935	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P08245	1	1.000	1.000	0.937	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_D4GML0	1	1.000	1.000	0.226	706191	strain	Pantoea ananatis LMG 20103	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea ananatis;-_Pantoea ananatis LMG 20103
+UniRef50_A0A2C5T216	1	1.000	1.000	0.621	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_P31979	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q56062	1	0.997	0.997	0.917	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI00112F78DE	1	0.528	0.528	0.964	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_P0AFA0	1	0.989	0.989	0.910	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P32131	1	1.000	1.000	0.968	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q7N6V5	1	0.778	0.778	0.954	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2Y5APW4	1	0.357	0.357	0.937	623	species	Shigella flexneri	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri
+UniRef50_P16701	1	0.986	0.986	0.914	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0A2RDL2	1	1.000	1.000	1.000	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2C5T1G1	1	1.000	1.000	0.971	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A1V5K412	1	0.841	0.841	0.776	1852830	species	Candidatus Aerophobetes bacterium ADurb.Bin490	unknown;Candidatus Aerophobetes;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Aerophobetes;-_unclassified Aerophobetes;s_Candidatus Aerophobetes bacterium ADurb.Bin490
+UniRef50_E2PF95	1	0.721	0.721	0.933	546267	strain	Neisseria polysaccharea ATCC 43768	unknown;Proteobacteria;Neisseriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria polysaccharea;-_Neisseria polysaccharea ATCC 43768
+UniRef50_A0A655YUK4	1	0.709	0.709	0.727	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_P09029	1	0.992	0.992	0.988	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_P27735	1	0.991	0.991	0.928	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P11539	1	0.996	0.996	0.930	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A5M9R5Z9	1	0.948	0.948	1.000	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A656BNL7	1	0.785	0.785	0.479	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_A0A239SR74	1	1.000	1.000	0.711	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_T1HDE9	1	0.996	0.996	0.762	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_G8LGZ5	1	0.385	0.385	0.767	299767	species	Enterobacter ludwigii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter ludwigii
+UniRef50_A0A447J3W5	2	0.985	1.044	0.933	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_M7D5S7	1	1.000	1.000	0.973	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A141RJ08	1	0.879	0.879	0.982	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A447J1L4	1	0.966	0.966	1.000	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A655E8U5	1	0.838	0.838	0.568	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_C0AWG5	1	1.000	1.000	0.577	471881	strain	Proteus penneri ATCC 35198	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus penneri;-_Proteus penneri ATCC 35198
+UniRef50_A0A264VS33	1	0.979	0.979	0.965	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_M1SRS9	1	1.000	1.000	0.652	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A0A485CZ62	1	0.744	0.744	0.971	580	species	Kluyvera cryocrescens	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Kluyvera;s_Kluyvera cryocrescens
+UniRef50_Q8X5C4	1	0.962	0.962	0.499	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7H4N1G1	1	0.728	0.728	0.643	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A1H3YGT1	1	0.998	0.998	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0D0QX51	1	0.987	0.987	0.905	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A663BME9	1	1.000	1.000	0.580	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A822TC14	1	0.239	0.239	0.944	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_D4B7B0	3	0.987	2.414	0.384	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A7H4SF92	1	0.514	0.514	0.923	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_K8CX20	1	0.619	0.619	0.560	28141	species	Cronobacter sakazakii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter sakazakii
+UniRef50_A0A3S4CRZ2	1	0.948	0.948	0.682	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_P43329	1	0.789	0.789	0.949	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4CX27	1	0.602	0.602	0.905	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A433ZX90	1	1.000	1.000	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A2C5TSY0	1	1.000	1.000	0.937	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q328L4	1	0.657	0.657	0.949	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0D8L9C0	2	1.000	1.376	0.704	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_D4GMH0	1	0.822	0.822	0.558	706191	strain	Pantoea ananatis LMG 20103	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea ananatis;-_Pantoea ananatis LMG 20103
+UniRef50_A0A0D8L3Z7	2	1.000	1.119	0.647	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A2X2DCJ2	1	1.000	1.000	0.807	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_K8CTZ7	1	0.766	0.766	0.518	1208663	strain	Cronobacter sakazakii 701	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter sakazakii;-_Cronobacter sakazakii 701
+UniRef50_UPI00164583D6	1	0.873	0.873	0.328	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A4R5P851	1	0.988	0.988	0.783	948102	species	Mycobacteroides franklinii	unknown;Actinobacteria;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_Mycobacteroides franklinii
+UniRef50_A0A1B8HNS0	1	0.993	0.993	0.968	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A653BIN4	1	0.065	0.065	0.905	64391	species	Callosobruchus maculatus	Metazoa;Arthropoda;Chrysomelidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Coleoptera;-_Polyphaga;-_Cucujiformia;-_Chrysomeloidea;f_Chrysomelidae;-_Bruchinae;-_Bruchini;g_Callosobruchus;s_Callosobruchus maculatus
+UniRef50_P15288	1	1.000	1.000	0.967	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_V9W791	1	0.840	0.840	0.910	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2Y4Y8V3	1	0.418	0.418	0.944	623	species	Shigella flexneri	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri
+UniRef50_Q5QU32	1	0.999	0.999	0.875	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A6M1CKQ9	1	1.000	1.000	0.783	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_G2H116	1	0.299	0.299	0.930	1005043	strain	Candidatus Regiella insecticola 5.15	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Enterobacteriaceae incertae sedis;-_ant, tsetse, mealybug, aphid, etc. endosymbionts;-_aphid secondary symbionts;g_Candidatus Regiella;s_Candidatus Regiella insecticola;-_Candidatus Regiella insecticola 5.15
+UniRef50_A0A2T4HWY7	1	1.000	1.000	0.279	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A485B0T4	1	1.000	1.000	0.695	577	species	Raoultella terrigena	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Raoultella;s_Raoultella terrigena
+UniRef50_A0A655ZEQ9	1	1.000	1.000	0.978	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A433S9U9	1	0.990	0.990	0.976	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A655E109	1	1.000	1.000	0.872	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_K8W6M9	1	0.992	0.992	0.228	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A822TIA3	1	1.000	1.000	0.956	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A447N6D0	1	0.640	0.640	0.956	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0AB60	1	0.997	0.997	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A085JAT8	1	0.993	0.993	0.909	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q7N548	1	1.000	1.000	0.925	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2S1BHW9	1	1.000	1.000	0.961	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A6F8Z768	1	1.000	1.000	0.937	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A085G0N2	1	0.675	0.675	0.951	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A2X1UG55	1	1.000	1.000	0.580	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0A2R503	1	0.662	0.662	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A083ZZ54	1	0.997	0.997	0.968	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0D8L124	1	0.886	0.886	0.267	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A1T095	1	0.988	0.988	0.968	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1B8H1G2	1	1.000	1.000	0.848	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_P04693	1	0.997	0.997	0.960	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_T4VTK1	1	0.991	0.991	0.994	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A656BEC9	1	0.979	0.979	0.938	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_P69680	1	0.998	0.998	0.915	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2C5TI20	1	1.000	1.000	0.929	1903414	family	Morganellaceae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae
+UniRef50_A0A2T1LKK8	1	0.989	0.989	0.900	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q7N0G0	1	0.997	0.997	0.946	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1C3HEZ4	1	0.913	0.913	0.960	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P28787	1	0.998	0.998	0.958	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0018CC8568	1	0.998	0.998	0.331	139649	species	Teleopsis dalmanni	Metazoa;Arthropoda;Diopsidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Diptera;-_Brachycera;-_Muscomorpha;-_Eremoneura;-_Cyclorrhapha;-_Schizophora;-_Acalyptratae;-_Diopsoidea;f_Diopsidae;g_Teleopsis;s_Teleopsis dalmanni
+UniRef50_A0A1B5EZS4	1	1.000	1.000	0.928	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q8ZGJ0	1	0.983	0.983	0.883	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q7MY02	1	0.536	0.536	0.716	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0D8L893	1	1.000	1.000	1.000	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A0A2RF98	1	1.000	1.000	0.959	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q7N013	1	0.969	0.969	0.970	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_W7WZG1	1	1.000	1.000	0.997	1437444	species	Hydrogenophaga sp. T4	unknown;Proteobacteria;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Hydrogenophaga;-_unclassified Hydrogenophaga;s_Hydrogenophaga sp. T4
+UniRef50_M7CE19	1	1.000	1.000	0.978	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_UPI001389FF10	1	0.870	0.870	0.975	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A2X2E351	1	1.000	1.000	0.894	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0D8L8M2	1	1.000	1.000	0.990	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A0A2VUH5	1	0.722	0.722	0.654	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A0U1HB29	1	0.299	0.299	0.973	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P39408	1	0.996	0.996	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q59546	1	0.301	0.301	0.602	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_UPI00061FD693	1	1.000	1.000	0.250	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A2X2T3R0	1	0.998	0.998	0.379	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_P36638	1	0.996	0.996	0.938	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A376VCM4	1	0.992	0.992	0.815	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A143HX56	1	1.000	1.000	0.892	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A645H387	1	0.577	0.577	0.877	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2X1TGN0	1	1.000	1.000	0.961	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_B2VC55	1	1.000	1.000	0.957	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A2X2DPG2	1	0.982	0.982	0.809	587	species	Providencia rettgeri	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Providencia;s_Providencia rettgeri
+UniRef50_M7CA07	1	1.000	1.000	0.938	1239989	strain	Morganella morganii SC01	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii;-_Morganella morganii SC01
+UniRef50_A0A3D3HR07	1	1.000	1.000	0.893	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A7Z2TN41	1	1.000	1.000	1.000	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P13009	1	0.998	0.998	0.921	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5M9R396	1	0.429	0.429	0.986	581	genus	Morganella	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+UniRef50_A0A447J2W3	1	1.000	1.000	0.951	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0D8L8F6	1	1.000	1.000	0.843	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_P77499	1	1.000	1.000	0.952	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A447QVP9	1	0.769	0.769	0.962	61652	species	Serratia rubidaea	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia rubidaea
+UniRef50_A0A077PGP2	1	1.000	1.000	0.964	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B1FPA2	1	0.440	0.440	0.845	87882	species group	Burkholderia cepacia complex	unknown;Proteobacteria;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_Burkholderia cepacia complex
+UniRef50_Q06067	1	0.987	0.987	0.899	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A653KXV7	2	0.754	1.309	0.371	654	species	Aeromonas veronii	unknown;Proteobacteria;Aeromonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Aeromonadales;f_Aeromonadaceae;g_Aeromonas;s_Aeromonas veronii
+UniRef50_A0A0A2W1I8	1	1.000	1.000	0.695	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0ABS3	1	1.000	1.000	0.949	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P25728	1	0.949	0.949	0.631	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_C9XXV0	1	0.976	0.976	0.913	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4GUU9	1	0.819	0.819	0.927	582	species	Morganella morganii	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+UniRef50_A0A663BAY4	1	1.000	1.000	0.943	1463164	subspecies	Klebsiella quasipneumoniae subsp. similipneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella quasipneumoniae;-_Klebsiella quasipneumoniae subsp. similipneumoniae
+UniRef50_A0A068QNU2	1	0.969	0.969	0.936	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

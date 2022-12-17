@@ -1,0 +1,538 @@
+UniRef50_A0A377K370	1	0.411	0.411	0.422	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_X1WXL2	1	0.787	0.787	0.286	7029	species	Acyrthosiphon pisum	Metazoa;Arthropoda;Aphididae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Paraneoptera;o_Hemiptera;-_Sternorrhyncha;-_Aphidomorpha;-_Aphidoidea;f_Aphididae;-_Aphidinae;-_Macrosiphini;g_Acyrthosiphon;s_Acyrthosiphon pisum
+UniRef50_A0A4P8QKD9	1	1.000	1.000	0.925	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_D0ZSY9	1	1.000	1.000	0.935	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0H3KYF0	1	0.904	0.904	0.713	932677	strain	Pantoea ananatis AJ13355	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea ananatis;-_Pantoea ananatis AJ13355
+UniRef50_A0A3S4XVZ0	1	1.000	1.000	0.202	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q8CKG4	1	0.531	0.531	0.433	1649845	species group	Yersinia pseudotuberculosis complex	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Yersinia;-_Yersinia pseudotuberculosis complex
+UniRef50_A0A1S6LRK2	1	0.359	0.359	0.937	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_G8LNA7	1	0.331	0.331	0.998	299767	species	Enterobacter ludwigii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter ludwigii
+UniRef50_P02930	1	0.943	0.943	0.903	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A829P310	1	1.000	1.000	0.747	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_UPI00146E4531	1	1.000	1.000	0.663	2703884	species	Rouxiella aceris	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Rouxiella;s_Rouxiella aceris
+UniRef50_Q0WJ13	1	0.795	0.795	0.666	632	species	Yersinia pestis	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Yersinia;-_Yersinia pseudotuberculosis complex;s_Yersinia pestis
+UniRef50_A0A4U9WCY6	2	1.000	1.395	0.928	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A0P9Y1T1	1	0.961	0.961	0.246	251698	species subgroup	Pseudomonas syringae group genomosp. 2	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 2
+UniRef50_A0A6G5YFQ4	1	0.979	0.979	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A370S8X2	1	1.000	1.000	0.910	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A2L0IKR7	1	0.993	0.993	0.754	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P39834	1	1.000	1.000	0.927	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A1S8CDT7	1	1.000	1.000	0.833	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A5E6YVY5	1	1.000	1.000	0.970	294	species	Pseudomonas fluorescens	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_A0A542BT27	2	0.997	1.503	0.777	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A6G5YB33	1	1.000	1.000	0.989	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0ADG6	1	1.000	1.000	0.954	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_V5YUR2	1	1.000	1.000	0.943	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A4U9W660	1	0.789	0.789	0.336	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_P52102	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0ADU9	1	0.986	0.986	0.979	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E0WV14	1	0.518	0.518	0.914	138073	species	Candidatus Regiella insecticola	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Enterobacteriaceae incertae sedis;-_ant, tsetse, mealybug, aphid, etc. endosymbionts;-_aphid secondary symbionts;g_Candidatus Regiella;s_Candidatus Regiella insecticola
+UniRef50_A0A2X2GE95	1	0.263	0.263	0.528	137545	species	Serratia quinivorans	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia quinivorans
+UniRef50_A0A376VFJ8	1	0.996	0.996	0.944	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_K8CST5	1	0.422	0.422	0.786	1208663	strain	Cronobacter sakazakii 701	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter sakazakii;-_Cronobacter sakazakii 701
+UniRef50_A0A0F7H7Q4	1	1.000	1.000	0.941	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1C3HI05	1	1.000	1.000	0.924	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A378AE12	1	1.000	1.000	0.438	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A419N7T2	1	1.000	1.000	0.842	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_F3BMI7	1	0.996	0.996	0.943	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E3DDH0	1	1.000	1.000	0.950	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_K8CTH1	1	0.564	0.564	0.993	28141	species	Cronobacter sakazakii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter sakazakii
+UniRef50_A0A1Q5VB59	1	0.966	0.966	0.481	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9WND5	1	1.000	1.000	0.968	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A085ABZ6	1	1.000	1.000	0.915	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_E5YJ65	1	0.997	0.997	0.968	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A6VMN7	1	1.000	1.000	0.957	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_G9Y8G7	1	1.000	1.000	0.963	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A071M0B8	1	0.994	0.994	0.981	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3S4X7F9	1	1.000	1.000	0.940	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_B7LDM3	1	0.294	0.294	0.819	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0G8B9I5	1	1.000	1.000	0.900	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A4U9VWH6	1	1.000	1.000	0.228	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_UPI001921FA6F	1	0.670	0.670	0.960	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A3S4GAQ6	1	1.000	1.000	0.902	61652	species	Serratia rubidaea	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia rubidaea
+UniRef50_I4KFE6	1	0.997	0.997	0.934	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A3S4JSP8	1	0.995	0.995	0.282	61652	species	Serratia rubidaea	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia rubidaea
+UniRef50_A0A0A2VUR9	1	1.000	1.000	0.650	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_Q6D208	1	0.996	0.996	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A8GI11	1	0.996	0.996	0.954	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_UPI001111D952	1	0.272	0.272	0.686	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A3S4FSB9	1	1.000	1.000	0.965	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0F3UIH4	1	1.000	1.000	0.948	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P76108	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P76655	1	0.995	0.995	0.958	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0F7D145	1	1.000	1.000	0.939	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_A0A0F6RI27	1	0.986	0.986	0.885	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A1JKC7	1	0.960	0.960	0.924	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1B0C5K0	1	1.000	1.000	0.336	7393	genus	Glossina	Metazoa;Arthropoda;Glossinidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Diptera;-_Brachycera;-_Muscomorpha;-_Eremoneura;-_Cyclorrhapha;-_Schizophora;-_Calyptratae;-_Hippoboscoidea;f_Glossinidae;g_Glossina
+UniRef50_Q8XBK3	1	0.997	0.997	0.953	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9UNA3	4	1.000	2.594	0.700	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_W1X698	1	0.550	0.550	0.951	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A0M2GZG3	1	1.000	1.000	0.361	92835	species	Microbacterium ketosireducens	unknown;Actinobacteria;Microbacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;s_Microbacterium ketosireducens
+UniRef50_U2MCY2	1	0.865	0.865	0.952	1332070	strain	Serratia fonticola AU-P3(3)	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola;-_Serratia fonticola AU-P3(3)
+UniRef50_U2MC49	1	0.950	0.950	0.986	1332070	strain	Serratia fonticola AU-P3(3)	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola;-_Serratia fonticola AU-P3(3)
+UniRef50_A0A1R3L3D2	2	0.879	1.044	0.466	93759	species	Corchorus olitorius	Viridiplantae;Streptophyta;Malvaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Malvales;f_Malvaceae;-_Grewioideae;-_Apeibeae;g_Corchorus;s_Corchorus olitorius
+UniRef50_UPI0016490A74	1	1.000	1.000	0.676	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_Q3JR61	1	0.333	0.333	0.891	320372	strain	Burkholderia pseudomallei 1710b	unknown;Proteobacteria;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_pseudomallei group;s_Burkholderia pseudomallei;-_Burkholderia pseudomallei 1710b
+UniRef50_A0A663BGY9	1	0.962	0.962	0.765	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A389MGK1	1	0.996	0.996	0.468	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9VBI0	1	1.000	1.000	0.427	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1C4GPI5	1	0.975	0.975	0.942	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_E5YFC2	1	0.997	0.997	0.933	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P11671	1	1.000	1.000	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A654CWE5	1	1.000	1.000	0.493	2653184	species	Enterobacterales bacterium 8AC	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;-_unclassified Enterobacterales;s_Enterobacterales bacterium 8AC
+UniRef50_A0A4U9W639	1	0.935	0.935	0.501	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A085U5T6	1	1.000	1.000	0.950	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4U9W633	1	0.950	0.950	0.907	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A377LU62	1	0.481	0.481	0.831	550	species	Enterobacter cloacae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter cloacae
+UniRef50_A0A559T7Y1	4	1.000	3.179	0.895	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A345IR65	1	0.842	0.842	0.681	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A4U9WMT5	2	1.000	1.902	0.213	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1W9F5S8	1	1.000	1.000	0.214	1449981	strain	Serratia nematodiphila DZ0503SBS1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia nematodiphila;-_Serratia nematodiphila DZ0503SBS1
+UniRef50_A0A376Y9E7	1	1.000	1.000	0.243	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A379YPL9	1	1.000	1.000	0.664	137545	species	Serratia quinivorans	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia quinivorans
+UniRef50_A0A448SNA7	1	0.442	0.442	0.339	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A656BYM2	1	0.961	0.961	0.693	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_P72241	1	0.992	0.992	0.936	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A656BIU0	1	0.988	0.988	0.564	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_A0A379T514	1	1.000	1.000	0.277	59203	subspecies	Salmonella enterica subsp. arizonae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. arizonae
+UniRef50_W1EK33	1	0.998	0.998	0.940	1432554	strain	Klebsiella pneumoniae IS53	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae IS53
+UniRef50_A0A0F7H7J0	1	0.994	0.994	0.965	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A3M3JZC1	1	0.991	0.991	0.953	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9W6B9	1	1.000	1.000	0.414	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_Q83QI6	1	0.971	0.971	0.952	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P00803	1	1.000	1.000	0.980	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2W4R1Q6	1	0.974	0.974	0.933	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3M2ZAW8	1	1.000	1.000	0.188	59511	no rank	Pseudomonas syringae pv. maculicola	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;s_Pseudomonas syringae group genomosp. 3;-_Pseudomonas syringae pv. maculicola
+UniRef50_A0A8B3GFH4	1	0.925	0.925	0.497	103796	no rank	Pseudomonas syringae pv. actinidiae	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 1;s_Pseudomonas syringae;-_Pseudomonas syringae group pathovars incertae sedis;-_Pseudomonas syringae pv. actinidiae
+UniRef50_A0A654DWM3	1	1.000	1.000	1.000	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A4U9W629	1	1.000	1.000	0.234	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A852QGP0	1	1.000	1.000	0.957	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A6G5YBM7	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0H3KYV3	1	0.750	0.750	0.943	932677	strain	Pantoea ananatis AJ13355	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;s_Pantoea ananatis;-_Pantoea ananatis AJ13355
+UniRef50_A0A0U1HU29	1	0.995	0.995	0.950	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P10902	1	0.987	0.987	0.988	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4V6DI75	1	0.581	0.581	0.180	1306861	species	Colletotrichum tanaceti	Fungi;Ascomycota;Glomerellaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Glomerellales;f_Glomerellaceae;g_Colletotrichum;-_Colletotrichum destructivum species complex;s_Colletotrichum tanaceti
+UniRef50_A0A822TGH2	1	0.891	0.891	0.826	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_UPI000AED578C	1	0.972	0.972	0.967	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A0J1LJR9	1	0.988	0.988	0.974	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0KI80	1	0.994	0.994	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P55734	1	0.989	0.989	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A699VB21	1	1.000	1.000	0.935	118510	species	Tanacetum cinerariifolium	Viridiplantae;Streptophyta;Asteraceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_asterids;-_campanulids;o_Asterales;f_Asteraceae;-_Asteroideae;-_Anthemideae;-_Anthemidinae;g_Tanacetum;s_Tanacetum cinerariifolium
+UniRef50_A0A4P8U6A3	1	0.902	0.902	0.904	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A221FT69	1	1.000	1.000	0.762	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A1M9ZBA8	1	1.000	1.000	0.803	1185650	subspecies	Mycobacteroides abscessus subsp. abscessus	unknown;Actinobacteria;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacteroides;s_Mycobacteroides abscessus;-_Mycobacteroides abscessus subsp. abscessus
+UniRef50_UPI0019F23CF3	1	1.000	1.000	0.869	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A345IRW0	1	1.000	1.000	0.958	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A663BEL5	1	0.745	0.745	0.645	1463164	subspecies	Klebsiella quasipneumoniae subsp. similipneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella quasipneumoniae;-_Klebsiella quasipneumoniae subsp. similipneumoniae
+UniRef50_A0A0X8S1Y0	1	1.000	1.000	0.867	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A656AFA5	1	1.000	1.000	0.899	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_P45511	1	1.000	1.000	0.953	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0L0GQN3	1	1.000	1.000	0.983	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A822TC14	2	0.990	1.505	0.466	624	species	Shigella sonnei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella sonnei
+UniRef50_B2PZ48	1	0.958	0.958	0.924	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0A2W1I8	1	1.000	1.000	0.697	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2D0L8A6	1	0.997	0.997	0.946	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_W0LAZ5	1	1.000	1.000	0.968	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A6S5X6L2	1	1.000	1.000	1.000	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q2NSF8	1	1.000	1.000	0.932	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G8PLG2	1	1.000	1.000	0.944	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3S4X7D7	1	1.000	1.000	0.969	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_A0A0A2W0M5	1	1.000	1.000	0.454	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_A0A1Q4NYM9	1	0.998	0.998	0.981	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4V1F9F9	1	0.629	0.629	1.000	71655	genus	Brenneria	unknown;Proteobacteria;Pectobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Pectobacteriaceae;g_Brenneria
+UniRef50_A0A6G5YD15	1	0.996	0.996	0.908	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9W7K1	2	0.788	1.523	0.498	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_U2NFI8	1	1.000	1.000	0.959	1332070	strain	Serratia fonticola AU-P3(3)	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola;-_Serratia fonticola AU-P3(3)
+UniRef50_A0A3M3E6F4	1	1.000	1.000	0.923	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_P0AFY0	1	0.997	0.997	0.942	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P46133	1	0.998	0.998	0.916	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C9XY55	1	0.995	0.995	0.933	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2N0VUN9	1	0.754	0.754	0.776	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_D3QP14	1	0.557	0.557	0.863	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A085U3G0	1	0.967	0.967	0.932	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_G8LE32	1	0.481	0.481	0.416	299767	species	Enterobacter ludwigii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter ludwigii
+UniRef50_A0A0K6F8L8	1	0.991	0.991	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A379YI77	1	0.846	0.846	1.000	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_W1ELH5	1	0.952	0.952	0.913	1432554	strain	Klebsiella pneumoniae IS53	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae IS53
+UniRef50_A0A655QM52	1	1.000	1.000	0.914	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A250B6V4	1	0.865	0.865	0.231	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1B5EI37	1	0.373	0.373	0.423	1844093	species	Pseudomonas sp. 22 E 5	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_unclassified Pseudomonas;s_Pseudomonas sp. 22 E 5
+UniRef50_A1JKQ0	1	0.942	0.942	0.941	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q0WD03	1	1.000	1.000	0.951	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A4V6Z326	1	0.960	0.960	0.168	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_V5YUE2	2	0.929	1.638	0.593	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A1S9D0Q5	1	0.489	0.489	0.868	1934255	species	Chromatiales bacterium USCg_Taylor	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Chromatiales;-_unclassified Chromatiales;s_Chromatiales bacterium USCg_Taylor
+UniRef50_A0A655ZBD0	1	0.759	0.759	0.689	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_Q0WD32	1	0.998	0.998	0.917	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0011B2564A	1	1.000	1.000	0.779	635	genus	Edwardsiella	unknown;Proteobacteria;Hafniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Hafniaceae;g_Edwardsiella
+UniRef50_A0A654D3K4	1	0.627	0.627	1.000	2653184	species	Enterobacterales bacterium 8AC	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;-_unclassified Enterobacterales;s_Enterobacterales bacterium 8AC
+UniRef50_W1HQZ2	2	0.987	1.655	0.534	1432561	strain	Klebsiella pneumoniae IS39	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae IS39
+UniRef50_A8GJV0	1	1.000	1.000	0.957	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A1P8VK95	1	0.996	0.996	0.974	487838	no rank	Xanthomonas citri pv. punicae	unknown;Proteobacteria;Xanthomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;-_Xanthomonas citri group;s_Xanthomonas citri;-_Xanthomonas citri pv. punicae
+UniRef50_A0A1C7WAU2	1	1.000	1.000	0.932	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A0F7HHU1	1	1.000	1.000	0.996	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_P77454	1	1.000	1.000	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B6VMN4	1	0.988	0.988	0.935	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A1S8CE87	1	1.000	1.000	1.000	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A447LSL3	1	0.822	0.822	0.617	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1M2U4P7	1	0.985	0.985	0.913	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q32BU5	1	1.000	1.000	0.900	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9UI14	1	0.925	0.925	0.948	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1W9F5G2	1	1.000	1.000	0.787	1449981	strain	Serratia nematodiphila DZ0503SBS1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia nematodiphila;-_Serratia nematodiphila DZ0503SBS1
+UniRef50_A0A370S8M2	1	1.000	1.000	0.926	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P32138	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A447KTJ2	1	0.971	0.971	0.867	618	species	Serratia odorifera	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia odorifera
+UniRef50_P75693	1	1.000	1.000	0.901	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A4U9W5Y3	1	1.000	1.000	0.529	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A087L5Y4	1	0.961	0.961	0.910	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_Q6D9D7	1	0.976	0.976	0.982	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3P8IZL0	1	1.000	1.000	0.530	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q6D272	1	0.993	0.993	0.944	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1Q5VAT3	1	0.933	0.933	0.965	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_V5YUC9	1	0.731	0.731	0.610	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_A0A2Y5BFP8	1	0.989	0.989	1.000	623	species	Shigella flexneri	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri
+UniRef50_Q7AAQ7	1	0.996	0.996	0.936	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A085GJM4	1	1.000	1.000	0.954	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A292AEY1	1	1.000	1.000	0.979	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0L0GH16	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1A8XCY9	1	0.611	0.611	0.290	1860102	species	Candidatus Accumulibacter aalborgensis	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;s_Candidatus Accumulibacter aalborgensis
+UniRef50_A0A4V6Z2G9	2	1.000	1.784	0.374	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_W0L9T0	1	1.000	1.000	0.936	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_E0SCY3	1	0.997	0.997	0.977	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9W764	2	0.594	1.188	0.605	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_B2PZ46	1	0.393	0.393	0.982	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0T9MRK9	1	1.000	1.000	0.935	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9W6S9	1	1.000	1.000	0.514	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A2X3CCM5	1	0.947	0.947	0.930	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A654U524	1	0.961	0.961	0.906	1762	family	Mycobacteriaceae	unknown;Actinobacteria;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Mycobacteriaceae
+UniRef50_G8LEP1	2	0.710	0.895	0.667	299767	species	Enterobacter ludwigii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter ludwigii
+UniRef50_A0A4U9UNH1	1	1.000	1.000	0.227	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A085UA88	1	1.000	1.000	0.960	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1N6MV81	1	1.000	1.000	0.854	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A379FRR9	1	0.994	0.994	0.983	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9WND8	1	0.894	0.894	0.994	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_U2NF19	2	0.758	1.188	0.702	1332070	strain	Serratia fonticola AU-P3(3)	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola;-_Serratia fonticola AU-P3(3)
+UniRef50_A0A3S0Y4P0	1	1.000	1.000	0.501	2042057	species	Pectobacterium polaris	unknown;Proteobacteria;Pectobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Pectobacteriaceae;g_Pectobacterium;s_Pectobacterium polaris
+UniRef50_A0A345IQK3	1	0.935	0.935	0.503	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0U4IZQ1	1	1.000	1.000	0.957	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A663B873	1	0.665	0.665	0.938	1463164	subspecies	Klebsiella quasipneumoniae subsp. similipneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella quasipneumoniae;-_Klebsiella quasipneumoniae subsp. similipneumoniae
+UniRef50_A0A2Y4YEA7	1	0.667	0.667	0.873	623	species	Shigella flexneri	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri
+UniRef50_A0A370S0D6	1	1.000	1.000	0.970	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0J1LYF4	1	0.976	0.976	1.000	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_UPI00159BDBF0	1	0.835	0.835	0.394	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_A0A2N9MKG5	1	0.747	0.747	0.438	2043166	species	Candidatus Sulfopaludibacter sp. SbA6	unknown;Acidobacteria;Solibacteraceae	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Acidobacteriia;o_Bryobacterales;f_Solibacteraceae;g_Candidatus Sulfopaludibacter;-_unclassified Candidatus Sulfopaludibacter;s_Candidatus Sulfopaludibacter sp. SbA6
+UniRef50_A0A4U9WMR0	1	1.000	1.000	0.495	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A077ZIV1	1	0.998	0.998	0.701	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A7MMQ6	1	0.549	0.549	0.940	290339	strain	Cronobacter sakazakii ATCC BAA-894	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter sakazakii;-_Cronobacter sakazakii ATCC BAA-894
+UniRef50_A0A3A5JZX6	1	1.000	1.000	0.973	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_P39277	1	0.978	0.978	0.947	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A699XHE4	1	1.000	1.000	0.952	118510	species	Tanacetum cinerariifolium	Viridiplantae;Streptophyta;Asteraceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_asterids;-_campanulids;o_Asterales;f_Asteraceae;-_Asteroideae;-_Anthemideae;-_Anthemidinae;g_Tanacetum;s_Tanacetum cinerariifolium
+UniRef50_D3V8I5	1	1.000	1.000	0.984	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_J2DGF0	1	1.000	1.000	0.983	1162296	strain	Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940
+UniRef50_D4E1F8	1	1.000	1.000	1.000	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A654ADG8	1	1.000	1.000	0.983	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1D7ZQ99	1	0.995	0.995	0.810	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_N6Z631	1	0.480	0.480	0.945	1123367	strain	Thauera linaloolentis 47Lol = DSM 12138	unknown;Proteobacteria;Zoogloeaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Rhodocyclales;f_Zoogloeaceae;g_Thauera;s_Thauera linaloolentis;-_Thauera linaloolentis 47Lol = DSM 12138
+UniRef50_UPI00160A3163	1	0.991	0.991	0.965	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A0H4W524	1	1.000	1.000	0.957	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0F7D0U9	1	1.000	1.000	0.959	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_A0A5C5S0V4	1	1.000	1.000	0.946	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0ADU0	1	1.000	1.000	0.942	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A377WLW3	2	1.000	1.470	0.755	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A085G6M6	1	1.000	1.000	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0U1HBF4	1	1.000	1.000	0.977	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A655CTM3	1	0.895	0.895	0.929	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_A0A655TNR4	1	1.000	1.000	0.504	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A0A2VUE9	2	0.999	1.656	0.415	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_P20083	1	1.000	1.000	0.964	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4U9W6J2	1	0.576	0.576	0.267	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A4U9WMG5	1	0.168	0.168	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A084A2U2	1	1.000	1.000	0.915	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_A0A655EC16	2	1.000	1.497	0.716	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_A0A4U9WP85	1	0.730	0.730	0.556	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_C5B8Q4	1	1.000	1.000	0.928	1903412	family	Hafniaceae	unknown;Proteobacteria;Hafniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Hafniaceae
+UniRef50_P32144	1	0.981	0.981	0.934	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2X3ESC3	1	0.993	0.993	0.423	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_A0A0H2VCK6	3	0.959	2.186	0.319	199310	strain	Escherichia coli CFT073	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli CFT073
+UniRef50_A0A645EKE3	1	1.000	1.000	0.982	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A644W6A9	2	0.829	1.313	0.651	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A1W9F5K8	1	0.512	0.512	0.875	1449981	strain	Serratia nematodiphila DZ0503SBS1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia nematodiphila;-_Serratia nematodiphila DZ0503SBS1
+UniRef50_A0A1Q9VLS3	1	0.568	0.568	0.863	1517881	species	Cellulosimicrobium sp. CUA-896	unknown;Actinobacteria;Promicromonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Promicromonosporaceae;g_Cellulosimicrobium;-_unclassified Cellulosimicrobium;s_Cellulosimicrobium sp. CUA-896
+UniRef50_M3RQ97	1	1.000	1.000	0.657	1159079	strain	Helicobacter pylori HP260BFii	unknown;Proteobacteria;Helicobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Helicobacteraceae;g_Helicobacter;s_Helicobacter pylori;-_Helicobacter pylori HP260BFii
+UniRef50_UPI0009B83989	1	1.000	1.000	0.996	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A379VW61	1	0.451	0.451	1.000	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1B1KV04	1	1.000	1.000	0.923	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4U9V2E2	1	0.930	0.930	0.207	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9W6W3	1	1.000	1.000	0.374	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A292A8S4	1	0.972	0.972	0.954	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0T9UJH5	1	1.000	1.000	0.933	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_K8DBK5	2	1.000	1.590	0.658	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A7Y8XKD5	1	0.987	0.987	0.955	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_W7X1W0	1	0.583	0.583	0.889	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7I0PN08	1	1.000	1.000	0.443	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A447N6D0	1	1.000	1.000	0.944	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8ZH09	1	1.000	1.000	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A127MY99	1	1.000	1.000	0.942	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A655EEM8	1	0.944	0.944	0.938	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A4U9WN84	1	1.000	1.000	0.324	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A0T9R7K7	1	1.000	1.000	0.946	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_E1SE61	1	1.000	1.000	0.916	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2N5EJJ0	1	0.999	0.999	0.947	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P0C0M0	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_W0L613	1	1.000	1.000	0.957	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A1JKB9	1	0.974	0.974	0.992	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_V5YUQ8	1	0.992	0.992	0.944	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_W0LDU9	1	1.000	1.000	0.926	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_UPI00057DAFFB	1	0.522	0.522	0.715	180957	species	Pectobacterium brasiliense	unknown;Proteobacteria;Pectobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Pectobacteriaceae;g_Pectobacterium;s_Pectobacterium brasiliense
+UniRef50_A0A4U9VWL3	1	0.974	0.974	0.165	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_F9RIN9	1	0.991	0.991	0.956	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_G8PLG0	1	0.997	0.997	0.997	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_D4E2L4	1	1.000	1.000	0.903	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A6I1L7X8	1	0.789	0.789	0.778	306	species	Pseudomonas sp.	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_unclassified Pseudomonas;s_Pseudomonas sp.
+UniRef50_A0A068QTP5	1	1.000	1.000	0.969	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3M5VF69	1	0.805	0.805	0.649	663959	no rank	Pseudomonas syringae pv. avii	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 1;s_Pseudomonas syringae;-_Pseudomonas syringae pv. avii
+UniRef50_A0A7G2JT03	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1D3DCY0	1	1.000	1.000	0.965	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0F7H5Z4	1	0.989	0.989	0.983	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A4U9W6Y6	1	0.627	0.627	0.901	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A8GI78	1	1.000	1.000	0.965	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A6G5YD32	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G8LNB8	1	0.414	0.414	0.990	299767	species	Enterobacter ludwigii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter ludwigii
+UniRef50_P0ADT7	1	0.997	0.997	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P77293	1	0.990	0.990	0.958	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1C7W2X8	1	1.000	1.000	0.916	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_P18953	1	1.000	1.000	0.960	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q0I3U8	1	0.997	0.997	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0F7H684	1	1.000	1.000	0.972	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1Q5VAS4	1	1.000	1.000	0.980	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9W6C3	2	1.000	1.412	0.500	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A379YTD1	1	0.897	0.897	0.962	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A645I567	1	0.988	0.988	0.719	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A810ZMA0	1	0.959	0.959	0.610	55212	species	Erwinia rhapontici	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Erwinia;s_Erwinia rhapontici
+UniRef50_A0A292AE98	1	1.000	1.000	0.990	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A381S397	1	0.976	0.976	0.959	408172	species	marine metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_marine metagenome
+UniRef50_A0A380A753	1	0.680	0.680	0.909	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3N0USS2	1	1.000	1.000	0.919	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_UPI000AE87985	1	1.000	1.000	0.485	571	species	Klebsiella oxytoca	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella oxytoca
+UniRef50_A0A656A7F0	1	0.588	0.588	0.738	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_P32684	1	0.834	0.834	0.962	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0A2W1D8	1	0.472	0.472	0.588	1245745	strain	Beauveria bassiana D1-5	Fungi;Ascomycota;Cordycipitaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Pezizomycotina;-_leotiomyceta;-_sordariomyceta;c_Sordariomycetes;-_Hypocreomycetidae;o_Hypocreales;f_Cordycipitaceae;g_Beauveria;s_Beauveria bassiana;-_Beauveria bassiana D1-5
+UniRef50_K8AZZ9	1	0.874	0.874	0.563	1208661	strain	Cronobacter dublinensis 582	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Cronobacter;s_Cronobacter dublinensis;-_Cronobacter dublinensis 582
+UniRef50_A0A2X1SDC7	1	0.494	0.494	0.917	573	species	Klebsiella pneumoniae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae
+UniRef50_C4K4J2	1	0.998	0.998	0.943	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0E8IYL3	1	1.000	1.000	0.983	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A239IPZ7	1	0.980	0.980	0.946	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U2NK78	1	0.987	0.987	0.997	1332070	strain	Serratia fonticola AU-P3(3)	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola;-_Serratia fonticola AU-P3(3)
+UniRef50_A0A3S5F323	1	1.000	1.000	0.441	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A0J2H0U6	1	0.983	0.983	0.957	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2X1NCD3	1	1.000	1.000	0.485	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_P24197	1	1.000	1.000	0.981	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8FDH4	1	0.997	0.997	0.953	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A8GHZ6	1	0.990	0.990	0.986	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P0AD42	1	1.000	1.000	0.972	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4P3AG27	1	1.000	1.000	1.000	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_D4F2J9	1	0.945	0.945	0.930	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_E5YFC0	1	0.984	0.984	0.938	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A4V6Z351	1	0.077	0.077	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_F4MXP9	2	1.000	1.371	0.881	913028	strain	Yersinia enterocolitica W22703	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Yersinia;s_Yersinia enterocolitica;-_Yersinia enterocolitica (type O:9);-_Yersinia enterocolitica W22703
+UniRef50_A0A376WDT9	1	0.929	0.929	0.964	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_L0MIB7	1	0.993	0.993	0.943	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_P0ABV4	1	0.965	0.965	0.933	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A370S503	1	0.636	0.636	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9WPX3	1	1.000	1.000	0.384	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A370SN99	1	0.998	0.998	0.918	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4V6Z3B6	1	1.000	1.000	0.398	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_Q8CZZ5	1	0.985	0.985	0.919	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1W9F5P8	1	0.835	0.835	0.867	1449981	strain	Serratia nematodiphila DZ0503SBS1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia nematodiphila;-_Serratia nematodiphila DZ0503SBS1
+UniRef50_A0A377D8C3	1	0.963	0.963	0.337	562	species	Escherichia coli	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+UniRef50_P26647	1	0.996	0.996	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_J2X152	1	0.863	0.863	0.654	1162296	strain	Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940
+UniRef50_A0A1B1KUW3	1	1.000	1.000	0.910	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_M5EYA2	1	0.253	0.253	0.896	1297569	strain	Mesorhizobium metallidurans STM 2683	unknown;Proteobacteria;Phyllobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Phyllobacteriaceae;g_Mesorhizobium;s_Mesorhizobium metallidurans;-_Mesorhizobium metallidurans STM 2683
+UniRef50_A0A7G9KGA3	1	0.947	0.947	0.752	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2X2RVR6	1	0.847	0.847	0.299	546	species	Citrobacter freundii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;-_Citrobacter freundii complex;s_Citrobacter freundii
+UniRef50_UPI001915CC14	1	0.981	0.981	0.281	1909423	species	Cellulomonas citrea	unknown;Actinobacteria;Cellulomonadaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Cellulomonadaceae;g_Cellulomonas;s_Cellulomonas citrea
+UniRef50_A0A5Y3XEG4	1	1.000	1.000	0.940	28901	species	Salmonella enterica	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica
+UniRef50_A0A645GSG2	1	0.789	0.789	0.943	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A485AS41	1	0.731	0.731	0.799	580	species	Kluyvera cryocrescens	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Kluyvera;s_Kluyvera cryocrescens
+UniRef50_B2VDU8	1	0.991	0.991	0.980	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_O64332	1	0.992	0.992	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4C3GQH2	1	1.000	1.000	0.750	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_G9Y8G3	1	0.998	0.998	0.963	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A4U9W614	1	1.000	1.000	0.252	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1C7WAE3	1	1.000	1.000	0.987	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A448T1Q9	1	1.000	1.000	0.896	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0N1QWE2	1	0.462	0.462	1.000	59201	subspecies	Salmonella enterica subsp. enterica	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica
+UniRef50_Q3JWI9	1	0.742	0.742	0.249	320372	strain	Burkholderia pseudomallei 1710b	unknown;Proteobacteria;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_pseudomallei group;s_Burkholderia pseudomallei;-_Burkholderia pseudomallei 1710b
+UniRef50_A0A4V6KX59	1	0.554	0.554	0.876	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1W5DNX7	1	0.623	0.623	1.000	28151	species	Serratia proteamaculans	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia proteamaculans
+UniRef50_A0A0F7H7A8	1	1.000	1.000	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A3CZS8	1	0.547	0.547	0.597	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0H3B1E3	1	0.997	0.997	0.898	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A857F1E0	1	1.000	1.000	0.921	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A5E6WWW2	1	0.308	0.308	0.823	294	species	Pseudomonas fluorescens	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_A0A645FQD3	1	1.000	1.000	0.946	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_P76773	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI000469975F	1	0.581	0.581	0.927	2647522	no rank	unclassified Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;-_unclassified Serratia
+UniRef50_Q6D281	1	1.000	1.000	0.917	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A379YJ35	1	1.000	1.000	0.257	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S4X7E3	1	1.000	1.000	0.880	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A2P1VR64	1	0.977	0.977	0.952	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_W0LA60	1	1.000	1.000	0.958	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_V5YVU5	1	0.750	0.750	1.000	615	species	Serratia marcescens	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia marcescens
+UniRef50_J2X169	1	0.749	0.749	0.958	1162296	strain	Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Klebsiella;s_Klebsiella pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae;-_Klebsiella pneumoniae subsp. pneumoniae DSM 30104 = JCM 1662 = NBRC 14940
+UniRef50_A0A4U9WMS3	1	0.517	0.517	0.151	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0H2V9N3	1	0.975	0.975	0.642	199310	strain	Escherichia coli CFT073	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli CFT073
+UniRef50_A0A4U9WPG6	1	1.000	1.000	0.340	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_U2NLP9	1	1.000	1.000	0.993	1332070	strain	Serratia fonticola AU-P3(3)	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola;-_Serratia fonticola AU-P3(3)
+UniRef50_A0A0F7H5Z9	1	1.000	1.000	1.000	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q93SE7	1	0.982	0.982	0.877	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4P8TXD9	2	0.986	1.817	0.473	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1B7HIS9	1	0.994	0.994	0.948	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A655Z8P8	1	0.925	0.925	0.921	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A6S6RZW7	1	0.609	0.609	0.716	1158289	isolate	Arsenophonus endosymbiont of Bemisia tabaci Q2	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Arsenophonus;-_unclassified Arsenophonus;s_Arsenophonus endosymbiont of Bemisia tabaci;-_Arsenophonus endosymbiont of Bemisia tabaci Q2
+UniRef50_A0A0A2W5I8	1	0.580	0.580	0.248	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q7CH39	1	0.983	0.983	0.947	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P18952	1	1.000	1.000	0.923	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2G9A1X0	1	0.988	0.988	0.959	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1X0VWK0	1	0.995	0.995	0.959	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A4U9W6K2	1	0.179	0.179	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A0T9UEF3	1	1.000	1.000	0.939	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A381GIC3	1	1.000	1.000	0.236	546	species	Citrobacter freundii	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;-_Citrobacter freundii complex;s_Citrobacter freundii
+UniRef50_Q7N3K2	1	0.989	0.989	0.923	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A4U9W6G2	1	1.000	1.000	0.436	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4V6KUM3	1	1.000	1.000	0.270	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P07362	1	1.000	1.000	0.974	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3S6F308	1	0.988	0.988	0.933	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_K6Z174	1	0.994	0.994	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3G2FID2	1	1.000	1.000	0.529	2448483	species	Serratia sp. 3ACOL1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;-_unclassified Serratia;s_Serratia sp. 3ACOL1
+UniRef50_A0A370S5B1	1	1.000	1.000	0.901	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1S1Y7E4	1	0.471	0.471	0.204	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4U9W719	1	0.960	0.960	0.973	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9W718	1	0.199	0.199	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9WP66	1	1.000	1.000	0.269	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_Q6D277	1	0.998	0.998	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4V6KRC5	3	1.000	1.950	0.656	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1Q5VAN7	1	1.000	1.000	0.914	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_Q9KTY3	1	0.821	0.821	0.957	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0018DA29AB	1	0.931	0.931	0.322	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A2Y4XJH7	1	0.991	0.991	0.854	623	species	Shigella flexneri	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri
+UniRef50_A0A0H3F669	1	1.000	1.000	0.930	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A109LCS5	1	0.822	0.822	0.964	294	species	Pseudomonas fluorescens	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas fluorescens group;s_Pseudomonas fluorescens
+UniRef50_A0A0A2WKU4	1	1.000	1.000	0.449	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q7VL73	1	1.000	1.000	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A654CTX1	1	0.781	0.781	0.940	2653184	species	Enterobacterales bacterium 8AC	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;-_unclassified Enterobacterales;s_Enterobacterales bacterium 8AC
+UniRef50_A0A4U9WEW3	1	1.000	1.000	0.359	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A447QJN8	1	0.997	0.997	0.949	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0U4A3H1	1	1.000	1.000	0.982	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9VYU4	1	1.000	1.000	0.306	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4R8F1G8	1	0.977	0.977	0.921	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0F7H6J1	1	1.000	1.000	0.981	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_P45563	1	0.996	0.996	0.952	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q1CKD2	1	1.000	1.000	0.967	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0T9NDQ7	1	1.000	1.000	0.954	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4P8U7M9	1	1.000	1.000	0.159	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A0F7H7B6	1	1.000	1.000	0.937	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A2X1Q8G7	1	0.982	0.982	0.714	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2A2MBA2	1	0.992	0.992	0.940	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A8AD30	1	0.977	0.977	0.949	290338	strain	Citrobacter koseri ATCC BAA-895	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;s_Citrobacter koseri;-_Citrobacter koseri ATCC BAA-895
+UniRef50_A0A379YZG2	1	0.679	0.679	0.957	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A6C8GCA8	1	1.000	1.000	0.457	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A2X512	1	0.998	0.998	0.656	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_P52101	1	0.987	0.987	0.931	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_W1IRW2	1	1.000	1.000	0.659	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A1W6GMC3	1	0.992	0.992	0.960	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4U9W7J2	1	0.794	0.794	0.948	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A4U9W651	1	1.000	1.000	0.236	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A8GJT7	1	0.979	0.979	0.932	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A377W033	1	0.988	0.988	0.566	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A083ZVJ6	1	1.000	1.000	0.966	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A083ZVK7	1	1.000	1.000	0.996	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_D2ZVT7	1	0.964	0.964	0.899	482	genus	Neisseria	unknown;Proteobacteria;Neisseriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria
+UniRef50_A0A4U9UFJ8	1	1.000	1.000	0.969	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_Q6D6Y7	1	1.000	1.000	0.965	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3S6F1A8	1	0.868	0.868	0.913	935293	species	Yersinia entomophaga	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Yersinia;s_Yersinia entomophaga
+UniRef50_D4E2R9	1	1.000	1.000	0.678	667129	strain	Serratia odorifera DSM 4582	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia odorifera;-_Serratia odorifera DSM 4582
+UniRef50_A0A2R4NW98	1	1.000	1.000	0.977	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A3R9AVE4	1	0.746	0.746	0.996	544	genus	Citrobacter	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter
+UniRef50_J8VYC2	1	0.992	0.992	0.978	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A2Y4XUC3	1	0.630	0.630	0.987	543	family	Enterobacteriaceae	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UniRef50_A0A4U9VWT9	1	1.000	1.000	0.271	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A011P7W7	1	1.000	1.000	0.916	1454000	species	Candidatus Accumulibacter sp. SK-11	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;-_unclassified Candidatus Accumulibacter;s_Candidatus Accumulibacter sp. SK-11
+UniRef50_A0KKR3	1	1.000	1.000	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A6N0Y6G2	1	1.000	1.000	0.177	2034	genus	Curtobacterium	unknown;Actinobacteria;Microbacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Microbacteriaceae;g_Curtobacterium
+UniRef50_A0A4U9UD94	1	0.250	0.250	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A292AE70	1	0.869	0.869	0.964	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A0T9V4R0	1	0.912	0.912	0.907	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0F7H8R0	1	0.571	0.571	0.888	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0KKR4	1	0.986	0.986	0.923	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4U9UD28	1	0.624	0.624	0.257	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A2S5CV99	1	0.993	0.993	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A485BMU1	1	1.000	1.000	0.201	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8ZCR0	1	1.000	1.000	0.985	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C3SUI2	1	0.991	0.991	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2X2W303	1	0.991	0.991	0.631	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0F7HFN0	1	1.000	1.000	0.369	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A0T9TR52	1	0.996	0.996	0.994	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A240CBC0	1	0.997	0.997	0.985	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A379UVC1	1	1.000	1.000	0.903	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A1I3WJI9	1	1.000	1.000	0.217	335020	species	Mesorhizobium albiziae	unknown;Proteobacteria;Phyllobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Phyllobacteriaceae;g_Mesorhizobium;s_Mesorhizobium albiziae
+UniRef50_A0A7U4KUW7	1	0.967	0.967	0.413	1484158	species	Pantoea sp. PSNIH1	unknown;Proteobacteria;Erwiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Erwiniaceae;g_Pantoea;-_unclassified Pantoea;s_Pantoea sp. PSNIH1
+UniRef50_A0A4U9W6W7	1	1.000	1.000	0.265	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A536XS25	1	0.149	0.149	0.875	1891241	species	Betaproteobacteria bacterium	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+UniRef50_A0A0J7JUP0	1	0.685	0.685	0.635	67767	species	Lasius niger	Metazoa;Arthropoda;Formicidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Neoptera;-_Endopterygota;o_Hymenoptera;-_Apocrita;-_Aculeata;-_Formicoidea;f_Formicidae;-_Formicinae;-_Lasiini;g_Lasius;-_Lasius;s_Lasius niger
+UniRef50_UPI00196ACBEF	1	0.209	0.209	1.000	1639133	species	Citrobacter portucalensis	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Citrobacter;-_Citrobacter freundii complex;s_Citrobacter portucalensis
+UniRef50_A0A0F7H8G7	1	0.961	0.961	0.964	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A4U9UFE4	1	0.860	0.860	0.413	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_UPI00197A9C72	1	0.538	0.538	0.839	158836	species	Enterobacter hormaechei	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Enterobacter;-_Enterobacter cloacae complex;s_Enterobacter hormaechei
+UniRef50_A6TCE4	1	1.000	1.000	0.972	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_Q8ZCS5	1	1.000	1.000	0.912	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_D2NSX3	1	0.551	0.551	0.690	680646	strain	Rothia mucilaginosa DY-18	unknown;Actinobacteria;Micrococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Micrococcaceae;g_Rothia;s_Rothia mucilaginosa;-_Rothia mucilaginosa DY-18
+UniRef50_P0ACD6	1	1.000	1.000	0.948	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A5G547	1	0.995	0.995	0.936	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A7I0PQN7	1	0.978	0.978	0.948	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_P33231	1	1.000	1.000	0.934	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A656A978	1	0.991	0.991	0.896	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_A0A074UEJ5	1	0.885	0.885	0.985	1504156	species	Microbacterium sp. SUBG005	unknown;Actinobacteria;Microbacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Microbacteriaceae;g_Microbacterium;-_unclassified Microbacterium;s_Microbacterium sp. SUBG005
+UniRef50_A0A0H3L388	1	1.000	1.000	0.953	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q8CZS4	1	0.910	0.910	0.988	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1S8CHB9	1	1.000	1.000	0.894	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_P0A795	1	0.996	0.996	0.937	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A448T277	1	0.176	0.176	1.000	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_A0A3P8M3N6	1	0.997	0.997	0.259	577	species	Raoultella terrigena	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_Klebsiella/Raoultella group;g_Raoultella;s_Raoultella terrigena
+UniRef50_A0A011Q395	1	0.917	0.917	0.988	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A4U9VYT9	2	0.696	1.209	0.627	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A1B1KWQ7	1	1.000	1.000	0.953	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A7H5AGQ5	1	0.968	0.968	0.952	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A538SCL7	1	0.940	0.940	0.862	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_L0M6V1	1	0.971	0.971	0.991	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9WCG4	1	1.000	1.000	1.000	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A2X4TYC0	1	1.000	1.000	0.951	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A1S8CF75	1	1.000	1.000	0.975	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+UniRef50_A0A4U9W6N3	1	0.911	0.911	0.252	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A0F7H680	1	1.000	1.000	0.979	1903411	family	Yersiniaceae	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae
+UniRef50_A0A085U2M8	1	0.986	0.986	0.953	1224	phylum	Proteobacteria	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+UniRef50_A0A086EUK1	1	0.989	0.989	0.973	1236	class	Gammaproteobacteria	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+UniRef50_P21507	1	0.973	0.973	0.933	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A655ZEQ9	1	1.000	1.000	0.978	666	species	Vibrio cholerae	unknown;Proteobacteria;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae
+UniRef50_P14175	1	0.995	0.995	0.939	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI00190FA691	1	1.000	1.000	0.980	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A0M2WS61	1	0.984	0.984	0.971	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_P76015	1	0.997	0.997	0.978	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A370R1H1	1	0.968	0.968	0.345	1487935	species	Enterobacillus tribolii	unknown;Proteobacteria;Hafniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Hafniaceae;g_Enterobacillus;s_Enterobacillus tribolii
+UniRef50_P37767	1	0.968	0.968	0.928	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A485AGK8	1	0.992	0.992	0.605	580	species	Kluyvera cryocrescens	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Kluyvera;s_Kluyvera cryocrescens
+UniRef50_A0A4U2WC63	1	0.996	0.996	0.939	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0F7H7E2	1	1.000	1.000	0.944	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2X2V9W4	1	0.996	0.996	0.957	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A084ZX23	1	1.000	1.000	0.976	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0D0QX51	1	0.987	0.987	0.885	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0A2W066	1	0.982	0.982	0.946	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A379ZU50	1	1.000	1.000	0.645	137545	species	Serratia quinivorans	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia quinivorans
+UniRef50_A0A4U9W6U2	1	1.000	1.000	0.259	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_A0A655CSI8	1	1.000	1.000	0.532	58097	no rank	Salmonella enterica subsp. enterica serovar Bovismorbificans	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Bovismorbificans
+UniRef50_A0A370SNP4	1	1.000	1.000	0.946	47917	species	Serratia fonticola	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+UniRef50_UPI00192BE1DC	1	1.000	1.000	0.936	613	genus	Serratia	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia
+UniRef50_A0A085ABZ7	1	0.996	0.996	0.920	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1W9F0D4	1	0.581	0.581	0.678	1449981	strain	Serratia nematodiphila DZ0503SBS1	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia nematodiphila;-_Serratia nematodiphila DZ0503SBS1
+UniRef50_W0LIU3	1	1.000	1.000	0.982	91347	order	Enterobacterales	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales

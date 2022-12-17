@@ -1,0 +1,72 @@
+k141_10924	1760	class	Actinomycetia	7	6	3	0.740	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_27738	1760	class	Actinomycetia	6	6	4	0.600	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_27753	1760	class	Actinomycetia	4	3	2	0.520	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_11138	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_40896	1653	family	Corynebacteriaceae	3	3	3	1.000	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae
+k141_21554	1727	species	Corynebacterium variabile	5	5	4	0.520	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium variabile
+k141_24952	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21637	1760	class	Actinomycetia	3	3	3	1.000	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_34243	1716	genus	Corynebacterium	6	6	4	0.740	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_17425	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13604	1762	family	Mycobacteriaceae	5	4	3	0.530	unknown;Actinobacteria;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Mycobacteriaceae
+k141_16792	85007	order	Corynebacteriales	6	4	3	0.530	unknown;Actinobacteria;uc_Corynebacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales
+k141_20349	85007	order	Corynebacteriales	3	3	2	0.670	unknown;Actinobacteria;uc_Corynebacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales
+k141_3956	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_30728	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_26882	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40332	85007	order	Corynebacteriales	4	4	3	0.680	unknown;Actinobacteria;uc_Corynebacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales
+k141_26937	1716	genus	Corynebacterium	2	2	1	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_40493	1760	class	Actinomycetia	3	3	3	1.000	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_40502	85007	order	Corynebacteriales	5	4	3	0.520	unknown;Actinobacteria;uc_Corynebacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales
+k141_10571	2	superkingdom	Bacteria	7	7	4	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_10617	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_24182	2062	family	Streptomycetaceae	3	3	2	0.500	unknown;Actinobacteria;Streptomycetaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Streptomycetales;f_Streptomycetaceae
+k141_10630	1716	genus	Corynebacterium	3	3	2	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_10686	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_33718	1653	family	Corynebacteriaceae	10	10	3	0.580	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae
+k141_10786	1716	genus	Corynebacterium	3	3	2	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_4224	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24401	1760	class	Actinomycetia	4	4	3	0.750	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_50366	1737425	species	Corynebacterium provencense	3	2	1	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium provencense
+k141_13228	1760	class	Actinomycetia	5	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_3348	1716	genus	Corynebacterium	3	3	2	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_6656	1716	genus	Corynebacterium	6	6	2	0.640	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_23230	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16611	1716	genus	Corynebacterium	2	2	1	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_39795	1716	genus	Corynebacterium	5	4	3	0.960	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_43145	1716	genus	Corynebacterium	3	3	2	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_6860	1760	class	Actinomycetia	5	5	4	0.750	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_39895	89154	species	Corynebacterium terpenotabidum	2	2	2	1.000	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium terpenotabidum
+k141_23450	1760	class	Actinomycetia	7	5	3	0.660	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2824	1678	genus	Bifidobacterium	2	2	1	0.500	unknown;Actinobacteria;Bifidobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium
+k141_8429	1716	genus	Corynebacterium	2	2	1	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_36052	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16502	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_48107	1653	family	Corynebacteriaceae	3	3	2	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae
+k141_8895	1716	genus	Corynebacterium	2	2	2	1.000	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_19679	1716	genus	Corynebacterium	4	4	3	0.750	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_48438	1760	class	Actinomycetia	5	5	3	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_48641	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48663	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49201	1760	class	Actinomycetia	3	3	3	1.000	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_49511	1716	genus	Corynebacterium	4	4	2	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_18197	1760	class	Actinomycetia	4	4	3	0.750	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_38075	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_28555	1716	genus	Corynebacterium	3	3	2	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_35042	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1856	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_28849	1653	family	Corynebacteriaceae	6	5	2	0.630	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae
+k141_29255	2	superkingdom	Bacteria	6	6	4	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12593	1760	class	Actinomycetia	3	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_29419	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16195	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_34346	1760	class	Actinomycetia	3	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_25259	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21935	1716	genus	Corynebacterium	6	6	3	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_22029	36808	species	Corynebacterium bovis	2	2	1	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium bovis
+k141_11625	1716	genus	Corynebacterium	3	3	3	1.000	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_11643	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_11683	1760	class	Actinomycetia	7	7	5	0.520	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_41862	1716	genus	Corynebacterium	4	4	3	0.670	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium
+k141_22348	1727	species	Corynebacterium variabile	3	2	1	0.500	unknown;Actinobacteria;Corynebacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Corynebacteriaceae;g_Corynebacterium;s_Corynebacterium variabile
+k141_22424	1760	class	Actinomycetia	6	6	4	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia

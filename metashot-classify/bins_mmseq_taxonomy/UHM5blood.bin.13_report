@@ -1,0 +1,38 @@
+100.0000	146	53	no rank	1	root
+63.6986	93	7	no rank	131567	  cellular organisms
+58.2192	85	27	superkingdom	2	    Bacteria
+39.7260	58	11	phylum	1224	      Proteobacteria
+32.1918	47	14	class	1236	        Gammaproteobacteria
+22.6027	33	24	order	91347	          Enterobacterales
+6.1644	9	4	family	1903414	            Morganellaceae
+3.4247	5	3	genus	581	              Morganella
+1.3699	2	2	species	582	                Morganella morganii
+0.6849	1	0	superkingdom	2759	    Eukaryota
+0.6849	1	0	clade	33154	      Opisthokonta
+0.6849	1	0	kingdom	33208	        Metazoa
+0.6849	1	0	clade	6072	          Eumetazoa
+0.6849	1	0	clade	33213	            Bilateria
+0.6849	1	0	clade	33317	              Protostomia
+0.6849	1	0	clade	1206794	                Ecdysozoa
+0.6849	1	0	clade	88770	                  Panarthropoda
+0.6849	1	0	phylum	6656	                    Arthropoda
+0.6849	1	0	clade	197563	                      Mandibulata
+0.6849	1	0	clade	197562	                        Pancrustacea
+0.6849	1	0	subphylum	6960	                          Hexapoda
+0.6849	1	0	class	50557	                            Insecta
+0.6849	1	0	clade	85512	                              Dicondylia
+0.6849	1	0	subclass	7496	                                Pterygota
+0.6849	1	0	infraclass	33340	                                  Neoptera
+0.6849	1	0	cohort	33392	                                    Endopterygota
+0.6849	1	0	order	7147	                                      Diptera
+0.6849	1	0	suborder	7203	                                        Brachycera
+0.6849	1	0	infraorder	43733	                                          Muscomorpha
+0.6849	1	0	clade	480118	                                            Eremoneura
+0.6849	1	0	clade	480117	                                              Cyclorrhapha
+0.6849	1	0	no rank	43738	                                                Schizophora
+0.6849	1	0	no rank	43742	                                                  Calyptratae
+0.6849	1	0	superfamily	43755	                                                    Oestroidea
+0.6849	1	0	family	7371	                                                      Calliphoridae
+0.6849	1	0	subfamily	43914	                                                        Luciliinae
+0.6849	1	0	genus	7374	                                                          Lucilia
+0.6849	1	1	species	7375	                                                            Lucilia cuprina

@@ -1,0 +1,63 @@
+0.2985	1	1	no rank	0	unclassified
+99.7015	334	47	no rank	1	root
+85.6716	287	1	no rank	131567	  cellular organisms
+85.3731	286	126	superkingdom	2	    Bacteria
+45.3731	152	5	clade	1783272	      Terrabacteria group
+43.8806	147	68	phylum	1239	        Firmicutes
+22.3881	75	19	class	186801	          Clostridia
+16.7164	56	35	order	186802	            Eubacteriales
+2.3881	8	2	family	186803	              Lachnospiraceae
+1.1940	4	0	genus	1506577	                Tyzzerella
+1.1940	4	0	no rank	2639896	                  unclassified Tyzzerella
+1.1940	4	4	species	1965545	                    Tyzzerella sp. An114
+0.2985	1	0	genus	2383	                Epulopiscium
+0.2985	1	0	no rank	2628445	                  unclassified Epulopiscium
+0.2985	1	1	species	2384	                    Epulopiscium sp.
+0.2985	1	0	genus	698776	                Cellulosilyticum
+0.2985	1	0	species	29360	                  Cellulosilyticum lentocellum
+0.2985	1	1	strain	642492	                    Cellulosilyticum lentocellum DSM 5427
+1.1940	4	3	family	31979	              Clostridiaceae
+0.2985	1	0	genus	1485	                Clostridium
+0.2985	1	0	no rank	2614128	                  unclassified Clostridium
+0.2985	1	1	species	1304866	                    Clostridium sp. ASBs410
+0.5970	2	1	family	186804	              Peptostreptococcaceae
+0.2985	1	0	genus	1870884	                Clostridioides
+0.2985	1	1	species	1540	                  Clostridioides mangenotii
+0.5970	2	0	family	186807	              Peptococcaceae
+0.5970	2	0	genus	51514	                Dehalobacterium
+0.5970	2	2	species	51515	                  Dehalobacterium formicoaceticum
+0.5970	2	2	family	216572	              Oscillospiraceae
+0.2985	1	0	no rank	39779	              unclassified Eubacteriales
+0.2985	1	1	species	1898207	                Clostridiales bacterium
+0.2985	1	0	no rank	538999	              Eubacteriales incertae sedis
+0.2985	1	0	family	543314	                Eubacteriales Family XIII. Incertae Sedis
+0.2985	1	0	genus	109326	                  Anaerovorax
+0.2985	1	1	species	109327	                    Anaerovorax odorimutans
+0.2985	1	0	family	990719	              Christensenellaceae
+0.2985	1	0	genus	990721	                Christensenella
+0.2985	1	1	species	1816678	                  Christensenella timonensis
+0.5970	2	0	class	91061	          Bacilli
+0.2985	1	0	order	1385	            Bacillales
+0.2985	1	0	family	186822	              Paenibacillaceae
+0.2985	1	0	genus	329857	                Cohnella
+0.2985	1	1	species	2565925	                  Cohnella fermenti
+0.2985	1	0	order	186826	            Lactobacillales
+0.2985	1	1	family	81852	              Enterococcaceae
+0.2985	1	0	class	526524	          Erysipelotrichia
+0.2985	1	0	order	526525	            Erysipelotrichales
+0.2985	1	0	family	128827	              Erysipelotrichaceae
+0.2985	1	0	genus	118966	                Anaerorhabdus
+0.2985	1	1	species	118967	                  Anaerorhabdus furcosa
+0.2985	1	0	class	1737404	          Tissierellia
+0.2985	1	0	no rank	1737407	            Tissierellia incertae sedis
+0.2985	1	1	genus	448125	              Dethiosulfatibacter
+2.3881	8	0	clade	1783270	      FCB group
+2.3881	8	0	clade	68336	        Bacteroidetes/Chlorobi group
+2.3881	8	1	phylum	976	          Bacteroidetes
+2.0896	7	0	class	117743	            Flavobacteriia
+2.0896	7	0	order	200644	              Flavobacteriales
+2.0896	7	0	family	49546	                Flavobacteriaceae
+2.0896	7	5	genus	237	                  Flavobacterium
+0.2985	1	0	no rank	196869	                    unclassified Flavobacterium
+0.2985	1	1	species	1229487	                      Flavobacterium sp. WG21
+0.2985	1	1	species	2249356	                    Flavobacterium fluviale

@@ -1,0 +1,18 @@
+100.0000	65	5	no rank	1	root
+92.3077	60	0	no rank	131567	  cellular organisms
+92.3077	60	41	superkingdom	2	    Bacteria
+27.6923	18	0	clade	1783272	      Terrabacteria group
+27.6923	18	6	phylum	1239	        Firmicutes
+16.9231	11	2	class	91061	          Bacilli
+13.8462	9	3	order	186826	            Lactobacillales
+9.2308	6	3	family	81852	              Enterococcaceae
+4.6154	3	2	genus	1350	                Enterococcus
+1.5385	1	1	species	1131292	                  Enterococcus ureilyticus
+1.5385	1	0	class	186801	          Clostridia
+1.5385	1	0	order	186802	            Eubacteriales
+1.5385	1	0	no rank	39779	              unclassified Eubacteriales
+1.5385	1	1	species	1898207	                Clostridiales bacterium
+1.5385	1	0	phylum	1224	      Proteobacteria
+1.5385	1	0	class	1236	        Gammaproteobacteria
+1.5385	1	0	order	2887326	          Moraxellales
+1.5385	1	1	family	468	            Moraxellaceae

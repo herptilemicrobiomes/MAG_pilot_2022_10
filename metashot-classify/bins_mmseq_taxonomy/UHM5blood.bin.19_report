@@ -1,0 +1,31 @@
+100.0000	281	83	no rank	1	root
+70.4626	198	0	no rank	131567	  cellular organisms
+70.1068	197	124	superkingdom	2	    Bacteria
+25.9786	73	22	phylum	1224	      Proteobacteria
+18.1495	51	22	class	1236	        Gammaproteobacteria
+10.3203	29	13	order	91347	          Enterobacterales
+5.6940	16	16	family	543	            Enterobacteriaceae
+0.3559	1	0	superkingdom	2759	    Eukaryota
+0.3559	1	0	kingdom	33090	      Viridiplantae
+0.3559	1	0	phylum	35493	        Streptophyta
+0.3559	1	0	subphylum	131221	          Streptophytina
+0.3559	1	0	clade	3193	            Embryophyta
+0.3559	1	0	clade	58023	              Tracheophyta
+0.3559	1	0	clade	78536	                Euphyllophyta
+0.3559	1	0	clade	58024	                  Spermatophyta
+0.3559	1	0	class	3398	                    Magnoliopsida
+0.3559	1	0	clade	1437183	                      Mesangiospermae
+0.3559	1	0	clade	71240	                        eudicotyledons
+0.3559	1	0	clade	91827	                          Gunneridae
+0.3559	1	0	clade	1437201	                            Pentapetalae
+0.3559	1	0	clade	71275	                              rosids
+0.3559	1	0	clade	91835	                                fabids
+0.3559	1	0	order	72025	                                  Fabales
+0.3559	1	0	family	3803	                                    Fabaceae
+0.3559	1	0	subfamily	3814	                                      Papilionoideae
+0.3559	1	0	clade	2231393	                                        50 kb inversion clade
+0.3559	1	0	clade	2231384	                                          genistoids sensu lato
+0.3559	1	0	clade	2231385	                                            core genistoids
+0.3559	1	0	tribe	163729	                                              Genisteae
+0.3559	1	0	genus	3869	                                                Lupinus
+0.3559	1	1	species	3870	                                                  Lupinus albus

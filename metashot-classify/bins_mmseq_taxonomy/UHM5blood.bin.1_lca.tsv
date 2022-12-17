@@ -1,0 +1,6 @@
+k141_20814	2	superkingdom	Bacteria	48	43	30	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28812	32066	phylum	Fusobacteria	60	57	34	0.630	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+k141_9384	32066	phylum	Fusobacteria	71	60	32	0.580	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+k141_26964	32066	phylum	Fusobacteria	272	249	144	0.600	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+k141_31312	32066	phylum	Fusobacteria	134	121	66	0.580	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+k141_43693	203492	family	Fusobacteriaceae	277	253	135	0.530	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae

@@ -1,0 +1,15 @@
+100.0000	23	0	no rank	1	root
+100.0000	23	0	no rank	131567	  cellular organisms
+100.0000	23	1	superkingdom	2759	    Eukaryota
+95.6522	22	0	clade	33154	      Opisthokonta
+95.6522	22	0	kingdom	4751	        Fungi
+95.6522	22	0	subkingdom	451864	          Dikarya
+95.6522	22	1	phylum	4890	            Ascomycota
+91.3043	21	0	clade	716545	              saccharomyceta
+91.3043	21	0	subphylum	147537	                Saccharomycotina
+91.3043	21	0	class	4891	                  Saccharomycetes
+91.3043	21	12	order	4892	                    Saccharomycetales
+39.1304	9	8	family	115784	                      Phaffomycetaceae
+4.3478	1	0	genus	604195	                        Cyberlindnera
+4.3478	1	0	species	4903	                          Cyberlindnera jadinii
+4.3478	1	1	strain	983966	                            Cyberlindnera jadinii NRRL Y-1542

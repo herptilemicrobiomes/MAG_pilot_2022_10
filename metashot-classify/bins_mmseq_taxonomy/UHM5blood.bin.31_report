@@ -1,0 +1,110 @@
+0.7648	4	4	no rank	0	unclassified
+99.2352	519	110	no rank	1	root
+78.2027	409	1	no rank	131567	  cellular organisms
+77.8203	407	118	superkingdom	2	    Bacteria
+52.1989	273	8	clade	1783272	      Terrabacteria group
+50.6692	265	103	phylum	1239	        Firmicutes
+29.8279	156	33	class	186801	          Clostridia
+22.5621	118	82	order	186802	            Eubacteriales
+3.2505	17	6	family	186803	              Lachnospiraceae
+0.7648	4	0	genus	1506577	                Tyzzerella
+0.7648	4	0	no rank	2639896	                  unclassified Tyzzerella
+0.7648	4	4	species	1965545	                    Tyzzerella sp. An114
+0.3824	2	0	no rank	186928	                unclassified Lachnospiraceae
+0.3824	2	2	species	1898203	                  Lachnospiraceae bacterium
+0.1912	1	0	genus	2383	                Epulopiscium
+0.1912	1	0	no rank	2628445	                  unclassified Epulopiscium
+0.1912	1	1	species	2384	                    Epulopiscium sp.
+0.1912	1	1	genus	207244	                Anaerostipes
+0.1912	1	0	genus	653683	                Anaerosporobacter
+0.1912	1	0	no rank	2630902	                  unclassified Anaerosporobacter
+0.1912	1	1	species	2718714	                    Anaerosporobacter sp. KCTC 15857
+0.1912	1	0	genus	1649471	                Mobilitalea
+0.1912	1	1	species	1462919	                  Mobilitalea sibirica
+0.1912	1	0	genus	2039240	                Anaerotignum
+0.1912	1	0	species	160404	                  Anaerotignum lactatifermentans
+0.1912	1	1	strain	1121323	                    Anaerotignum lactatifermentans DSM 14214
+1.7208	9	3	family	31979	              Clostridiaceae
+0.9560	5	4	genus	1485	                Clostridium
+0.1912	1	0	no rank	59619	                  environmental samples
+0.1912	1	1	species	59620	                    uncultured Clostridium sp.
+0.1912	1	1	genus	1649459	                Hungatella
+0.7648	4	2	family	216572	              Oscillospiraceae
+0.1912	1	1	genus	244127	                Anaerotruncus
+0.1912	1	0	genus	596767	                Hydrogenoanaerobacterium
+0.1912	1	1	species	474960	                  Hydrogenoanaerobacterium saccharovorans
+0.3824	2	0	family	990719	              Christensenellaceae
+0.3824	2	0	genus	990721	                Christensenella
+0.3824	2	2	species	1816678	                  Christensenella timonensis
+0.1912	1	0	family	186804	              Peptostreptococcaceae
+0.1912	1	0	genus	1870884	                Clostridioides
+0.1912	1	1	species	1496	                  Clostridioides difficile
+0.1912	1	0	family	186806	              Eubacteriaceae
+0.1912	1	1	genus	1730	                Eubacterium
+0.1912	1	0	family	186807	              Peptococcaceae
+0.1912	1	0	genus	51514	                Dehalobacterium
+0.1912	1	1	species	51515	                  Dehalobacterium formicoaceticum
+0.1912	1	0	family	1185407	              Defluviitaleaceae
+0.1912	1	0	genus	1185408	                Defluviitalea
+0.1912	1	1	species	1473580	                  Defluviitalea phaphyphila
+0.7648	4	1	no rank	189325	            Clostridia incertae sedis
+0.5736	3	1	genus	2721109	              Candidatus Neoanaerotignum
+0.3824	2	2	species	2721136	                Candidatus Neoanaerotignum tabaqchaliae
+0.1912	1	0	order	68295	            Thermoanaerobacterales
+0.1912	1	0	no rank	68296	              unclassified Thermoanaerobacterales
+0.1912	1	1	species	2304039	                Thermoanaerobacterales bacterium
+0.7648	4	2	class	91061	          Bacilli
+0.1912	1	0	order	1385	            Bacillales
+0.1912	1	0	family	186822	              Paenibacillaceae
+0.1912	1	0	genus	44249	                Paenibacillus
+0.1912	1	1	species	59839	                  Paenibacillus alginolyticus
+0.1912	1	0	order	186826	            Lactobacillales
+0.1912	1	0	family	81852	              Enterococcaceae
+0.1912	1	1	genus	1350	                Enterococcus
+0.1912	1	0	class	526524	          Erysipelotrichia
+0.1912	1	0	order	526525	            Erysipelotrichales
+0.1912	1	0	family	128827	              Erysipelotrichaceae
+0.1912	1	0	genus	1472649	                Dielma
+0.1912	1	1	species	1034346	                  Dielma fastidiosa
+0.1912	1	0	class	1737404	          Tissierellia
+0.1912	1	0	no rank	1737407	            Tissierellia incertae sedis
+0.1912	1	0	genus	190972	              Sedimentibacter
+0.1912	1	1	species	913099	                Sedimentibacter acidaminivorans
+2.4857	13	0	phylum	1224	      Proteobacteria
+2.4857	13	3	class	1236	        Gammaproteobacteria
+1.7208	9	3	order	91347	          Enterobacterales
+0.5736	3	0	family	1903414	            Morganellaceae
+0.5736	3	1	genus	581	              Morganella
+0.3824	2	2	species	582	                Morganella morganii
+0.3824	2	2	family	543	            Enterobacteriaceae
+0.1912	1	0	family	1903411	            Yersiniaceae
+0.1912	1	0	genus	613	              Serratia
+0.1912	1	1	species	47917	                Serratia fonticola
+0.1912	1	0	order	135613	          Chromatiales
+0.1912	1	0	family	72276	            Ectothiorhodospiraceae
+0.1912	1	0	no rank	187271	              unclassified Ectothiorhodospiraceae
+0.1912	1	1	species	2026737	                Ectothiorhodospiraceae bacterium
+0.1912	1	0	phylum	32066	      Fusobacteria
+0.1912	1	0	class	203490	        Fusobacteriia
+0.1912	1	0	order	203491	          Fusobacteriales
+0.1912	1	0	family	203492	            Fusobacteriaceae
+0.1912	1	0	genus	180162	              Cetobacterium
+0.1912	1	0	no rank	2630983	                unclassified Cetobacterium
+0.1912	1	1	species	1340502	                  Cetobacterium sp. ZWU0022
+0.1912	1	0	no rank	49928	      unclassified Bacteria
+0.1912	1	1	species	2320102	        bacterium 1XD42-8
+0.1912	1	0	clade	1783270	      FCB group
+0.1912	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1912	1	0	phylum	976	          Bacteroidetes
+0.1912	1	0	class	117743	            Flavobacteriia
+0.1912	1	0	order	200644	              Flavobacteriales
+0.1912	1	0	family	49546	                Flavobacteriaceae
+0.1912	1	0	genus	358023	                  Lutibacter
+0.1912	1	0	no rank	2626258	                    unclassified Lutibacter
+0.1912	1	1	species	2789328	                      Lutibacter sp. B2
+0.1912	1	0	superkingdom	2157	    Archaea
+0.1912	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+0.1912	1	0	class	183967	        Thermoplasmata
+0.1912	1	0	order	1235850	          Methanomassiliicoccales
+0.1912	1	0	family	1577788	            Methanomassiliicoccaceae
+0.1912	1	1	genus	1080709	              Methanomassiliicoccus

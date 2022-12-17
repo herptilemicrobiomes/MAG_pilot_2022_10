@@ -1,0 +1,44 @@
+0.2070	1	1	no rank	0	unclassified
+99.7930	482	94	no rank	1	root
+80.3313	388	6	no rank	131567	  cellular organisms
+78.6749	380	94	superkingdom	2	    Bacteria
+59.0062	285	140	phylum	1224	      Proteobacteria
+29.6066	143	50	class	28216	        Betaproteobacteria
+19.0476	92	13	order	206351	          Neisseriales
+16.3561	79	25	family	1499392	            Chromobacteriaceae
+10.9731	53	50	genus	57479	              Microvirgula
+0.4141	2	0	no rank	2621376	                unclassified Microvirgula
+0.4141	2	2	species	2183901	                  Microvirgula sp. AG722
+0.2070	1	1	species	57480	                Microvirgula aerodenitrificans
+0.2070	1	0	no rank	90153	              Chromobacterium group
+0.2070	1	0	genus	535	                Chromobacterium
+0.2070	1	1	species	536	                  Chromobacterium violaceum
+0.2070	1	1	order	80840	          Burkholderiales
+0.2070	1	1	class	1236	        Gammaproteobacteria
+0.2070	1	0	class	28211	        Alphaproteobacteria
+0.2070	1	1	order	204441	          Rhodospirillales
+0.2070	1	0	clade	1783272	      Terrabacteria group
+0.2070	1	0	phylum	201174	        Actinobacteria
+0.2070	1	1	class	1760	          Actinomycetia
+0.4141	2	0	superkingdom	2759	    Eukaryota
+0.4141	2	0	kingdom	33090	      Viridiplantae
+0.4141	2	0	phylum	35493	        Streptophyta
+0.4141	2	0	subphylum	131221	          Streptophytina
+0.4141	2	0	clade	3193	            Embryophyta
+0.4141	2	0	clade	58023	              Tracheophyta
+0.4141	2	0	clade	78536	                Euphyllophyta
+0.4141	2	0	clade	58024	                  Spermatophyta
+0.4141	2	0	class	3398	                    Magnoliopsida
+0.4141	2	0	clade	1437183	                      Mesangiospermae
+0.4141	2	0	clade	71240	                        eudicotyledons
+0.4141	2	0	clade	91827	                          Gunneridae
+0.4141	2	0	clade	1437201	                            Pentapetalae
+0.4141	2	0	clade	71274	                              asterids
+0.4141	2	0	clade	91882	                                campanulids
+0.4141	2	0	order	4209	                                  Asterales
+0.4141	2	0	family	4210	                                    Asteraceae
+0.4141	2	0	subfamily	102804	                                      Asteroideae
+0.4141	2	0	tribe	102810	                                        Anthemideae
+0.4141	2	0	subtribe	886730	                                          Anthemidinae
+0.4141	2	0	genus	99105	                                            Tanacetum
+0.4141	2	2	species	118510	                                              Tanacetum cinerariifolium

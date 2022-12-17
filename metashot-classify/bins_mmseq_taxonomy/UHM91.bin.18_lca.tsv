@@ -1,0 +1,117 @@
+k141_7292	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_7396	2	superkingdom	Bacteria	89	86	67	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1465	2	superkingdom	Bacteria	9	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_41336	2	superkingdom	Bacteria	29	27	18	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21946	2	superkingdom	Bacteria	69	57	36	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21966	2	superkingdom	Bacteria	44	41	30	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11363	1	no rank	root	45	35	35	1.000	unknown;unknown;unknown	-_root
+k141_15092	2	superkingdom	Bacteria	28	26	17	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_17573	1350	genus	Enterococcus	7	7	6	0.800	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_47135	2	superkingdom	Bacteria	84	75	51	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28786	2	superkingdom	Bacteria	16	15	11	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_32377	186826	order	Lactobacillales	37	36	20	0.590	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_8005	2	superkingdom	Bacteria	20	19	13	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_38500	2	superkingdom	Bacteria	10	10	8	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8019	2	superkingdom	Bacteria	45	39	25	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15821	2	superkingdom	Bacteria	53	49	35	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28975	1	no rank	root	36	33	33	1.000	unknown;unknown;unknown	-_root
+k141_45198	2	superkingdom	Bacteria	42	36	25	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8139	2	superkingdom	Bacteria	8	7	6	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42359	2	superkingdom	Bacteria	53	48	35	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_36827	2	superkingdom	Bacteria	21	19	15	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_36837	1834189	species	Enterococcus sp. 7F3_DIV0205	2	2	1	0.500	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;-_unclassified Enterococcus;s_Enterococcus sp. 7F3_DIV0205
+k141_20974	186826	order	Lactobacillales	23	21	12	0.580	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_50115	2	superkingdom	Bacteria	8	8	5	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_4117	2	superkingdom	Bacteria	114	106	76	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_4148	332950	species	Enterococcus termitis	4	4	3	0.990	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;s_Enterococcus termitis
+k141_31085	2	superkingdom	Bacteria	52	49	31	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50246	186826	order	Lactobacillales	14	13	8	0.920	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_27502	2	superkingdom	Bacteria	23	21	15	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1046	91061	class	Bacilli	9	7	5	0.520	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_27927	1	no rank	root	22	22	22	1.000	unknown;unknown;unknown	-_root
+k141_41716	2	superkingdom	Bacteria	66	64	48	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7829	332950	species	Enterococcus termitis	4	4	2	0.660	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;s_Enterococcus termitis
+k141_22249	1350	genus	Enterococcus	21	19	8	0.530	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_22286	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_37782	2	superkingdom	Bacteria	38	37	27	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_25746	2	superkingdom	Bacteria	64	61	42	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_32143	91061	class	Bacilli	50	48	23	0.520	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_41863	2	superkingdom	Bacteria	29	24	18	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1744	2	superkingdom	Bacteria	19	17	15	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_34903	1239	phylum	Firmicutes	41	38	20	0.520	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_7849	2	superkingdom	Bacteria	28	26	17	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7875	1	no rank	root	14	14	14	1.000	unknown;unknown;unknown	-_root
+k141_5019	1350	genus	Enterococcus	7	6	4	0.670	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_47456	2	superkingdom	Bacteria	37	33	24	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22626	2	superkingdom	Bacteria	20	16	12	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_26059	2	superkingdom	Bacteria	19	19	12	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_38183	81852	family	Enterococcaceae	86	79	44	0.520	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae
+k141_15659	2	superkingdom	Bacteria	57	52	30	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_35007	186826	order	Lactobacillales	8	7	5	0.610	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_39088	2	superkingdom	Bacteria	17	16	13	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_47978	91061	class	Bacilli	13	13	7	0.540	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_5510	2	superkingdom	Bacteria	40	36	32	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52415	1239	phylum	Firmicutes	14	13	8	0.590	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_3163	186826	order	Lactobacillales	9	9	5	0.570	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_13100	2	superkingdom	Bacteria	70	66	49	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5630	1	no rank	root	45	41	41	1.000	unknown;unknown;unknown	-_root
+k141_13180	2	superkingdom	Bacteria	59	51	32	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39522	2	superkingdom	Bacteria	16	15	12	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39526	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8235	2	superkingdom	Bacteria	29	28	18	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_18701	91061	class	Bacilli	129	124	73	0.580	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_12630	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29383	1350	genus	Enterococcus	6	6	3	0.500	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_2618	1239	phylum	Firmicutes	13	11	8	0.590	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_52066	1350	genus	Enterococcus	31	27	13	0.540	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_12882	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12896	1	no rank	root	23	21	21	1.000	unknown;unknown;unknown	-_root
+k141_2963	81852	family	Enterococcaceae	9	9	5	0.620	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae
+k141_39085	2	superkingdom	Bacteria	94	92	73	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9358	81852	family	Enterococcaceae	12	8	5	0.630	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae
+k141_6203	81852	family	Enterococcaceae	16	15	9	0.540	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae
+k141_48437	2	superkingdom	Bacteria	61	55	35	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48502	2	superkingdom	Bacteria	35	32	23	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6455	2	superkingdom	Bacteria	40	35	27	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48925	1239	phylum	Firmicutes	5	5	4	0.800	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_49372	186826	order	Lactobacillales	60	53	31	0.580	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_4398	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_21302	2	superkingdom	Bacteria	35	32	21	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_10977	2	superkingdom	Bacteria	51	48	29	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21402	186826	order	Lactobacillales	9	7	4	0.660	unknown;Firmicutes;uc_Lactobacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales
+k141_11014	332950	species	Enterococcus termitis	5	5	3	0.600	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;s_Enterococcus termitis
+k141_1252	2	superkingdom	Bacteria	9	9	7	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37229	2	superkingdom	Bacteria	10	10	8	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11231	2	superkingdom	Bacteria	108	102	71	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_4735	2	superkingdom	Bacteria	95	90	57	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7291	2	superkingdom	Bacteria	49	46	22	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_46230	2	superkingdom	Bacteria	27	25	16	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42969	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_19837	2	superkingdom	Bacteria	44	39	29	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_33037	2	superkingdom	Bacteria	8	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23243	2	superkingdom	Bacteria	87	78	54	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_10031	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3489	2	superkingdom	Bacteria	39	33	21	0.550	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6805	81852	family	Enterococcaceae	15	13	9	0.670	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae
+k141_23475	1350	genus	Enterococcus	15	12	7	0.580	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_43389	91061	class	Bacilli	30	28	16	0.500	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_43390	2	superkingdom	Bacteria	36	35	23	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13758	2	superkingdom	Bacteria	16	14	11	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_43492	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_3963	2	superkingdom	Bacteria	15	14	9	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_20487	1239	phylum	Firmicutes	113	104	54	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_26898	2	superkingdom	Bacteria	16	15	11	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_46464	91061	class	Bacilli	25	21	11	0.500	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_27037	2	superkingdom	Bacteria	15	14	10	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6952	2	superkingdom	Bacteria	32	28	18	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24166	91061	class	Bacilli	20	19	10	0.500	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_5765	81852	family	Enterococcaceae	20	19	13	0.680	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae
+k141_5774	2	superkingdom	Bacteria	9	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52539	2	superkingdom	Bacteria	35	28	17	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52573	2	superkingdom	Bacteria	33	29	23	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9122	1239	phylum	Firmicutes	18	18	10	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_52590	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48376	2	superkingdom	Bacteria	30	29	19	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48414	2	superkingdom	Bacteria	34	31	26	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9278	2	superkingdom	Bacteria	19	17	11	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48435	2	superkingdom	Bacteria	64	61	41	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

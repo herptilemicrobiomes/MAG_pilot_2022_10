@@ -1,0 +1,12 @@
+k141_43010	2	superkingdom	Bacteria	55	51	30	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40273	2	superkingdom	Bacteria	39	35	23	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_33362	1	no rank	root	84	71	71	1.000	unknown;unknown;unknown	-_root
+k141_27324	1	no rank	root	63	60	60	1.000	unknown;unknown;unknown	-_root
+k141_31089	976	phylum	Bacteroidetes	15	13	7	0.650	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_36950	1	no rank	root	61	53	53	1.000	unknown;unknown;unknown	-_root
+k141_27542	1	no rank	root	28	24	24	1.000	unknown;unknown;unknown	-_root
+k141_10850	171549	order	Bacteroidales	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_1079	1	no rank	root	33	29	29	1.000	unknown;unknown;unknown	-_root
+k141_51119	976	phylum	Bacteroidetes	12	11	6	0.560	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_2064	1	no rank	root	187	166	166	1.000	unknown;unknown;unknown	-_root
+k141_49324	2	superkingdom	Bacteria	106	98	68	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

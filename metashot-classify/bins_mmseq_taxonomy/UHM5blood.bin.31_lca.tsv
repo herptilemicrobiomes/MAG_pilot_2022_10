@@ -1,0 +1,523 @@
+k141_20261	186801	class	Clostridia	6	5	3	0.600	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_40103	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_60190	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40124	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_20306	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_20309	189325	no rank	Clostridia incertae sedis	2	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;-_Clostridia incertae sedis
+k141_8316	186802	order	Eubacteriales	5	5	4	0.800	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_28093	2	superkingdom	Bacteria	6	5	3	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52091	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28112	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_18189	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_9204	1239	phylum	Firmicutes	5	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_18231	2	superkingdom	Bacteria	8	8	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42053	2026737	species	Ectothiorhodospiraceae bacterium	2	2	1	0.500	unknown;Proteobacteria;Ectothiorhodospiraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Chromatiales;f_Ectothiorhodospiraceae;-_unclassified Ectothiorhodospiraceae;s_Ectothiorhodospiraceae bacterium
+k141_22150	1239	phylum	Firmicutes	5	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_25366	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_53493	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_61769	186801	class	Clostridia	8	6	5	0.830	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_53509	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_6025	1239	phylum	Firmicutes	4	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_2565	1239	phylum	Firmicutes	5	5	3	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_2578	186802	order	Eubacteriales	2	2	2	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_41812	186802	order	Eubacteriales	4	4	2	0.650	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_13539	1239	phylum	Firmicutes	6	5	3	0.740	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_18039	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_41847	1239	phylum	Firmicutes	5	5	3	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_57456	186803	family	Lachnospiraceae	4	3	2	0.670	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_22089	186802	order	Eubacteriales	4	3	2	0.520	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_49406	186801	class	Clostridia	10	10	5	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_41953	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_28936	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_28967	1	no rank	root	9	7	7	1.000	unknown;unknown;unknown	-_root
+k141_5208	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_5210	1239	phylum	Firmicutes	10	9	7	0.780	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_1986	186802	order	Eubacteriales	4	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_17375	1239	phylum	Firmicutes	6	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_56800	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_29054	1649459	genus	Hungatella	4	4	2	0.500	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Hungatella
+k141_12872	216572	family	Oscillospiraceae	2	2	1	0.500	unknown;Firmicutes;Oscillospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae
+k141_17427	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_49009	1485	genus	Clostridium	3	3	2	0.670	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium
+k141_33523	186802	order	Eubacteriales	9	8	5	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_5485	2	superkingdom	Bacteria	3	3	2	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_45418	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_41508	1340502	species	Cetobacterium sp. ZWU0022	1	1	1	1.000	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. ZWU0022
+k141_37442	207244	genus	Anaerostipes	4	4	2	0.650	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Anaerostipes
+k141_45537	1239	phylum	Firmicutes	9	9	5	0.620	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_5587	1496	species	Clostridioides difficile	3	3	2	0.670	unknown;Firmicutes;Peptostreptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Peptostreptococcaceae;g_Clostridioides;s_Clostridioides difficile
+k141_5588	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_57171	1239	phylum	Firmicutes	5	5	3	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_15072	1239	phylum	Firmicutes	5	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_63041	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_63049	1783272	clade	Terrabacteria group	3	3	2	0.520	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_3365	1239	phylum	Firmicutes	5	5	3	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_54480	1239	phylum	Firmicutes	7	6	4	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_62341	2304039	species	Thermoanaerobacterales bacterium	1	1	1	1.000	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Thermoanaerobacterales;-_unclassified Thermoanaerobacterales;s_Thermoanaerobacterales bacterium
+k141_30172	1239	phylum	Firmicutes	8	8	4	0.570	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_58179	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_22655	131567	no rank	cellular organisms	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_50169	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_30227	2	superkingdom	Bacteria	4	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50196	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50200	474960	species	Hydrogenoanaerobacterium saccharovorans	2	2	1	0.500	unknown;Firmicutes;Oscillospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;g_Hydrogenoanaerobacterium;s_Hydrogenoanaerobacterium saccharovorans
+k141_40711	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12540	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_1216	2	superkingdom	Bacteria	8	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_56373	1239	phylum	Firmicutes	5	4	3	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_4742	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_32896	1239	phylum	Firmicutes	4	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_4760	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24569	1350	genus	Enterococcus	1	1	1	1.000	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus
+k141_24585	1239	phylum	Firmicutes	7	5	3	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_24603	186801	class	Clostridia	3	2	1	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_13020	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_8876	2	superkingdom	Bacteria	4	4	2	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37360	186802	order	Eubacteriales	4	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_41387	186801	class	Clostridia	5	4	2	0.650	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_21525	216572	family	Oscillospiraceae	6	6	4	0.670	unknown;Firmicutes;Oscillospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae
+k141_17540	186802	order	Eubacteriales	9	9	5	0.560	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_17577	186802	order	Eubacteriales	6	6	4	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_37397	1783272	clade	Terrabacteria group	9	9	5	0.560	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_17641	2	superkingdom	Bacteria	8	8	5	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5339	186801	class	Clostridia	5	5	3	0.600	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_41012	1239	phylum	Firmicutes	8	8	5	0.630	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_45000	2	superkingdom	Bacteria	5	5	4	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21327	1	no rank	root	9	7	7	1.000	unknown;unknown;unknown	-_root
+k141_37198	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_41077	47917	species	Serratia fonticola	3	3	2	0.670	unknown;Proteobacteria;Yersiniaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Yersiniaceae;g_Serratia;s_Serratia fonticola
+k141_12750	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_61115	91061	class	Bacilli	4	4	2	0.640	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_25101	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_33230	186802	order	Eubacteriales	3	1	1	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_21389	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_61296	1816678	species	Christensenella timonensis	2	2	1	0.500	unknown;Firmicutes;Christensenellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Christensenellaceae;g_Christensenella;s_Christensenella timonensis
+k141_37308	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_2035	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_17492	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_12946	2	superkingdom	Bacteria	11	10	7	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12952	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_45382	51515	species	Dehalobacterium formicoaceticum	3	2	1	0.500	unknown;Firmicutes;Peptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Peptococcaceae;g_Dehalobacterium;s_Dehalobacterium formicoaceticum
+k141_41275	1239	phylum	Firmicutes	4	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_53047	1	no rank	root	11	10	10	1.000	unknown;unknown;unknown	-_root
+k141_21520	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_5673	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13120	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13207	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13209	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_17786	186802	order	Eubacteriales	4	4	2	0.650	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_8993	186803	family	Lachnospiraceae	5	5	3	0.600	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_2399	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13237	1239	phylum	Firmicutes	6	5	3	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_57273	31979	family	Clostridiaceae	7	6	5	0.830	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae
+k141_13279	186801	class	Clostridia	3	3	3	1.000	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_28824	1485	genus	Clostridium	4	4	2	0.500	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium
+k141_17251	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28864	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_21426	2	superkingdom	Bacteria	5	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_56538	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52892	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_33346	1239	phylum	Firmicutes	7	6	5	0.800	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_33365	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21488	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1960	186802	order	Eubacteriales	5	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_58805	186802	order	Eubacteriales	3	3	2	0.520	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_7489	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_58859	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_34930	1239	phylum	Firmicutes	3	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_9782	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_58888	91347	order	Enterobacterales	6	5	3	0.510	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+k141_7573	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7608	186802	order	Eubacteriales	4	4	3	0.990	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_7611	1	no rank	root	10	8	8	1.000	unknown;unknown;unknown	-_root
+k141_7629	1239	phylum	Firmicutes	3	3	2	0.970	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_58213	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22694	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_58245	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22706	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_22713	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22714	186802	order	Eubacteriales	4	4	2	0.650	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_58261	186801	class	Clostridia	2	2	1	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_58293	186802	order	Eubacteriales	4	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_42607	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_3418	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13948	186801	class	Clostridia	6	4	2	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_46326	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_13955	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_22859	1239	phylum	Firmicutes	7	6	3	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_22874	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_38634	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_3535	1783272	clade	Terrabacteria group	9	8	4	0.570	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_58452	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_3543	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_7215	1239	phylum	Firmicutes	3	2	2	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_62819	2	superkingdom	Bacteria	6	6	4	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_43363	186802	order	Eubacteriales	3	3	3	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_27297	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_10147	2721109	genus	Candidatus Neoanaerotignum	3	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;-_Clostridia incertae sedis;g_Candidatus Neoanaerotignum
+k141_27355	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_10159	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_19781	2	superkingdom	Bacteria	7	6	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_55383	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_55438	581	genus	Morganella	5	5	3	0.500	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella
+k141_27547	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_48429	1236	class	Gammaproteobacteria	8	8	8	1.000	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_60662	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_44409	2721136	species	Candidatus Neoanaerotignum tabaqchaliae	4	2	1	0.930	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;-_Clostridia incertae sedis;g_Candidatus Neoanaerotignum;s_Candidatus Neoanaerotignum tabaqchaliae
+k141_36748	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_36816	0	no rank	unclassified	1	0	0	0.000		
+k141_56262	2	superkingdom	Bacteria	11	9	8	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1141	186801	class	Clostridia	3	3	2	0.670	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_56269	186801	class	Clostridia	4	4	2	0.930	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_20978	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_44553	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_14738	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14745	186802	order	Eubacteriales	8	8	6	0.830	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_14746	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_14749	186801	class	Clostridia	9	8	4	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_14755	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_10507	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_27750	2	superkingdom	Bacteria	19	19	13	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_46875	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_14850	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_39614	186802	order	Eubacteriales	6	5	3	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_24128	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_8367	186802	order	Eubacteriales	7	7	3	0.590	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_8371	186802	order	Eubacteriales	3	2	1	0.980	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_32073	186802	order	Eubacteriales	7	6	4	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_20431	1239	phylum	Firmicutes	2	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_60268	1239	phylum	Firmicutes	4	4	3	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_12204	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_20477	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_728	2789328	species	Lutibacter sp. B2	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Lutibacter;-_unclassified Lutibacter;s_Lutibacter sp. B2
+k141_55911	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_58348	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_58351	2	superkingdom	Bacteria	7	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22809	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_58367	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_3465	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_3494	1239	phylum	Firmicutes	4	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_54665	2	superkingdom	Bacteria	7	6	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_58402	31979	family	Clostridiaceae	7	7	6	0.840	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae
+k141_7085	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_58420	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16308	2	superkingdom	Bacteria	7	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_20351	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24097	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_52146	186801	class	Clostridia	7	7	3	0.710	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_28160	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_40332	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16345	2320102	species	bacterium 1XD42-8	3	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_unclassified Bacteria;s_bacterium 1XD42-8
+k141_52184	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_47992	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_47995	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6215	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22331	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_22391	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13740	1121323	strain	Anaerotignum lactatifermentans DSM 14214	4	4	2	0.910	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Anaerotignum;s_Anaerotignum lactatifermentans;-_Anaerotignum lactatifermentans DSM 14214
+k141_25427	186802	order	Eubacteriales	6	6	3	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_53782	186801	class	Clostridia	4	4	3	0.680	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_61976	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_61977	186802	order	Eubacteriales	2	1	1	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_38135	1239	phylum	Firmicutes	6	6	5	0.990	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_49648	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39805	1239	phylum	Firmicutes	5	5	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_4128	2	superkingdom	Bacteria	6	6	4	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8074	1239	phylum	Firmicutes	1	1	1	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_8079	1239	phylum	Firmicutes	2	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_60045	1239	phylum	Firmicutes	5	4	2	0.520	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_4136	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_4137	1462919	species	Mobilitalea sibirica	2	2	1	0.500	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Mobilitalea;s_Mobilitalea sibirica
+k141_27967	2	superkingdom	Bacteria	10	10	10	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16110	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_16122	91347	order	Enterobacterales	3	3	2	0.670	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+k141_55151	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_55168	2	superkingdom	Bacteria	7	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_55201	1239	phylum	Firmicutes	6	6	3	0.720	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_35468	1239	phylum	Firmicutes	7	6	4	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_55248	186802	order	Eubacteriales	7	7	4	0.570	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_14452	186803	family	Lachnospiraceae	8	7	4	0.660	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_55269	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_31378	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50809	1239	phylum	Firmicutes	3	2	1	0.930	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_35551	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_7846	31979	family	Clostridiaceae	4	3	2	0.670	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae
+k141_23341	186802	order	Eubacteriales	4	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_43074	186801	class	Clostridia	2	2	1	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_31193	2	superkingdom	Bacteria	5	5	4	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23405	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_23408	186802	order	Eubacteriales	3	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_19544	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_59081	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_31282	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_31284	1239	phylum	Firmicutes	8	8	3	0.580	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_53877	186802	order	Eubacteriales	6	5	3	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_38229	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_9375	1239	phylum	Firmicutes	4	4	3	0.980	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_53917	186802	order	Eubacteriales	7	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_49806	2	superkingdom	Bacteria	7	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_25723	2384	species	Epulopiscium sp.	2	2	1	0.500	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Epulopiscium;-_unclassified Epulopiscium;s_Epulopiscium sp.
+k141_29820	1239	phylum	Firmicutes	21	20	12	0.580	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_45973	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_3061	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_22478	186802	order	Eubacteriales	3	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_20130	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_35941	186801	class	Clostridia	5	2	2	1.000	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_60138	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16219	1239	phylum	Firmicutes	5	5	3	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_28034	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_4213	1485	genus	Clostridium	1	1	1	1.000	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium
+k141_39980	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_8243	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_36092	1	no rank	root	5	3	3	1.000	unknown;unknown;unknown	-_root
+k141_540	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_9887	2	superkingdom	Bacteria	12	11	6	0.550	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_31095	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9933	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_42917	1239	phylum	Firmicutes	11	10	6	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_14260	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_23245	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_14296	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_23266	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_10009	2	superkingdom	Bacteria	3	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_54931	186801	class	Clostridia	4	3	2	0.510	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_53542	2	superkingdom	Bacteria	9	8	5	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22204	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_6080	1730	genus	Eubacterium	3	3	1	0.880	unknown;Firmicutes;Eubacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Eubacteriaceae;g_Eubacterium
+k141_6099	1239	phylum	Firmicutes	4	4	2	0.650	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_61860	186802	order	Eubacteriales	6	6	4	0.790	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_42131	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_49499	2	superkingdom	Bacteria	10	9	6	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_53627	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_13703	1239	phylum	Firmicutes	5	4	3	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_42179	1239	phylum	Firmicutes	9	7	6	0.810	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_3851	1783272	clade	Terrabacteria group	4	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_3856	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7396	2	superkingdom	Bacteria	8	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_26724	91347	order	Enterobacterales	5	4	3	0.750	unknown;Proteobacteria;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+k141_19141	186802	order	Eubacteriales	2	1	1	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_23044	2	superkingdom	Bacteria	6	6	4	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_30965	1239	phylum	Firmicutes	5	3	2	0.520	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_23068	913099	species	Sedimentibacter acidaminivorans	4	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Tissierellia;-_Tissierellia incertae sedis;g_Sedimentibacter;s_Sedimentibacter acidaminivorans
+k141_58785	186802	order	Eubacteriales	11	8	4	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_62524	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_11790	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11795	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11797	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_15884	1034346	species	Dielma fastidiosa	2	2	1	0.500	unknown;Firmicutes;Erysipelotrichaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Erysipelotrichia;o_Erysipelotrichales;f_Erysipelotrichaceae;g_Dielma;s_Dielma fastidiosa
+k141_30105	1898203	species	Lachnospiraceae bacterium	3	2	1	0.500	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;-_unclassified Lachnospiraceae;s_Lachnospiraceae bacterium
+k141_58095	0	no rank	unclassified	1	0	0	0.000		
+k141_62262	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_62265	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_54444	1965545	species	Tyzzerella sp. An114	3	2	1	0.920	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Tyzzerella;-_unclassified Tyzzerella;s_Tyzzerella sp. An114
+k141_18908	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42433	1783272	clade	Terrabacteria group	5	5	4	0.800	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_50026	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_18756	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_58018	2	superkingdom	Bacteria	6	6	3	0.590	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_58024	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_54302	2718714	species	Anaerosporobacter sp. KCTC 15857	1	1	1	1.000	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Anaerosporobacter;-_unclassified Anaerosporobacter;s_Anaerosporobacter sp. KCTC 15857
+k141_30035	1239	phylum	Firmicutes	10	9	5	0.560	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_62191	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_26016	1965545	species	Tyzzerella sp. An114	2	2	1	0.500	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Tyzzerella;-_unclassified Tyzzerella;s_Tyzzerella sp. An114
+k141_15079	1	no rank	root	12	10	10	1.000	unknown;unknown;unknown	-_root
+k141_39217	1239	phylum	Firmicutes	4	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_39223	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_10310	186802	order	Eubacteriales	4	4	3	0.750	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_46689	1	no rank	root	8	6	6	1.000	unknown;unknown;unknown	-_root
+k141_10327	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_39294	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_46737	186801	class	Clostridia	5	5	3	0.600	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_10489	186801	class	Clostridia	8	5	3	0.510	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_10493	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_10503	186802	order	Eubacteriales	3	2	2	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_10523	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_14885	186802	order	Eubacteriales	3	3	2	0.960	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_14892	1239	phylum	Firmicutes	9	8	4	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_14897	0	no rank	unclassified	1	0	0	0.000		
+k141_10599	2	superkingdom	Bacteria	11	11	7	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14965	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_10699	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_15016	244127	genus	Anaerotruncus	2	2	1	0.500	unknown;Firmicutes;Oscillospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;g_Anaerotruncus
+k141_10785	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15062	1239	phylum	Firmicutes	9	7	5	0.610	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_27566	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_27592	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_43560	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_10225	1239	phylum	Firmicutes	7	5	3	0.510	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_59480	2	superkingdom	Bacteria	9	9	6	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_59493	1239	phylum	Firmicutes	7	7	3	0.580	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_14624	1239	phylum	Firmicutes	2	1	1	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_55591	186801	class	Clostridia	5	4	2	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_39165	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_10254	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_34133	186802	order	Eubacteriales	6	6	5	0.800	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_45992	186801	class	Clostridia	3	3	2	0.670	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_46008	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_29930	186801	class	Clostridia	2	2	1	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_29952	186801	class	Clostridia	4	4	3	0.970	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_57960	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29995	1473580	species	Defluviitalea phaphyphila	1	1	1	1.000	unknown;Firmicutes;Defluviitaleaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Defluviitaleaceae;g_Defluviitalea;s_Defluviitalea phaphyphila
+k141_57989	1239	phylum	Firmicutes	5	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_54228	2721136	species	Candidatus Neoanaerotignum tabaqchaliae	3	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;-_Clostridia incertae sedis;g_Candidatus Neoanaerotignum;s_Candidatus Neoanaerotignum tabaqchaliae
+k141_3223	59839	species	Paenibacillus alginolyticus	3	2	1	0.500	unknown;Firmicutes;Paenibacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Bacillales;f_Paenibacillaceae;g_Paenibacillus;s_Paenibacillus alginolyticus
+k141_44335	2	superkingdom	Bacteria	8	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_32390	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_20744	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_32452	91061	class	Bacilli	3	3	2	0.670	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_24414	1239	phylum	Firmicutes	4	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_60637	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_4595	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_4616	186801	class	Clostridia	4	3	2	0.670	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_12524	1239	phylum	Firmicutes	3	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_16740	2	superkingdom	Bacteria	6	6	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5341	543	family	Enterobacteriaceae	2	2	1	0.950	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_5342	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_21588	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_8930	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_17673	1965545	species	Tyzzerella sp. An114	4	3	2	0.510	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Tyzzerella;-_unclassified Tyzzerella;s_Tyzzerella sp. An114
+k141_21623	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_17714	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_25221	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2138	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_53177	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37069	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_16914	1783272	clade	Terrabacteria group	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_48597	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_24846	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_28726	1239	phylum	Firmicutes	15	15	8	0.630	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_5002	186802	order	Eubacteriales	10	10	5	0.550	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_21174	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24942	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21231	1898203	species	Lachnospiraceae bacterium	2	2	1	0.500	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;-_unclassified Lachnospiraceae;s_Lachnospiraceae bacterium
+k141_24966	582	species	Morganella morganii	7	6	4	0.790	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+k141_24285	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_24294	1239	phylum	Firmicutes	13	11	7	0.630	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_52508	186801	class	Clostridia	4	3	2	0.670	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_55973	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_16462	1239	phylum	Firmicutes	9	9	5	0.560	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_55996	1239	phylum	Firmicutes	3	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_20607	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24334	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_44198	186802	order	Eubacteriales	9	9	6	0.630	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_36445	2	superkingdom	Bacteria	8	8	6	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11939	186802	order	Eubacteriales	4	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_27890	186801	class	Clostridia	4	4	2	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_8050	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_8052	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_59946	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_20024	2	superkingdom	Bacteria	10	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_335	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_340	186802	order	Eubacteriales	9	8	4	0.590	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_23915	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23936	186801	class	Clostridia	5	5	3	0.600	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_55636	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_19882	1	no rank	root	10	7	7	1.000	unknown;unknown;unknown	-_root
+k141_7967	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_59644	186802	order	Eubacteriales	9	7	4	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_51699	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_51704	186802	order	Eubacteriales	3	3	2	0.520	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_144	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_146	186802	order	Eubacteriales	5	5	3	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_147	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_59741	1239	phylum	Firmicutes	5	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_36979	2	superkingdom	Bacteria	6	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_44788	1080709	genus	Methanomassiliicoccus	2	2	1	0.500	unknown;Candidatus Thermoplasmatota;Methanomassiliicoccaceae	-_cellular organisms;d_Archaea;p_Candidatus Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Methanomassiliicoccaceae;g_Methanomassiliicoccus
+k141_21091	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12632	1239	phylum	Firmicutes	5	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_8665	186802	order	Eubacteriales	7	6	4	0.520	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_24697	2	superkingdom	Bacteria	7	7	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8668	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_12667	1816678	species	Christensenella timonensis	2	2	1	0.500	unknown;Firmicutes;Christensenellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Christensenellaceae;g_Christensenella;s_Christensenella timonensis
+k141_24715	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_12685	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_12336	2	superkingdom	Bacteria	10	10	7	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16620	186803	family	Lachnospiraceae	2	2	2	1.000	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_20692	1239	phylum	Firmicutes	3	3	3	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_56114	2	superkingdom	Bacteria	10	10	6	0.560	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12360	1485	genus	Clostridium	6	4	2	0.660	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium
+k141_20716	186802	order	Eubacteriales	4	4	2	0.650	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_48298	1965545	species	Tyzzerella sp. An114	6	4	2	0.500	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae;g_Tyzzerella;-_unclassified Tyzzerella;s_Tyzzerella sp. An114
+k141_32348	1239	phylum	Firmicutes	6	6	3	0.590	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_12399	1239	phylum	Firmicutes	4	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_60584	2	superkingdom	Bacteria	14	12	8	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21797	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_61542	186802	order	Eubacteriales	11	10	5	0.550	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_25259	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_21856	186801	class	Clostridia	6	6	3	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_9131	186802	order	Eubacteriales	4	4	4	1.000	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_45703	1239	phylum	Firmicutes	8	8	4	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_61634	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_53314	186801	class	Clostridia	10	9	5	0.620	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_17951	2	superkingdom	Bacteria	3	3	1	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_41797	1239	phylum	Firmicutes	4	4	3	0.680	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_11309	186801	class	Clostridia	4	3	2	0.670	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_11341	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_11360	0	no rank	unclassified	1	0	0	0.000		
+k141_11442	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_11481	1239	phylum	Firmicutes	3	2	1	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_11500	186802	order	Eubacteriales	5	5	3	0.600	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_15534	186802	order	Eubacteriales	4	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_15626	1239	phylum	Firmicutes	5	5	5	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_15792	1239	phylum	Firmicutes	4	4	3	0.540	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_15800	2	superkingdom	Bacteria	7	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_31286	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_7870	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_7878	186801	class	Clostridia	6	4	2	0.500	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_38844	1239	phylum	Firmicutes	9	7	3	0.590	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_7899	2	superkingdom	Bacteria	9	8	4	0.590	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23519	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_10055	1	no rank	root	10	9	9	1.000	unknown;unknown;unknown	-_root
+k141_19645	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_7930	1239	phylum	Firmicutes	7	7	4	0.660	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_55136	186803	family	Lachnospiraceae	2	2	1	0.940	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_18972	1236	class	Gammaproteobacteria	7	7	6	0.860	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_9567	186801	class	Clostridia	3	3	2	0.670	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_14018	1239	phylum	Firmicutes	5	5	3	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_42771	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_58597	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_34741	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_58605	186802	order	Eubacteriales	4	4	2	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_62393	1239	phylum	Firmicutes	6	6	4	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_7270	186801	class	Clostridia	5	5	3	0.740	unknown;Firmicutes;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia
+k141_3762	1239	phylum	Firmicutes	6	6	3	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_62981	59620	species	uncultured Clostridium sp.	3	1	1	1.000	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium;-_environmental samples;s_uncultured Clostridium sp.
+k141_10258	1239	phylum	Firmicutes	4	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_14642	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_27649	1783272	clade	Terrabacteria group	5	5	3	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_51289	1239	phylum	Firmicutes	8	6	3	0.600	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_14659	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_31585	1239	phylum	Firmicutes	5	5	4	0.800	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_10283	1239	phylum	Firmicutes	7	5	3	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_43635	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_14688	1239	phylum	Firmicutes	4	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_31398	186802	order	Eubacteriales	2	2	1	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_19702	1239	phylum	Firmicutes	6	5	3	0.520	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_10111	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_14550	2	superkingdom	Bacteria	3	3	2	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_27184	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_35610	186802	order	Eubacteriales	8	8	4	0.500	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_31455	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_43334	1239	phylum	Firmicutes	2	2	2	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_46641	1	no rank	root	7	5	5	1.000	unknown;unknown;unknown	-_root
+k141_43359	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9721	186802	order	Eubacteriales	8	7	4	0.570	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_3765	186802	order	Eubacteriales	9	7	4	0.570	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_7293	2	superkingdom	Bacteria	8	8	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14159	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_3782	2	superkingdom	Bacteria	14	10	7	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3785	582	species	Morganella morganii	3	2	1	0.500	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Morganella;s_Morganella morganii
+k141_7324	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_54845	1239	phylum	Firmicutes	5	4	2	0.500	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_22993	2	superkingdom	Bacteria	11	10	7	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_62467	1239	phylum	Firmicutes	4	4	3	0.750	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_63070	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_10935	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_47275	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11077	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_63211	543	family	Enterobacteriaceae	8	8	6	0.670	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_63216	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11171	1239	phylum	Firmicutes	4	4	2	0.660	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_47419	1239	phylum	Firmicutes	3	1	1	1.000	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes
+k141_15425	186803	family	Lachnospiraceae	4	3	2	0.510	unknown;Firmicutes;Lachnospiraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae
+k141_11303	1239	phylum	Firmicutes	4	3	2	0.670	unknown;Firmicutes;uc_Firmicutes	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes

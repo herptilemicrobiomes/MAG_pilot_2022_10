@@ -1,0 +1,308 @@
+UniRef50_A0A654U762	1	1.000	1.000	0.576	1773	species	Mycobacterium tuberculosis	unknown;Actinobacteria;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis
+UniRef50_A7H724	1	0.976	0.976	0.904	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842J1A8	1	1.000	1.000	0.956	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_E3H7K3	1	0.970	0.970	0.932	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A1T4M1N1	1	0.996	0.996	0.938	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A6J7T8S0	1	0.510	0.510	0.849	449393	species	freshwater metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_freshwater metagenome
+UniRef50_A0A842IYN5	1	1.000	1.000	1.000	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A0M1VU51	1	0.995	0.995	0.913	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_Q8RIG3	1	1.000	1.000	0.885	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0010329E9A	1	0.996	0.996	0.915	848	genus	Fusobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium
+UniRef50_L7NJM0	1	1.000	1.000	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A377GZ33	1	1.000	1.000	0.941	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_W8TFU7	1	0.989	0.989	0.866	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B9MKG1	1	0.991	0.991	0.961	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C6JLA1	1	0.992	0.992	0.598	848	genus	Fusobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium
+UniRef50_Q8R5N5	1	1.000	1.000	0.943	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0F5PL37	1	0.771	0.771	0.866	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8RIH4	1	0.984	0.984	0.919	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5Q2N5L6	1	0.842	0.842	0.952	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_E3H654	1	0.994	0.994	0.978	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1C6CRZ3	1	1.000	1.000	0.966	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C3W9Q4	1	0.944	0.944	0.926	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A1T4MIA3	1	0.993	0.993	0.984	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_B8I304	1	0.997	0.997	0.970	1783272	clade	Terrabacteria group	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+UniRef50_Q8RHI4	1	1.000	1.000	0.894	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q8RDQ4	1	0.993	0.993	0.936	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A842J6L5	1	1.000	1.000	0.918	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_E3HA79	1	1.000	1.000	0.922	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A7U8C1D3	1	0.184	0.184	0.888	207954	species	Neptuniibacter caesariensis	unknown;Proteobacteria;Oceanospirillaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Oceanospirillales;f_Oceanospirillaceae;g_Neptuniibacter;s_Neptuniibacter caesariensis
+UniRef50_C7NCC4	1	0.978	0.978	0.931	203490	class	Fusobacteriia	unknown;Fusobacteria;uc_Fusobacteriia	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia
+UniRef50_A0A369XW58	1	0.986	0.986	0.914	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A150JZT6	1	0.271	0.271	0.579	1398	species	Weizmannia coagulans	unknown;Firmicutes;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Weizmannia;s_Weizmannia coagulans
+UniRef50_A0A1D9P7D4	1	0.980	0.980	0.948	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A1SNK8	1	1.000	1.000	0.950	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A250LZL8	1	0.990	0.990	0.956	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A6I8MFC8	1	1.000	1.000	0.907	1130046	species	Oceanivirga miroungae	unknown;Fusobacteria;Leptotrichiaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Leptotrichiaceae;g_Oceanivirga;s_Oceanivirga miroungae
+UniRef50_A0A377GVA6	1	1.000	1.000	0.935	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A1B2YZ61	2	0.452	0.839	0.924	77133	species	uncultured bacterium	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium
+UniRef50_A0A017H5K0	1	0.963	0.963	1.000	859	species	Fusobacterium necrophorum	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium necrophorum
+UniRef50_Q8RE08	1	1.000	1.000	0.957	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8RIF4	1	0.990	0.990	0.924	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842IYJ9	1	1.000	1.000	0.961	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_U7VAI9	1	1.000	1.000	0.921	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A423UMX0	1	1.000	1.000	0.480	1335613	species	Gordonibacter urolithinfaciens	unknown;Actinobacteria;Eggerthellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Coriobacteriia;o_Eggerthellales;f_Eggerthellaceae;g_Gordonibacter;s_Gordonibacter urolithinfaciens
+UniRef50_A0A1T4Q587	1	1.000	1.000	0.928	180163	species	Cetobacterium ceti	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;s_Cetobacterium ceti
+UniRef50_UPI000173E2C3	1	0.997	0.997	0.382	263	species	Francisella tularensis	unknown;Proteobacteria;Francisellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiotrichales;f_Francisellaceae;g_Francisella;s_Francisella tularensis
+UniRef50_A0A1T4P0E8	1	1.000	1.000	0.924	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_W1UPG6	1	0.728	0.728	0.452	1403933	species	Veillonella sp. DORA_B_18_19_23	unknown;Firmicutes;Veillonellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Negativicutes;o_Veillonellales;f_Veillonellaceae;g_Veillonella;-_unclassified Veillonella;s_Veillonella sp. DORA_B_18_19_23
+UniRef50_B7K225	1	1.000	1.000	0.863	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4R7L462	1	0.984	0.984	0.890	1627895	species	Hypnocyclicus thermotrophus	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Hypnocyclicus;s_Hypnocyclicus thermotrophus
+UniRef50_Q8R6H6	1	0.987	0.987	0.933	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_R5WS98	1	0.356	0.356	0.531	1262692	species	Alistipes sp. CAG:157	unknown;Bacteroidetes;Rikenellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Rikenellaceae;g_Alistipes;-_environmental samples;s_Alistipes sp. CAG:157
+UniRef50_C3WFX3	1	1.000	1.000	0.925	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R7RQS2	1	0.507	0.507	0.932	1783272	clade	Terrabacteria group	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+UniRef50_Q8Y4I2	1	1.000	1.000	0.932	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U7VD43	1	1.000	1.000	0.946	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_Q8R601	1	1.000	1.000	0.964	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_G6C2R4	1	0.970	0.970	0.921	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A842J2R3	1	1.000	1.000	0.959	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A1T4PPZ4	1	0.995	0.995	0.930	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A017H686	1	1.000	1.000	0.486	848	genus	Fusobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium
+UniRef50_Q06796	1	1.000	1.000	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842J0X0	1	1.000	1.000	0.956	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_Q8RFS8	1	0.973	0.973	0.925	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A485M4E2	1	0.657	0.657	0.478	1263854	species	anaerobic digester metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_anaerobic digester metagenome
+UniRef50_A0A1T4NYJ6	1	1.000	1.000	0.947	180163	species	Cetobacterium ceti	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;s_Cetobacterium ceti
+UniRef50_A0A1C0ACV1	1	0.981	0.981	0.937	1783272	clade	Terrabacteria group	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+UniRef50_D1AVF2	1	0.997	0.997	0.896	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_J7SGC9	1	0.963	0.963	0.898	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8RIG2	1	1.000	1.000	0.967	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842IYM6	1	1.000	1.000	0.955	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_E5BEF1	1	0.984	0.984	0.952	203490	class	Fusobacteriia	unknown;Fusobacteria;uc_Fusobacteriia	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia
+UniRef50_A0A349GSQ8	1	1.000	1.000	0.952	2053555	species	Fusobacteriaceae bacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;-_unclassified Fusobacteriaceae;s_Fusobacteriaceae bacterium
+UniRef50_A0A140L7W2	1	1.000	1.000	0.944	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1T4LS96	1	1.000	1.000	0.962	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_Q8RFX8	1	0.977	0.977	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A6TU30	1	1.000	1.000	0.933	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0Q1AEV2	1	0.986	0.986	0.899	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4R7L8X2	1	0.973	0.973	0.964	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_E3H7K4	1	1.000	1.000	0.988	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_E3HD37	1	0.997	0.997	0.958	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q8RFY7	1	0.993	0.993	0.958	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8RHI8	1	1.000	1.000	0.905	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_H1PVD6	1	1.000	1.000	0.984	203490	class	Fusobacteriia	unknown;Fusobacteria;uc_Fusobacteriia	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia
+UniRef50_U7VC44	1	0.987	0.987	0.935	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_C3WBG3	1	1.000	1.000	0.899	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7V837	1	1.000	1.000	0.891	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A1T4PKM7	1	0.956	0.956	0.932	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A5TVZ5	1	0.997	0.997	0.941	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A0A1SLM3	1	0.976	0.976	0.765	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842IYL8	1	1.000	1.000	0.945	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_C7XR88	1	0.975	0.975	0.886	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1T4PMJ3	1	0.974	0.974	0.964	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A109W7M8	1	0.913	0.913	0.941	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A250LPP1	1	0.984	0.984	0.956	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_Q8EKT9	1	1.000	1.000	0.857	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7VCU9	1	1.000	1.000	0.973	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_Q8RIF6	1	0.995	0.995	0.925	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1T4PMY6	1	1.000	1.000	0.968	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_Q8RIK8	1	1.000	1.000	0.921	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_F9EMN0	1	0.991	0.991	0.942	997347	strain	Fusobacterium nucleatum subsp. animalis ATCC 51191	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium nucleatum;-_Fusobacterium nucleatum subsp. animalis;-_Fusobacterium nucleatum subsp. animalis ATCC 51191
+UniRef50_K8DY08	1	0.949	0.949	0.840	1121428	strain	Desulfotomaculum hydrothermale Lam5 = DSM 18033	unknown;Firmicutes;Peptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Peptococcaceae;g_Desulfotomaculum;s_Desulfotomaculum hydrothermale;-_Desulfotomaculum hydrothermale Lam5 = DSM 18033
+UniRef50_UPI00064738B7	1	0.872	0.872	0.932	2630983	no rank	unclassified Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium
+UniRef50_A0A842IY67	1	1.000	1.000	0.974	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A1V6K058	1	0.990	0.990	0.790	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q8RIJ5	1	0.974	0.974	0.949	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7UX33	1	0.993	0.993	0.972	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A0D6H3P7	1	0.967	0.967	0.929	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A2T0AT01	2	0.490	0.967	0.625	1121340	strain	Clostridium thermopalmarium DSM 5974	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium;s_Clostridium thermopalmarium;-_Clostridium thermopalmarium DSM 5974
+UniRef50_C3WG91	1	0.944	0.944	0.942	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A1T4M1E9	1	1.000	1.000	0.953	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A7X1HQV4	1	0.996	0.996	0.921	2759680	species	Cetobacterium sp. 2G large	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2G large
+UniRef50_A0A1T4Q915	1	0.989	0.989	0.946	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_R7GVB9	1	0.465	0.465	0.595	1263103	species	Prevotella stercorea CAG:629	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;-_environmental samples;s_Prevotella stercorea CAG:629
+UniRef50_A0A1T4Q591	1	1.000	1.000	0.963	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8RFY1	1	0.991	0.991	0.946	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_Q8RIE4	1	1.000	1.000	0.883	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8RIH1	1	1.000	1.000	0.964	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8RE45	1	1.000	1.000	0.908	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8R5Z9	1	1.000	1.000	0.880	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q8RIG0	1	0.991	0.991	0.904	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7X1HJU3	1	0.974	0.974	0.957	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A369XR68	1	1.000	1.000	0.900	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_C3W9Z2	1	1.000	1.000	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8RE44	1	1.000	1.000	0.917	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A6TWG6	1	1.000	1.000	0.916	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A6N3CE70	1	0.999	0.999	0.977	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E5BHJ3	1	1.000	1.000	0.754	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842J4Q1	1	1.000	1.000	0.907	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_D8ICD3	1	0.986	0.986	0.924	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A369XVP9	1	1.000	1.000	0.948	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_P30721	1	0.945	0.945	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8RHA6	1	0.991	0.991	0.940	203491	order	Fusobacteriales	unknown;Fusobacteria;uc_Fusobacteriales	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales
+UniRef50_A0A1V5KJE0	1	0.508	0.508	0.664	1852894	species	Firmicutes bacterium ADurb.Bin467	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_unclassified Firmicutes sensu stricto;s_Firmicutes bacterium ADurb.Bin467
+UniRef50_Q8RIG6	1	1.000	1.000	0.933	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A842J2U0	1	1.000	1.000	0.948	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A842IYP0	1	1.000	1.000	0.919	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A842IYP7	1	1.000	1.000	0.925	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_C6JI10	1	1.000	1.000	0.907	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_U7VB11	1	1.000	1.000	0.947	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_E3H632	1	0.989	0.989	0.911	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A1T4Q538	1	0.914	0.914	0.924	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_F7XM03	1	0.968	0.968	0.979	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842J537	1	1.000	1.000	0.979	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A842IYD9	1	1.000	1.000	0.966	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_U7VBE5	1	0.993	0.993	1.000	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_E3HAA1	1	1.000	1.000	0.944	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_U7VBF0	1	1.000	1.000	0.959	203491	order	Fusobacteriales	unknown;Fusobacteria;uc_Fusobacteriales	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales
+UniRef50_Q8RI52	1	0.999	0.999	0.641	848	genus	Fusobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium
+UniRef50_A0A250LZ53	1	0.988	0.988	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0A0X254	1	0.997	0.997	0.954	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q8REA4	1	0.996	0.996	0.943	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A377GZE0	1	1.000	1.000	0.925	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_G6C4B3	1	0.997	0.997	0.929	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2P9H8R7	1	0.667	0.667	0.322	1891238	species	Burkholderiales bacterium	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;-_unclassified Burkholderiales;s_Burkholderiales bacterium
+UniRef50_A0A7G9GZL3	1	0.985	0.985	0.956	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_UPI0003A3212F	1	1.000	1.000	0.923	854	species	Fusobacterium russii	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium russii
+UniRef50_Q8YPI2	1	0.962	0.962	0.944	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_P77983	1	0.994	0.994	0.928	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G6C271	2	0.998	1.467	0.719	861452	strain	Fusobacterium sp. oral taxon 370 str. F0437	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;-_unclassified Fusobacterium;s_Fusobacterium sp. oral taxon 370;-_Fusobacterium sp. oral taxon 370 str. F0437
+UniRef50_C6JHZ6	1	0.997	0.997	0.920	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_H1PSU2	1	1.000	1.000	0.906	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842IYI1	1	1.000	1.000	0.947	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A0L6ZCJ8	1	0.988	0.988	0.952	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U7VC43	1	1.000	1.000	0.950	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A0A8W9Z6	1	0.975	0.975	0.620	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A068QN81	1	1.000	1.000	0.528	351671	species	Xenorhabdus doucetiae	unknown;Proteobacteria;Morganellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Xenorhabdus;s_Xenorhabdus doucetiae
+UniRef50_A0A2X3BBU8	1	0.416	0.416	0.952	209	genus	Helicobacter	unknown;Proteobacteria;Helicobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Helicobacteraceae;g_Helicobacter
+UniRef50_A0A0D8I812	1	1.000	1.000	0.948	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q28UW2	1	0.728	0.728	0.931	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A2V0QZ13	2	0.700	1.257	0.771	103796	no rank	Pseudomonas syringae pv. actinidiae	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;-_Pseudomonas syringae group genomosp. 1;s_Pseudomonas syringae;-_Pseudomonas syringae group pathovars incertae sedis;-_Pseudomonas syringae pv. actinidiae
+UniRef50_U7VC79	1	0.995	0.995	0.946	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A369Y092	1	0.991	0.991	0.934	203490	class	Fusobacteriia	unknown;Fusobacteria;uc_Fusobacteriia	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia
+UniRef50_Q8RE43	1	1.000	1.000	0.930	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1T4Q9Q9	1	0.999	0.999	0.922	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_U7VC39	1	0.940	0.940	0.915	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_C7XR90	1	0.992	0.992	0.972	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8RH06	1	0.714	0.714	0.870	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A377GWD7	1	0.966	0.966	0.982	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842J5B9	1	1.000	1.000	0.945	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_UPI0013D62B8E	1	0.968	0.968	0.978	2665157	species	Fusobacterium sp. IOR10	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;-_unclassified Fusobacterium;s_Fusobacterium sp. IOR10
+UniRef50_A0A842J5K4	1	1.000	1.000	0.970	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A381VSQ8	1	0.523	0.523	0.889	408172	species	marine metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_marine metagenome
+UniRef50_C6JIQ4	1	1.000	1.000	0.951	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_C3WBU5	1	1.000	1.000	0.946	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_U7VDY1	1	0.997	0.997	0.918	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A117KW82	1	0.979	0.979	0.914	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R5V3X5	1	0.805	0.805	0.876	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8RDR9	1	1.000	1.000	0.942	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A0F4W0G7	1	0.795	0.795	0.814	1523154	species	Clostridium sp. IBUN125C	unknown;Firmicutes;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium;-_unclassified Clostridium;s_Clostridium sp. IBUN125C
+UniRef50_A0A842J4B1	1	1.000	1.000	0.957	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_UPI0004790DF0	1	0.854	0.854	0.941	408753	species	Clostridiisalibacter paucivorans	unknown;Firmicutes;Thermohalobacteraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Thermohalobacteraceae;g_Clostridiisalibacter;s_Clostridiisalibacter paucivorans
+UniRef50_A0A0B8R5J7	1	1.000	1.000	0.355	1639	species	Listeria monocytogenes	unknown;Firmicutes;Listeriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Bacillales;f_Listeriaceae;g_Listeria;s_Listeria monocytogenes
+UniRef50_Q8RHA9	1	0.984	0.984	0.924	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A842J155	1	1.000	1.000	0.882	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_E3H9V4	1	0.978	0.978	0.941	572544	strain	Ilyobacter polytropus DSM 2926	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Ilyobacter;s_Ilyobacter polytropus;-_Ilyobacter polytropus DSM 2926
+UniRef50_U7VCZ5	1	0.990	0.990	0.908	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A842J446	1	1.000	1.000	0.946	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_C6JIR2	1	1.000	1.000	0.922	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7VCS2	1	0.998	0.998	0.941	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R9NF07	1	0.729	0.729	0.897	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q2JIL5	1	0.989	0.989	0.925	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A382DM60	1	0.977	0.977	1.000	408172	species	marine metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_marine metagenome
+UniRef50_A0A377GWA5	1	1.000	1.000	0.917	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842IYL0	1	1.000	1.000	0.937	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_U7VD15	1	0.989	0.989	0.894	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_Q8RIK9	1	1.000	1.000	0.966	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R5AYM2	1	0.591	0.591	0.432	1262999	species	Firmicutes bacterium CAG:103	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_environmental samples;s_Firmicutes bacterium CAG:103
+UniRef50_E3H9T5	1	0.978	0.978	0.968	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A842J455	1	1.000	1.000	0.933	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_U7V974	1	0.996	0.996	0.955	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A377GV72	1	1.000	1.000	0.917	203491	order	Fusobacteriales	unknown;Fusobacteria;uc_Fusobacteriales	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales
+UniRef50_C6JI05	1	0.998	0.998	0.909	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A7X1HJV9	1	0.985	0.985	0.902	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_E3HAE5	1	0.990	0.990	0.902	572544	strain	Ilyobacter polytropus DSM 2926	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Ilyobacter;s_Ilyobacter polytropus;-_Ilyobacter polytropus DSM 2926
+UniRef50_C6JP45	1	0.985	0.985	0.973	848	genus	Fusobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium
+UniRef50_Q8RFY4	1	0.997	0.997	0.919	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A1T4Q9N9	1	0.992	0.992	0.923	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_Q8RIH6	1	1.000	1.000	0.912	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A644WHZ0	1	1.000	1.000	0.776	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_C6JLA2	1	0.992	0.992	0.948	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A077XYH8	1	0.929	0.929	0.632	403776	species	Sphingobacterium sp. PM2-P1-29	unknown;Bacteroidetes;Sphingobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium;-_unclassified Sphingobacterium;s_Sphingobacterium sp. PM2-P1-29
+UniRef50_A0LGY6	1	0.959	0.959	0.935	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1B2Z9R5	1	0.985	0.985	0.630	77133	species	uncultured bacterium	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium
+UniRef50_Q8RHI7	1	0.990	0.990	0.944	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U7VCB3	1	0.929	0.929	0.820	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_U7VD64	1	1.000	1.000	0.945	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A1G6GJM2	1	0.972	0.972	0.946	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A842J0W1	1	1.000	1.000	0.984	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_Q8RHH8	1	0.986	0.986	0.964	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0B5QAM8	1	0.955	0.955	0.978	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0D6FXN5	1	0.993	0.993	0.926	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7VCI8	1	0.993	0.993	0.905	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A842J2M2	1	1.000	1.000	0.946	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_B0TC40	1	1.000	1.000	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8RE98	1	0.958	0.958	0.967	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_U7VA72	1	1.000	1.000	0.926	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0U5FDI7	1	0.487	0.487	0.528	611301	no rank	Xanthomonas citri pv. citri	unknown;Proteobacteria;Xanthomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;-_Xanthomonas citri group;s_Xanthomonas citri;-_Xanthomonas citri pv. citri
+UniRef50_Q97GN3	1	0.993	0.993	0.960	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A377GYU1	1	0.993	0.993	0.941	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_Q8R6F8	1	1.000	1.000	0.921	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_F8WVH9	1	0.492	0.492	0.625	469618	strain	Fusobacterium varium ATCC 27725	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium varium;-_Fusobacterium varium ATCC 27725
+UniRef50_A0A4Y7RHM9	1	1.000	1.000	0.480	78350	species	Pelotomaculum schinkii	unknown;Firmicutes;Peptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Peptococcaceae;g_Pelotomaculum;s_Pelotomaculum schinkii
+UniRef50_Q8RH08	1	0.986	0.986	0.900	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842J322	1	1.000	1.000	0.917	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A1T4PKU8	1	1.000	1.000	0.958	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_C6JP72	1	0.947	0.947	0.995	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_H1PWL7	1	0.982	0.982	0.990	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_M1Z980	3	0.925	2.764	0.513	1288971	strain	[Clostridium] ultunense Esp	unknown;Firmicutes;Tissierellaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Tissierellia;o_Tissierellales;f_Tissierellaceae;g_Schnuerera;s_Schnuerera ultunensis;-_[Clostridium] ultunense Esp
+UniRef50_A0A151B4Z1	1	0.988	0.988	0.888	186802	order	Eubacteriales	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+UniRef50_Q8RIF7	1	1.000	1.000	0.913	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A250LQA7	1	1.000	1.000	0.930	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7VDC9	1	0.992	0.992	0.939	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A848BZ15	1	1.000	1.000	0.945	848	genus	Fusobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium
+UniRef50_C3WFY1	1	1.000	1.000	0.911	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A7X1HKS3	1	0.959	0.959	0.908	2630983	no rank	unclassified Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium
+UniRef50_A0A151B4X8	1	0.633	0.633	0.936	186802	order	Eubacteriales	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+UniRef50_A0A842J139	1	1.000	1.000	0.944	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A842J1I9	1	1.000	1.000	0.953	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_E3HA44	1	1.000	1.000	0.719	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A842IYN9	1	1.000	1.000	0.938	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_C3WGC6	1	0.983	0.983	0.972	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_UPI00195D1A1B	1	0.590	0.590	0.934	850	species	Fusobacterium mortiferum	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Fusobacterium;s_Fusobacterium mortiferum
+UniRef50_Q8R639	1	1.000	1.000	0.951	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_C3WFX8	1	1.000	1.000	0.943	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842J4D7	1	1.000	1.000	0.927	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_Q8RHB4	1	1.000	1.000	0.973	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842J5E0	1	1.000	1.000	0.953	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_Q8RHI9	1	0.984	0.984	0.926	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_E3H9T2	1	0.992	0.992	0.951	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842J2G7	1	1.000	1.000	0.914	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_U7VFR8	1	0.987	0.987	0.923	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A653B267	1	1.000	1.000	0.175	301	species	Pseudomonas oleovorans	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;-_Pseudomonas oleovorans/pseudoalcaligenes group;s_Pseudomonas oleovorans
+UniRef50_D1AVM8	1	0.996	0.996	0.968	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U3U4T1	1	0.419	0.419	0.863	891974	species	Plautia stali symbiont	unknown;Proteobacteria;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;-_unclassified Enterobacteriaceae;s_Plautia stali symbiont
+UniRef50_C3W9Z0	1	1.000	1.000	0.939	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_Q8R622	1	1.000	1.000	0.939	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_U7VC65	1	0.938	0.938	0.856	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_A0A330M615	1	0.300	0.300	0.659	43661	species	Shewanella benthica	unknown;Proteobacteria;Shewanellaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Alteromonadales;f_Shewanellaceae;g_Shewanella;s_Shewanella benthica
+UniRef50_A0A842IYS8	1	1.000	1.000	0.985	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A1I5XBM5	1	0.965	0.965	0.966	1783272	clade	Terrabacteria group	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+UniRef50_A0A1V5K065	1	0.951	0.951	0.909	1852895	species	Firmicutes bacterium ADurb.Bin506	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_unclassified Firmicutes sensu stricto;s_Firmicutes bacterium ADurb.Bin506
+UniRef50_Q8RDQ2	1	0.991	0.991	0.948	32066	phylum	Fusobacteria	unknown;Fusobacteria;uc_Fusobacteria	-_cellular organisms;d_Bacteria;p_Fusobacteria
+UniRef50_A0A377GXE8	1	0.995	0.995	0.885	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A842J1E8	1	1.000	1.000	0.926	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A377GWG7	1	1.000	1.000	0.964	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A2G6J3Z2	1	0.923	0.923	0.963	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7Z7JA71	1	0.966	0.966	0.400	164546	species	Cupriavidus taiwanensis	unknown;Proteobacteria;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus taiwanensis
+UniRef50_C6JLR1	1	0.996	0.996	0.978	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U7V682	1	1.000	1.000	0.911	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+UniRef50_F9ELC1	1	1.000	1.000	0.928	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A3S4TTT2	1	1.000	1.000	0.981	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A510L3T0	1	0.674	0.674	0.878	109328	species	Leptotrichia trevisanii	unknown;Fusobacteria;Leptotrichiaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Leptotrichiaceae;g_Leptotrichia;s_Leptotrichia trevisanii
+UniRef50_A0A377GYN8	1	0.982	0.982	0.927	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_A0A800EDZ9	1	1.000	1.000	0.496	1783272	clade	Terrabacteria group	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+UniRef50_P04447	1	0.987	0.987	0.930	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A653A4N3	1	0.988	0.988	0.934	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G4D2U0	1	0.950	0.950	0.927	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_E3HAE4	1	1.000	1.000	0.929	203491	order	Fusobacteriales	unknown;Fusobacteria;uc_Fusobacteriales	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales
+UniRef50_A0A842J5J4	1	1.000	1.000	0.927	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_A0A1T4Q653	1	1.000	1.000	0.922	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1T4Q9B4	1	0.982	0.982	0.918	203492	family	Fusobacteriaceae	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+UniRef50_Q8RIF9	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E3HA76	1	1.000	1.000	0.929	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A842J3X7	1	1.000	1.000	0.971	2754723	species	Cetobacterium sp. 2A	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+UniRef50_UPI001015E402	1	0.815	0.815	0.259	34886	species	Eumetopias jubatus	Metazoa;Chordata;Otariidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda;-_Amniota;c_Mammalia;-_Theria;-_Eutheria;-_Boreoeutheria;-_Laurasiatheria;o_Carnivora;-_Caniformia;f_Otariidae;g_Eumetopias;s_Eumetopias jubatus
+UniRef50_H6LC28	1	0.995	0.995	0.860	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U7VE83	1	0.993	0.993	0.935	180162	genus	Cetobacterium	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium

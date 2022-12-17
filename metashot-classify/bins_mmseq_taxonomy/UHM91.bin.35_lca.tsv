@@ -1,0 +1,616 @@
+k141_9560	2	superkingdom	Bacteria	8	8	5	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6426	976	phylum	Bacteroidetes	3	3	2	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_9680	49546	family	Flavobacteriaceae	8	8	5	0.630	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_9711	237	genus	Flavobacterium	5	5	4	0.520	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_6436	68336	clade	Bacteroidetes/Chlorobi group	4	4	3	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_6485	2	superkingdom	Bacteria	5	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9827	976	phylum	Bacteroidetes	7	7	5	0.710	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_48943	976	phylum	Bacteroidetes	5	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_48988	237	genus	Flavobacterium	4	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_49082	237	genus	Flavobacterium	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_49254	49546	family	Flavobacteriaceae	5	5	3	0.510	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_49293	976	phylum	Bacteroidetes	7	6	4	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_49354	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49391	49546	family	Flavobacteriaceae	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_49427	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_49502	237	genus	Flavobacterium	2	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_12973	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_52174	239	species	Flavobacterium sp.	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp.
+k141_45601	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_29670	117743	class	Flavobacteriia	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_16381	976	phylum	Bacteroidetes	6	6	5	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_39227	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_39248	2	superkingdom	Bacteria	14	14	10	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39294	1114874	species	Flavobacterium piscis	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium piscis
+k141_8677	1229487	species	Flavobacterium sp. WG21	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_3119	237	genus	Flavobacterium	5	5	3	0.510	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_3130	200644	order	Flavobacteriales	11	8	5	0.630	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_16426	976	phylum	Bacteroidetes	5	5	4	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_46151	976	phylum	Bacteroidetes	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_46152	96345	species	Flavobacterium psychrophilum	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium psychrophilum
+k141_38977	49546	family	Flavobacteriaceae	6	6	3	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_16249	2	superkingdom	Bacteria	5	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2939	131567	no rank	cellular organisms	4	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_8443	237	genus	Flavobacterium	6	5	3	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_5380	2	superkingdom	Bacteria	7	7	5	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8488	1450526	strain	Chryseobacterium haifense DSM 19056	3	2	1	0.500	unknown;Bacteroidetes;Weeksellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Weeksellaceae;-_Chryseobacterium group;g_Kaistella;s_Kaistella haifensis;-_Chryseobacterium haifense DSM 19056
+k141_3048	49546	family	Flavobacteriaceae	3	3	2	0.510	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_47925	49546	family	Flavobacteriaceae	6	6	3	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_47946	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_47947	2	superkingdom	Bacteria	11	11	8	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16345	49546	family	Flavobacteriaceae	7	7	5	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_3069	2	superkingdom	Bacteria	11	9	8	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_36149	976	phylum	Bacteroidetes	6	6	4	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_36165	2	superkingdom	Bacteria	4	4	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39154	976	phylum	Bacteroidetes	6	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_39168	976	phylum	Bacteroidetes	7	7	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_45861	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_5484	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_36256	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_23065	2	superkingdom	Bacteria	7	7	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_45948	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_42697	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_42730	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52307	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52325	237	genus	Flavobacterium	5	5	3	0.600	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_52353	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_46020	49546	family	Flavobacteriaceae	3	3	2	0.520	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_42805	200644	order	Flavobacteriales	3	3	2	0.670	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_23113	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5519	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_19615	49546	family	Flavobacteriaceae	6	6	4	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_19626	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_48384	49546	family	Flavobacteriaceae	4	4	3	0.680	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_19670	200644	order	Flavobacteriales	7	6	3	0.510	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_48432	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_9327	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6229	237	genus	Flavobacterium	6	6	3	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_48453	2	superkingdom	Bacteria	6	6	4	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52746	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_52748	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_11699	117743	class	Flavobacteriia	9	9	5	0.660	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_11703	976	phylum	Bacteroidetes	5	5	3	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_41861	117743	class	Flavobacteriia	5	5	3	0.510	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_15414	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_15441	117743	class	Flavobacteriia	8	7	4	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_41908	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_51234	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1772	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11775	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_51253	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_28122	200644	order	Flavobacteriales	6	6	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_28133	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22262	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_28149	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22306	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_18008	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_18021	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_28270	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_41850	49546	family	Flavobacteriaceae	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_4929	49546	family	Flavobacteriaceae	5	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_46189	2	superkingdom	Bacteria	17	16	12	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5731	200644	order	Flavobacteriales	1	1	1	1.000	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_52509	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_8870	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5812	2	superkingdom	Bacteria	4	4	3	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5815	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_48152	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_5873	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_5874	976	phylum	Bacteroidetes	8	8	4	0.560	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_48187	200644	order	Flavobacteriales	8	7	5	0.740	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_49992	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_50006	976	phylum	Bacteroidetes	4	3	2	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_40634	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_21013	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_10611	49546	family	Flavobacteriaceae	6	6	3	0.640	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_24191	976	phylum	Bacteroidetes	5	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_21054	2	superkingdom	Bacteria	17	16	10	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_43710	2	superkingdom	Bacteria	3	3	2	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6971	976	phylum	Bacteroidetes	4	4	3	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_10708	976	phylum	Bacteroidetes	5	5	3	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_25511	200644	order	Flavobacteriales	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_17778	49546	family	Flavobacteriaceae	13	13	8	0.700	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_7603	200644	order	Flavobacteriales	2	2	1	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_44887	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15220	976	phylum	Bacteroidetes	10	10	6	0.560	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_37582	2	superkingdom	Bacteria	3	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1685	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7619	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_15243	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1705	117743	class	Flavobacteriia	6	6	3	0.600	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_12258	200644	order	Flavobacteriales	6	6	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_2007	200644	order	Flavobacteriales	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_32572	1114873	species	Flavobacterium tructae	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium tructae
+k141_22817	49546	family	Flavobacteriaceae	7	6	4	0.740	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_22818	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_22832	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_47633	976	phylum	Bacteroidetes	5	5	4	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32661	976	phylum	Bacteroidetes	5	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_51657	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_47674	49546	family	Flavobacteriaceae	4	3	2	0.980	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_39901	49546	family	Flavobacteriaceae	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_30501	976	phylum	Bacteroidetes	8	7	4	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_26590	2	superkingdom	Bacteria	8	8	5	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49676	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_540	171549	order	Bacteroidales	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+k141_545	68336	clade	Bacteroidetes/Chlorobi group	6	6	3	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_548	2	superkingdom	Bacteria	9	9	7	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23466	976	phylum	Bacteroidetes	3	3	2	0.990	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13500	976	phylum	Bacteroidetes	7	7	4	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13514	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_28688	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_5116	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_38202	976	phylum	Bacteroidetes	9	9	5	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_11897	976	phylum	Bacteroidetes	7	7	7	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_22709	976	phylum	Bacteroidetes	8	8	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_26157	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_5150	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15672	117743	class	Flavobacteriia	2	2	1	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_26160	1	no rank	root	11	9	9	1.000	unknown;unknown;unknown	-_root
+k141_34997	200644	order	Flavobacteriales	5	5	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_34092	976	phylum	Bacteroidetes	14	14	7	0.580	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44331	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_11240	1229487	species	Flavobacterium sp. WG21	4	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_7223	976	phylum	Bacteroidetes	4	4	4	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44395	976	phylum	Bacteroidetes	7	7	5	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_7269	200644	order	Flavobacteriales	9	8	4	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_21674	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_31606	237	genus	Flavobacterium	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_14719	49546	family	Flavobacteriaceae	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_21736	976	phylum	Bacteroidetes	7	7	6	0.860	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_31365	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_4590	200644	order	Flavobacteriales	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_31381	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_31391	2	superkingdom	Bacteria	11	10	6	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_31401	976	phylum	Bacteroidetes	17	15	9	0.640	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_31419	976	phylum	Bacteroidetes	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44200	976	phylum	Bacteroidetes	7	7	5	0.980	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_27759	1229487	species	Flavobacterium sp. WG21	3	3	3	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_7146	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21476	2	superkingdom	Bacteria	8	8	5	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_18087	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_11790	200644	order	Flavobacteriales	5	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_47364	200644	order	Flavobacteriales	5	4	3	0.940	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_4942	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_4943	49546	family	Flavobacteriaceae	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_4947	2	superkingdom	Bacteria	4	3	2	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_4970	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_28430	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15510	2	superkingdom	Bacteria	28	28	20	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_38020	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12300	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_29116	1	no rank	root	16	16	16	1.000	unknown;unknown;unknown	-_root
+k141_51696	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_51728	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8161	2	superkingdom	Bacteria	6	6	4	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8206	117743	class	Flavobacteriia	4	4	3	0.680	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_42379	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_51757	237	genus	Flavobacterium	4	4	2	0.650	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_2090	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_18529	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50632	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_44238	976	phylum	Bacteroidetes	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_31530	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_11191	976	phylum	Bacteroidetes	13	12	9	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_24922	68336	clade	Bacteroidetes/Chlorobi group	4	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_34050	2	superkingdom	Bacteria	8	8	5	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50683	976	phylum	Bacteroidetes	7	7	4	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_31561	976	phylum	Bacteroidetes	7	7	4	0.570	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_50699	237	genus	Flavobacterium	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_34072	237	genus	Flavobacterium	4	4	3	0.750	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_38029	976	phylum	Bacteroidetes	7	7	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32248	49546	family	Flavobacteriaceae	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_22477	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_22483	2	superkingdom	Bacteria	13	13	7	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_38066	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_25938	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_28556	976	phylum	Bacteroidetes	4	4	3	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_22557	976	phylum	Bacteroidetes	5	5	4	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_25956	2	superkingdom	Bacteria	5	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_51345	976	phylum	Bacteroidetes	5	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_33485	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_46566	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_6961	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_46588	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_40506	976	phylum	Bacteroidetes	14	14	11	0.760	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_46607	976	phylum	Bacteroidetes	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_4096	49546	family	Flavobacteriaceae	4	3	3	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_10527	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_27238	976	phylum	Bacteroidetes	5	4	3	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_49985	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2277	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_32908	976	phylum	Bacteroidetes	6	6	3	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_35424	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_2322	0	no rank	unclassified	2	0	0	0.000		
+k141_29349	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_29354	2	superkingdom	Bacteria	11	10	8	0.870	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29363	1783270	clade	FCB group	7	7	4	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group
+k141_2405	200644	order	Flavobacteriales	6	6	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_51967	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_12540	49546	family	Flavobacteriaceae	5	5	3	0.600	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_1069	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17095	49546	family	Flavobacteriaceae	7	7	4	0.510	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_43853	976	phylum	Bacteroidetes	7	7	5	0.740	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_4343	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24529	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17124	49546	family	Flavobacteriaceae	4	4	2	0.650	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_24571	976	phylum	Bacteroidetes	6	6	3	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_10840	68336	clade	Bacteroidetes/Chlorobi group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_24574	976	phylum	Bacteroidetes	11	11	6	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_43942	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_13467	976	phylum	Bacteroidetes	3	3	2	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13471	1229487	species	Flavobacterium sp. WG21	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_394	976	phylum	Bacteroidetes	9	8	5	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_30347	976	phylum	Bacteroidetes	7	7	5	0.710	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_23398	976	phylum	Bacteroidetes	8	8	3	0.590	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_23401	976	phylum	Bacteroidetes	5	5	4	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_20101	49546	family	Flavobacteriaceae	6	6	4	0.740	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_30395	976	phylum	Bacteroidetes	5	5	5	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_462	976	phylum	Bacteroidetes	7	6	4	0.610	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_23442	976	phylum	Bacteroidetes	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_35255	976	phylum	Bacteroidetes	8	8	7	0.810	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32457	200644	order	Flavobacteriales	4	4	3	0.670	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_47572	976	phylum	Bacteroidetes	5	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_15897	976	phylum	Bacteroidetes	5	5	4	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32468	976	phylum	Bacteroidetes	6	5	4	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_45195	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_15917	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_51628	196869	no rank	unclassified Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium
+k141_38601	976	phylum	Bacteroidetes	4	4	3	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32542	49546	family	Flavobacteriaceae	12	12	5	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_212	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_10001	2	superkingdom	Bacteria	21	19	11	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_10028	49546	family	Flavobacteriaceae	5	5	2	0.640	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_266	117743	class	Flavobacteriia	4	3	2	0.670	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_3468	49546	family	Flavobacteriaceae	9	8	8	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_3470	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_10057	49546	family	Flavobacteriaceae	4	3	2	0.970	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_30094	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_16693	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_39820	976	phylum	Bacteroidetes	8	7	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_51563	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_45172	117743	class	Flavobacteriia	12	12	8	0.590	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_32405	49546	family	Flavobacteriaceae	3	3	3	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_26364	2	superkingdom	Bacteria	8	8	7	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_18357	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_32433	976	phylum	Bacteroidetes	8	8	5	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_32435	976	phylum	Bacteroidetes	15	14	11	0.590	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_15854	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_5202	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_18411	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24075	237	genus	Flavobacterium	5	5	3	0.600	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_27135	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_33427	49546	family	Flavobacteriaceae	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_14032	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_20891	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_10448	200644	order	Flavobacteriales	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_20920	49546	family	Flavobacteriaceae	6	5	3	0.600	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_46512	237	genus	Flavobacterium	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_33456	237	genus	Flavobacterium	6	5	3	0.740	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_43612	976	phylum	Bacteroidetes	6	6	5	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_46736	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50188	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_24363	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_24382	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_50207	2	superkingdom	Bacteria	22	22	14	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_36952	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_50242	976	phylum	Bacteroidetes	9	9	5	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_50264	237	genus	Flavobacterium	6	6	4	0.740	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_4233	976	phylum	Bacteroidetes	8	8	6	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_24468	117743	class	Flavobacteriia	3	3	2	0.670	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_44011	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_21394	976	phylum	Bacteroidetes	6	6	4	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_50441	49546	family	Flavobacteriaceae	14	13	7	0.540	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_11018	117743	class	Flavobacteriia	4	4	2	0.650	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_24737	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_46836	2	superkingdom	Bacteria	8	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12049	976	phylum	Bacteroidetes	10	10	7	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_26256	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_12065	976	phylum	Bacteroidetes	5	5	4	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_42253	2	superkingdom	Bacteria	14	13	8	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28848	976	phylum	Bacteroidetes	12	12	7	0.550	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_15763	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_26287	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_42308	237	genus	Flavobacterium	5	3	2	0.950	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_8027	237	genus	Flavobacterium	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_51541	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_8051	200644	order	Flavobacteriales	10	7	5	0.520	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_38546	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_8064	49546	family	Flavobacteriaceae	11	11	6	0.550	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_38577	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_11335	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_31929	117743	class	Flavobacteriia	7	6	4	0.600	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_51030	49546	family	Flavobacteriaceae	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_4842	976	phylum	Bacteroidetes	4	4	3	0.980	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_1572	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_51061	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_51075	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_44759	976	phylum	Bacteroidetes	10	9	5	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44766	200644	order	Flavobacteriales	10	10	6	0.510	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_47155	976	phylum	Bacteroidetes	6	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_46887	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21416	2	superkingdom	Bacteria	9	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1269	976	phylum	Bacteroidetes	18	17	10	0.560	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_4528	2	superkingdom	Bacteria	6	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_4552	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_31345	237	genus	Flavobacterium	4	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_17175	976	phylum	Bacteroidetes	12	11	7	0.640	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_4561	976	phylum	Bacteroidetes	19	19	10	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17193	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_37194	117743	class	Flavobacteriia	3	3	2	0.670	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_45414	976	phylum	Bacteroidetes	2	2	1	0.930	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_38711	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_5237	237	genus	Flavobacterium	3	3	3	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_5239	2	superkingdom	Bacteria	9	9	6	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42561	2	superkingdom	Bacteria	6	6	5	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_18719	1506583	species	Flavobacterium sp. ASV13	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. ASV13
+k141_22967	91061	class	Bacilli	3	3	3	1.000	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_2542	976	phylum	Bacteroidetes	4	4	3	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_2543	237	genus	Flavobacterium	6	5	3	0.600	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_35606	976	phylum	Bacteroidetes	8	7	6	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_2099	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2114	1	no rank	root	10	9	9	1.000	unknown;unknown;unknown	-_root
+k141_51789	976	phylum	Bacteroidetes	6	6	3	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_12393	976	phylum	Bacteroidetes	5	4	4	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_18637	2	superkingdom	Bacteria	9	9	6	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_32846	976	phylum	Bacteroidetes	1	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_8311	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_32850	976	phylum	Bacteroidetes	7	7	6	0.800	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_18671	49546	family	Flavobacteriaceae	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_51870	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15324	117743	class	Flavobacteriia	6	6	5	0.800	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_28056	976	phylum	Bacteroidetes	17	16	11	0.610	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_25584	131567	no rank	cellular organisms	4	4	4	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_17858	976	phylum	Bacteroidetes	8	8	6	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_11525	117743	class	Flavobacteriia	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_11567	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_22228	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_41796	976	phylum	Bacteroidetes	3	3	2	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17927	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11617	237	genus	Flavobacterium	2	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_19192	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_46157	2	superkingdom	Bacteria	4	4	3	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39422	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_46160	976	phylum	Bacteroidetes	6	6	6	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_52470	49546	family	Flavobacteriaceae	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_52498	976	phylum	Bacteroidetes	10	10	6	0.620	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13130	976	phylum	Bacteroidetes	5	5	4	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13168	1229487	species	Flavobacterium sp. WG21	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_5682	1229487	species	Flavobacterium sp. WG21	2	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_5692	976	phylum	Bacteroidetes	5	5	4	0.980	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_22030	91061	class	Bacilli	25	24	17	0.700	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_22038	976	phylum	Bacteroidetes	5	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17621	976	phylum	Bacteroidetes	14	13	10	0.780	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44817	976	phylum	Bacteroidetes	5	5	4	0.990	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44840	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_11411	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_49530	2	superkingdom	Bacteria	9	9	5	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9916	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23146	2607769	species	Symploca sp. SIO1C2	2	2	1	0.500	unknown;Cyanobacteria;Microcoleaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteria/Melainabacteria group;p_Cyanobacteria;-_Oscillatoriophycideae;o_Oscillatoriales;f_Microcoleaceae;g_Symploca;-_unclassified Symploca;s_Symploca sp. SIO1C2
+k141_43007	49546	family	Flavobacteriaceae	3	3	2	0.970	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_37353	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_37365	976	phylum	Bacteroidetes	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_25104	237	genus	Flavobacterium	4	4	4	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_25107	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21828	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_25109	49546	family	Flavobacteriaceae	3	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_14837	1920029	species	Flavobacterium sp. YO12	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. YO12
+k141_41161	200644	order	Flavobacteriales	8	8	4	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_41202	237	genus	Flavobacterium	5	5	3	0.510	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_7419	237	genus	Flavobacterium	8	8	7	0.880	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_34200	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_31665	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7294	49546	family	Flavobacteriaceae	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_4771	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_25031	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_31709	1	no rank	root	12	9	9	1.000	unknown;unknown;unknown	-_root
+k141_47006	49546	family	Flavobacteriaceae	3	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_11277	2	superkingdom	Bacteria	13	12	6	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21770	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_25064	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_6616	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_29829	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_29838	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_29848	117743	class	Flavobacteriia	7	7	4	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_29865	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3375	49546	family	Flavobacteriaceae	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_26466	2	superkingdom	Bacteria	7	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6684	976	phylum	Bacteroidetes	6	5	3	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_36386	976	phylum	Bacteroidetes	14	12	8	0.610	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_29956	237	genus	Flavobacterium	4	4	3	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_6296	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_6317	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6329	49546	family	Flavobacteriaceae	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_6339	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6343	2	superkingdom	Bacteria	10	9	8	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9554	237	genus	Flavobacterium	5	5	4	0.800	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_26859	131567	no rank	cellular organisms	6	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_30914	49546	family	Flavobacteriaceae	5	3	2	0.520	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_30982	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_40343	117743	class	Flavobacteriia	5	5	3	0.600	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_26964	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_17009	976	phylum	Bacteroidetes	17	16	9	0.540	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17026	237	genus	Flavobacterium	5	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_27053	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_24053	49546	family	Flavobacteriaceae	4	3	2	0.510	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_10368	976	phylum	Bacteroidetes	6	6	4	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_43547	117743	class	Flavobacteriia	18	17	10	0.540	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_888	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_43591	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_6938	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_21926	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_25292	117743	class	Flavobacteriia	3	3	2	0.670	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_37516	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_15012	200644	order	Flavobacteriales	3	3	2	0.670	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_37545	2	superkingdom	Bacteria	8	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15062	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_17527	200644	order	Flavobacteriales	5	5	4	0.800	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_41438	237	genus	Flavobacterium	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_41445	237	genus	Flavobacterium	4	4	3	0.970	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_44755	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24476	1229487	species	Flavobacterium sp. WG21	4	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_14288	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24482	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_24489	976	phylum	Bacteroidetes	2	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_21138	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_27487	1158608	strain	Enterococcus haemoperoxidus ATCC BAA-382	1	1	1	1.000	unknown;Firmicutes;Enterococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus;s_Enterococcus haemoperoxidus;-_Enterococcus haemoperoxidus ATCC BAA-382
+k141_31107	1229487	species	Flavobacterium sp. WG21	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_21156	976	phylum	Bacteroidetes	4	4	3	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_21171	976	phylum	Bacteroidetes	8	8	5	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_43825	976	phylum	Bacteroidetes	10	10	4	0.560	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_5279	49546	family	Flavobacteriaceae	5	5	3	0.730	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_2607	2212651	species	Flavobacterium cheongpyeongense	2	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium cheongpyeongense
+k141_38879	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_29517	976	phylum	Bacteroidetes	4	3	2	0.970	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_16160	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_29524	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2645	237	genus	Flavobacterium	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_2701	49546	family	Flavobacteriaceae	5	5	4	0.990	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_38961	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_18905	237	genus	Flavobacterium	6	6	3	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_24589	976	phylum	Bacteroidetes	5	5	4	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_50335	200644	order	Flavobacteriales	8	6	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_40742	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_21285	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1147	117743	class	Flavobacteriia	4	4	2	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_7034	1	no rank	root	15	14	14	1.000	unknown;unknown;unknown	-_root
+k141_10936	976	phylum	Bacteroidetes	4	4	4	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_10953	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7038	2	superkingdom	Bacteria	13	13	8	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24682	976	phylum	Bacteroidetes	4	4	4	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_16184	237	genus	Flavobacterium	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_52093	976	phylum	Bacteroidetes	8	8	7	0.690	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_42674	237	genus	Flavobacterium	6	6	4	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_52112	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_52140	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_47847	2	superkingdom	Bacteria	7	7	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_46856	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_46858	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_11062	2	superkingdom	Bacteria	11	10	7	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1249	2	superkingdom	Bacteria	7	6	4	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_38247	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_7949	976	phylum	Bacteroidetes	11	11	6	0.550	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_28783	2	superkingdom	Bacteria	11	11	9	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7953	237	genus	Flavobacterium	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_7969	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_7972	1229487	species	Flavobacterium sp. WG21	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_38293	976	phylum	Bacteroidetes	9	9	8	0.860	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_26212	237	genus	Flavobacterium	8	8	6	0.720	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_26226	2	superkingdom	Bacteria	12	10	8	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1862	200644	order	Flavobacteriales	3	2	1	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_10161	2	superkingdom	Bacteria	7	7	6	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16775	2	superkingdom	Bacteria	7	7	6	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_20217	2	superkingdom	Bacteria	6	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49738	200644	order	Flavobacteriales	5	5	3	0.600	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_23607	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_3930	49546	family	Flavobacteriaceae	8	7	3	0.580	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_43413	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_713	49546	family	Flavobacteriaceae	4	4	3	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_714	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_40180	237	genus	Flavobacterium	2	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_15256	976	phylum	Bacteroidetes	7	7	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_22104	976	phylum	Bacteroidetes	6	6	4	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_15264	558155	species	Arenibacter nanhaiticus	4	4	2	0.940	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Arenibacter;s_Arenibacter nanhaiticus
+k141_37612	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_22117	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_31934	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1730	49546	family	Flavobacteriaceae	9	9	5	0.620	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_41631	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_7673	237	genus	Flavobacterium	4	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_41681	976	phylum	Bacteroidetes	7	7	4	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_145	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39712	976	phylum	Bacteroidetes	6	6	3	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_36420	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_30024	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_39753	2	superkingdom	Bacteria	7	7	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_36496	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_9985	49546	family	Flavobacteriaceae	7	4	2	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_13354	200644	order	Flavobacteriales	7	7	4	0.600	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_9991	49546	family	Flavobacteriaceae	15	15	10	0.590	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_210	1229487	species	Flavobacterium sp. WG21	1	1	1	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;-_unclassified Flavobacterium;s_Flavobacterium sp. WG21
+k141_52555	117743	class	Flavobacteriia	5	5	4	0.680	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_5893	976	phylum	Bacteroidetes	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_52564	976	phylum	Bacteroidetes	5	5	3	0.510	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_5903	2	superkingdom	Bacteria	10	10	6	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5911	117743	class	Flavobacteriia	9	9	5	0.510	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_52583	976	phylum	Bacteroidetes	8	8	5	0.630	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_9074	49546	family	Flavobacteriaceae	9	8	5	0.650	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_6007	976	phylum	Bacteroidetes	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_52587	49546	family	Flavobacteriaceae	22	21	12	0.530	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_52598	237	genus	Flavobacterium	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_12035	237	genus	Flavobacterium	3	3	3	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_1882	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_12040	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15711	1	no rank	root	13	13	13	1.000	unknown;unknown;unknown	-_root
+k141_32349	2	superkingdom	Bacteria	6	6	4	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_26250	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_20036	1871037	species	Flavobacteriaceae bacterium	3	2	1	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;-_unclassified Flavobacteriaceae;s_Flavobacteriaceae bacterium
+k141_36568	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_36600	49546	family	Flavobacteriaceae	9	8	4	0.570	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_43132	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6815	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_3549	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_30196	237	genus	Flavobacterium	4	4	3	0.750	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_3576	976	phylum	Bacteroidetes	13	13	8	0.580	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_6835	976	phylum	Bacteroidetes	3	1	1	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13460	976	phylum	Bacteroidetes	6	6	6	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_717	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40196	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_20353	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_13817	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_20366	2	superkingdom	Bacteria	13	11	7	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_23720	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_738	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_26704	976	phylum	Bacteroidetes	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_23743	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_761	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3722	976	phylum	Bacteroidetes	7	6	4	0.520	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13574	976	phylum	Bacteroidetes	7	7	5	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_3729	976	phylum	Bacteroidetes	3	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_13588	49546	family	Flavobacteriaceae	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_33162	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_3780	200644	order	Flavobacteriales	6	6	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales
+k141_23514	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_30619	976	phylum	Bacteroidetes	8	6	4	0.610	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_16762	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40034	49546	family	Flavobacteriaceae	5	5	3	0.740	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_4114	237	genus	Flavobacterium	3	3	2	0.670	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_24281	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_33655	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_46674	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_46684	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_43749	237	genus	Flavobacterium	3	2	1	0.930	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_21073	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_10718	976	phylum	Bacteroidetes	3	3	3	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_10741	976	phylum	Bacteroidetes	4	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_10756	976	phylum	Bacteroidetes	2	2	2	1.000	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_770	2	superkingdom	Bacteria	7	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_16852	117743	class	Flavobacteriia	10	9	5	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_3982	976	phylum	Bacteroidetes	7	6	4	0.600	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_30738	49546	family	Flavobacteriaceae	5	5	4	0.750	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_30748	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_46449	237	genus	Flavobacterium	4	4	2	0.650	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_44868	1	no rank	root	13	11	11	1.000	unknown;unknown;unknown	-_root
+k141_1661	976	phylum	Bacteroidetes	5	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_1666	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_27944	117743	class	Flavobacteriia	12	12	8	0.670	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_6042	237	genus	Flavobacterium	10	10	5	0.500	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_6050	49546	family	Flavobacteriaceae	10	9	5	0.640	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_48221	91061	class	Bacilli	4	4	3	0.750	unknown;Firmicutes;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli
+k141_9167	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_52650	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_52706	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_19522	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_48329	237	genus	Flavobacterium	2	2	2	1.000	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_48356	2	superkingdom	Bacteria	10	9	7	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48357	49546	family	Flavobacteriaceae	4	4	2	0.650	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae
+k141_50872	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_44564	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_41265	237	genus	Flavobacterium	8	8	6	0.530	unknown;Bacteroidetes;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium
+k141_44589	2	superkingdom	Bacteria	10	10	6	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37397	976	phylum	Bacteroidetes	5	4	2	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44641	976	phylum	Bacteroidetes	4	3	2	0.670	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_44659	976	phylum	Bacteroidetes	4	4	3	0.750	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_17444	117743	class	Flavobacteriia	7	6	3	0.500	unknown;Bacteroidetes;uc_Flavobacteriia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia
+k141_17458	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37460	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root

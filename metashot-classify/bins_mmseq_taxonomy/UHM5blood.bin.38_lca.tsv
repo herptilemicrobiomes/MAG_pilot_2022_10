@@ -1,0 +1,6 @@
+k141_48042	180162	genus	Cetobacterium	40	38	25	0.610	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium
+k141_40889	2754723	species	Cetobacterium sp. 2A	4	4	2	0.500	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae;g_Cetobacterium;-_unclassified Cetobacterium;s_Cetobacterium sp. 2A
+k141_9724	203492	family	Fusobacteriaceae	77	65	35	0.570	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+k141_63357	2	superkingdom	Bacteria	153	125	87	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_63361	203492	family	Fusobacteriaceae	142	134	78	0.580	unknown;Fusobacteria;Fusobacteriaceae	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales;f_Fusobacteriaceae
+k141_63370	203491	order	Fusobacteriales	139	129	66	0.520	unknown;Fusobacteria;uc_Fusobacteriales	-_cellular organisms;d_Bacteria;p_Fusobacteria;c_Fusobacteriia;o_Fusobacteriales

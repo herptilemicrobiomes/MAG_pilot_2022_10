@@ -1,0 +1,416 @@
+UniRef50_I8XN90	1	1.000	1.000	0.667	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_UPI0004BB2E17	1	0.994	0.994	0.970	1347393	species	Bacteroides neonati	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides neonati
+UniRef50_A0A0F5IPG5	1	0.995	0.995	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174M4E0	1	1.000	1.000	0.958	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A015X7B4	1	1.000	1.000	0.696	817	species	Bacteroides fragilis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+UniRef50_A0A7J0A9U0	1	0.546	0.546	0.953	85831	species	Bacteroides acidifaciens	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides acidifaciens
+UniRef50_UPI0008DA1170	1	0.967	0.967	0.992	1852362	species	Bacteroides ihuae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides ihuae
+UniRef50_A0M5I3	1	0.990	0.990	0.953	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_J9GUL1	1	0.439	0.439	0.698	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_I9GZF7	1	1.000	1.000	0.930	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3D1AEK4	1	0.994	0.994	1.000	2049046	species	Porphyromonadaceae bacterium	unknown;Bacteroidetes;Porphyromonadaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;-_unclassified Porphyromonadaceae;s_Porphyromonadaceae bacterium
+UniRef50_Q8A9U8	1	1.000	1.000	0.947	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4Q0U6C8	1	0.755	0.755	0.615	2109911	species	Candidatus Amulumruptor caecigallinarius	unknown;Bacteroidetes;Muribaculaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Muribaculaceae;g_Candidatus Amulumruptor;s_Candidatus Amulumruptor caecigallinarius
+UniRef50_A0A1M4UVN9	1	0.930	0.930	0.907	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A5ZBN0	1	0.959	0.959	0.628	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A4Q3W0I5	1	0.722	0.722	0.867	1869227	species	bacterium	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_unclassified Bacteria;s_bacterium
+UniRef50_K9E9J8	1	0.997	0.997	0.918	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R6LCC8	1	0.836	0.836	0.571	1263038	species	Bacteroides cellulosilyticus CAG:158	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides cellulosilyticus CAG:158
+UniRef50_J9GP29	1	1.000	1.000	0.970	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_A0A0A9CTU1	1	0.983	0.983	0.933	35708	species	Arundo donax	Viridiplantae;Streptophyta;Poaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_Liliopsida;-_Petrosaviidae;-_commelinids;o_Poales;f_Poaceae;-_PACMAD clade;-_Arundinoideae;-_Arundineae;g_Arundo;s_Arundo donax
+UniRef50_U6REP2	1	1.000	1.000	0.938	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_I9G6J0	1	0.896	0.896	0.624	909656	genus	Phocaeicola	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Phocaeicola
+UniRef50_UPI0005A6F824	1	1.000	1.000	0.978	1347393	species	Bacteroides neonati	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides neonati
+UniRef50_R6K9E1	1	0.991	0.991	0.885	1263050	species	Bacteroides ovatus CAG:22	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides ovatus CAG:22
+UniRef50_R5JFC0	1	1.000	1.000	0.832	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A9U4	1	0.996	0.996	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5J4R0B1	1	1.000	1.000	1.000	433724	species	termite gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_termite gut metagenome
+UniRef50_A0A3S0D5U0	1	0.998	0.998	0.931	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q5LAZ8	1	0.995	0.995	0.931	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E1WTB4	1	1.000	1.000	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5Q5GHD2	1	0.781	0.781	0.946	165179	species	Prevotella copri	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella copri
+UniRef50_A0A015SSA7	1	1.000	1.000	0.927	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_A0A1M6L7F8	1	1.000	1.000	0.979	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A1M6L7M6	1	0.995	0.995	0.997	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_J9GQB0	1	0.972	0.972	0.552	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_I9S9N2	1	1.000	1.000	0.947	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R5J5M7	1	0.620	0.620	0.583	1262737	species	Bacteroides sp. CAG:189	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:189
+UniRef50_A0A174PCK9	1	0.968	0.968	0.322	820	species	Bacteroides uniformis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides uniformis
+UniRef50_A0A2M9VA06	1	1.000	1.000	0.981	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0GCW7	1	0.994	0.994	0.972	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I9UCI8	1	0.236	0.236	0.954	821	species	Phocaeicola vulgatus	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Phocaeicola;s_Phocaeicola vulgatus
+UniRef50_A0A0P0F6V8	1	1.000	1.000	0.965	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_Q89YZ1	1	0.985	0.985	0.925	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I9HBI7	1	0.922	0.922	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1C7H052	1	0.995	0.995	0.953	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B5CYP7	1	0.938	0.938	0.935	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1M6LNC6	1	0.921	0.921	0.620	871324	species	Bacteroides stercorirosoris	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides stercorirosoris
+UniRef50_A0A396BQQ4	1	0.719	0.719	0.905	817	species	Bacteroides fragilis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+UniRef50_Q5LDA6	1	1.000	1.000	0.948	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A6L2J8	1	1.000	1.000	0.973	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7Z6RX66	1	0.998	0.998	0.983	2292000	species	Bacteroides sp. AM07-16	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_unclassified Bacteroides;s_Bacteroides sp. AM07-16
+UniRef50_A0A1G5AXA0	1	0.997	0.997	0.371	497721	genus	Desulfoluna	unknown;Proteobacteria;Desulfobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfobacterales;f_Desulfobacteraceae;g_Desulfoluna
+UniRef50_R5LSX8	2	0.986	1.714	0.621	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q5LD25	1	1.000	1.000	0.919	817	species	Bacteroides fragilis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+UniRef50_A0A1V6EQJ3	1	0.970	0.970	0.963	1852803	species	Bacteroidetes bacterium ADurb.Bin090	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium ADurb.Bin090
+UniRef50_A0A7J0A7R7	1	0.590	0.590	0.994	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_R9HBJ0	1	0.987	0.987	0.967	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q5LD34	1	1.000	1.000	0.950	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6UW36	1	0.986	0.986	0.946	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_I8WIB4	1	1.000	1.000	0.993	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A5ZLG0	1	0.871	0.871	0.558	47678	species	Bacteroides caccae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides caccae
+UniRef50_C7RDK8	1	0.978	0.978	0.937	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3E4R163	1	0.522	0.522	0.864	820	species	Bacteroides uniformis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides uniformis
+UniRef50_C6ISJ8	1	1.000	1.000	0.935	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R5KFU8	1	0.735	0.735	0.745	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A6N2W6S9	1	1.000	1.000	0.942	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A1C0WW19	1	1.000	1.000	0.923	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_D0TKA0	1	0.690	0.690	0.974	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_R6JPQ8	1	1.000	1.000	0.933	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_I8XII3	1	1.000	1.000	0.863	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A379E2S9	1	0.988	0.988	0.993	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_J9GM61	1	1.000	1.000	0.549	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_A0A174V9L4	1	1.000	1.000	0.880	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A1M5AYM2	1	0.985	0.985	0.930	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_UPI000D0B8AA9	1	0.986	0.986	0.312	2086579	species	Bacteroides sp. Marseille-P3684	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_unclassified Bacteroides;s_Bacteroides sp. Marseille-P3684
+UniRef50_A0A1V5VJZ4	1	0.996	0.996	0.928	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A9U6	1	1.000	1.000	0.910	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0K6BYC9	1	0.972	0.972	0.997	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6D5Y7	1	0.971	0.971	0.920	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_C7EXL6	1	1.000	1.000	0.997	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5Q5FVP8	1	0.984	0.984	0.936	165179	species	Prevotella copri	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella copri
+UniRef50_K5ZBH1	1	0.991	0.991	0.958	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R6X506	1	0.706	0.706	0.976	1263094	species	Parabacteroides merdae CAG:48	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;-_environmental samples;s_Parabacteroides merdae CAG:48
+UniRef50_U6RES9	1	1.000	1.000	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I3ZAB3	1	0.854	0.854	0.991	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A645C2B4	1	0.396	0.396	1.000	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A401LVY1	1	0.996	0.996	0.909	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_I9RA51	1	1.000	1.000	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5Q5GDR8	1	0.542	0.542	0.900	165179	species	Prevotella copri	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella copri
+UniRef50_A0A396MFR9	1	1.000	1.000	0.489	239759	genus	Alistipes	unknown;Bacteroidetes;Rikenellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Rikenellaceae;g_Alistipes
+UniRef50_A0A174M8J4	1	0.997	0.997	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A413H6B9	1	0.984	0.984	0.605	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A2E0NT46	1	0.994	0.994	0.945	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_A0A0P0GSL7	1	0.993	0.993	0.957	200643	class	Bacteroidia	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+UniRef50_A0A174IV39	1	1.000	1.000	0.997	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I8XIH0	1	0.965	0.965	0.912	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R5UF68	1	1.000	1.000	1.000	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_K6B7B7	1	0.725	0.725	1.000	658661	species	Parabacteroides sp. D25	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;-_unclassified Parabacteroides;s_Parabacteroides sp. D25
+UniRef50_Q8A0Q2	1	1.000	1.000	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI00125EA17D	1	0.974	0.974	0.966	371601	species	Bacteroides xylanisolvens	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides xylanisolvens
+UniRef50_A0A6C9G5D9	1	1.000	1.000	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A3U8F4	1	0.878	0.878	0.670	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0M360	1	1.000	1.000	0.913	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I9RKH4	1	1.000	1.000	1.000	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R5CKI5	1	1.000	1.000	0.601	1262918	species	Prevotella sp. CAG:1058	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;-_environmental samples;s_Prevotella sp. CAG:1058
+UniRef50_A0A699U9B6	1	0.247	0.247	0.687	118510	species	Tanacetum cinerariifolium	Viridiplantae;Streptophyta;Asteraceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_asterids;-_campanulids;o_Asterales;f_Asteraceae;-_Asteroideae;-_Anthemideae;-_Anthemidinae;g_Tanacetum;s_Tanacetum cinerariifolium
+UniRef50_F7M1E4	1	0.876	0.876	0.919	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q5LF05	1	1.000	1.000	0.993	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_W4URZ2	1	0.986	0.986	0.728	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A173W3E1	1	0.985	0.985	0.994	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A069QEB1	1	1.000	1.000	0.934	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0M328	1	0.982	0.982	1.000	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_A0A0P0G4J8	1	1.000	1.000	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_J9DC36	1	1.000	1.000	0.875	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_K9DZB6	1	1.000	1.000	0.959	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_F3PQV8	1	1.000	1.000	0.885	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_Q5L8T5	1	0.990	0.990	0.990	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_U6RGB9	1	0.985	0.985	0.969	200643	class	Bacteroidia	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+UniRef50_A0A401M1S3	1	0.494	0.494	0.933	2447885	species	Bacteroides faecalis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides faecalis
+UniRef50_R7E7B7	1	1.000	1.000	0.848	1263048	species	Bacteroides intestinalis CAG:315	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides intestinalis CAG:315
+UniRef50_A0A7J0A284	1	1.000	1.000	0.964	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_W4P9B4	1	0.996	0.996	0.858	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A149NLM5	1	0.930	0.930	0.944	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174X8G4	1	1.000	1.000	0.960	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A015XEK3	1	1.000	1.000	0.995	1339271	strain	Bacteroides fragilis str. J-143-4	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis;-_Bacteroides fragilis str. J-143-4
+UniRef50_A0A2V3PKX5	1	0.997	0.997	0.266	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_R7E4N3	1	0.662	0.662	1.000	1263048	species	Bacteroides intestinalis CAG:315	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides intestinalis CAG:315
+UniRef50_A0A0P0G0A4	1	1.000	1.000	0.985	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A449I6P5	1	1.000	1.000	0.931	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_Q8AB53	1	1.000	1.000	0.973	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q89YS5	1	1.000	1.000	0.962	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q5LFT6	1	1.000	1.000	0.994	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7J5IRU9	1	0.690	0.690	0.918	820	species	Bacteroides uniformis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides uniformis
+UniRef50_A0A415IY51	1	0.993	0.993	0.995	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_D4WCJ2	1	1.000	1.000	0.950	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A139K8X1	1	1.000	1.000	0.941	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A6LFZ2	1	0.990	0.990	0.967	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A6LDG8	1	1.000	1.000	0.924	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3P2ADN0	1	1.000	1.000	0.959	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3E5F5T2	1	0.986	0.986	0.988	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A4S2AZ82	1	0.998	0.998	0.995	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5Q5FQ54	1	0.909	0.909	0.908	165179	species	Prevotella copri	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella copri
+UniRef50_UPI0008DA184F	1	0.997	0.997	0.976	1852362	species	Bacteroides ihuae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides ihuae
+UniRef50_R6KPH7	1	0.710	0.710	0.807	1263038	species	Bacteroides cellulosilyticus CAG:158	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides cellulosilyticus CAG:158
+UniRef50_Q8AB92	1	1.000	1.000	0.972	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_F5J0W7	1	0.980	0.980	0.967	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0M8MH80	1	1.000	1.000	0.931	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R9HH79	1	0.998	0.998	0.971	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A4S2FRI1	1	1.000	1.000	0.968	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q3AUF2	1	0.982	0.982	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0019560E87	1	0.694	0.694	0.990	1411144	species	Bacteroides caecigallinarum	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides caecigallinarum
+UniRef50_Q8A9S4	1	1.000	1.000	0.985	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q64W68	1	1.000	1.000	0.956	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q89YX1	1	0.994	0.994	0.929	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A645EX42	1	0.519	0.519	0.898	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U2CA46	1	1.000	1.000	0.960	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A1C6ABX4	1	1.000	1.000	0.983	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6A2W1	1	0.656	0.656	0.881	1263053	species	Bacteroides stercoris CAG:120	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides stercoris CAG:120
+UniRef50_A2EYC4	1	0.998	0.998	0.966	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A173T582	1	0.998	0.998	0.933	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0FS22	1	1.000	1.000	0.973	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_G5GK58	1	0.963	0.963	0.612	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6DXI6	1	1.000	1.000	0.647	1263011	species	Firmicutes bacterium CAG:238	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_environmental samples;s_Firmicutes bacterium CAG:238
+UniRef50_Q8ABA7	1	1.000	1.000	0.990	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5J4R851	1	0.967	0.967	0.957	433724	species	termite gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_termite gut metagenome
+UniRef50_A0A380YWP3	1	1.000	1.000	0.985	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0F5JAE9	1	1.000	1.000	0.918	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A415SU77	1	0.724	0.724	0.488	821	species	Phocaeicola vulgatus	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Phocaeicola;s_Phocaeicola vulgatus
+UniRef50_F3PRD9	1	0.971	0.971	0.770	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A0H3U7J8	1	0.997	0.997	0.607	1478064	species	uncultured bacterium fosmid pJB42G5	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium fosmid pJB42G5
+UniRef50_B0NQX2	1	0.672	0.672	0.902	449673	strain	Bacteroides stercoris ATCC 43183	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides stercoris;-_Bacteroides stercoris ATCC 43183
+UniRef50_A0A413JX00	1	1.000	1.000	1.000	817	species	Bacteroides fragilis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+UniRef50_A0A174WZ26	1	1.000	1.000	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A645E8W8	1	1.000	1.000	1.000	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A174MU11	1	0.998	0.998	0.887	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6L6D2	1	0.987	0.987	0.978	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A174UZQ1	1	1.000	1.000	0.976	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A0B7H4M8	1	1.000	1.000	0.601	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_R6K406	1	1.000	1.000	0.850	1263050	species	Bacteroides ovatus CAG:22	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides ovatus CAG:22
+UniRef50_A0A081TW75	1	1.000	1.000	0.982	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A173W7L5	1	1.000	1.000	0.918	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6DYP7	1	1.000	1.000	0.937	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A015Y1Z8	1	0.998	0.998	0.971	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_UPI0005A60252	1	1.000	1.000	1.000	1347393	species	Bacteroides neonati	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides neonati
+UniRef50_A0A1M3FNV6	1	0.987	0.987	0.975	1895721	species	Bacteroidia bacterium 44-10	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;-_unclassified Bacteroidia;s_Bacteroidia bacterium 44-10
+UniRef50_W4PL92	1	0.987	0.987	0.965	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6VZ92	1	0.982	0.982	0.975	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_Q5LG35	1	1.000	1.000	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0A9SNM4	1	0.367	0.367	0.906	35708	species	Arundo donax	Viridiplantae;Streptophyta;Poaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_Liliopsida;-_Petrosaviidae;-_commelinids;o_Poales;f_Poaceae;-_PACMAD clade;-_Arundinoideae;-_Arundineae;g_Arundo;s_Arundo donax
+UniRef50_A0A828SZB5	1	0.977	0.977	0.772	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A174MCB0	2	0.990	1.961	0.900	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1H7FH20	1	1.000	1.000	0.930	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_A0A120A2J0	1	0.952	0.952	0.919	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B5D295	1	0.985	0.985	0.961	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174KB79	1	1.000	1.000	0.975	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4R8DVA6	1	0.994	0.994	0.981	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6D3A5	1	0.996	0.996	0.978	1262750	species	Bacteroides sp. CAG:754	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:754
+UniRef50_A0A0P0F277	1	0.978	0.978	0.948	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A6LEA8	1	0.964	0.964	0.952	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A380YWX0	1	0.996	0.996	0.986	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174HSN5	1	1.000	1.000	0.950	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A087D5F6	1	0.758	0.758	0.297	762210	species	Bifidobacterium saguini	unknown;Actinobacteria;Bifidobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Bifidobacteriales;f_Bifidobacteriaceae;g_Bifidobacterium;s_Bifidobacterium saguini
+UniRef50_A0A3P1ZZU7	1	0.972	0.972	0.967	28113	species	Bacteroides heparinolyticus	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides heparinolyticus
+UniRef50_A0A4S2AYZ9	1	0.993	0.993	0.980	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_W1I7A3	1	0.549	0.549	0.465	77133	species	uncultured bacterium	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium
+UniRef50_A0A174KNC0	1	0.984	0.984	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7J0A0R2	1	1.000	1.000	0.996	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A381XH96	1	0.695	0.695	0.623	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R5K992	1	1.000	1.000	0.986	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I4ZBR4	1	0.995	0.995	0.903	838	genus	Prevotella	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella
+UniRef50_A0A380Z9I4	1	0.997	0.997	0.987	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0M2T2	1	1.000	1.000	0.931	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A645C350	1	1.000	1.000	0.973	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A6C9ILA6	1	1.000	1.000	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_R6UWJ0	1	0.594	0.594	0.945	1263044	species	Bacteroides faecis CAG:32	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides faecis CAG:32
+UniRef50_A0A655MZU5	1	0.637	0.637	0.338	813	species	Chlamydia trachomatis	unknown;Chlamydiae;Chlamydiaceae	-_cellular organisms;d_Bacteria;-_PVC group;p_Chlamydiae;c_Chlamydiia;o_Chlamydiales;f_Chlamydiaceae;-_Chlamydia/Chlamydophila group;g_Chlamydia;s_Chlamydia trachomatis
+UniRef50_A0A180FDE3	1	0.887	0.887	0.902	1633202	species	Bacteroidales bacterium Barb6XT	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;-_unclassified Bacteroidales;s_Bacteroidales bacterium Barb6XT
+UniRef50_K9DWN6	1	0.997	0.997	0.956	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_A0A1S9AVQ3	1	0.988	0.988	0.522	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A099WSR2	1	0.977	0.977	0.943	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_A0A0P0M4R4	1	1.000	1.000	0.927	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0EYN5	1	1.000	1.000	0.960	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E6K7H2	1	0.986	0.986	0.928	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0FCX1	1	1.000	1.000	0.933	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0E2B2G1	1	0.177	0.177	0.655	817	species	Bacteroides fragilis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis
+UniRef50_A0A374UYU0	1	0.995	0.995	0.930	2292285	species	Bacteroides sp. OM08-17BH	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_unclassified Bacteroides;s_Bacteroides sp. OM08-17BH
+UniRef50_D1PVS6	1	0.998	0.998	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I9SZ67	1	0.998	0.998	0.936	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6M6B1	1	0.892	0.892	0.967	1263039	species	Bacteroides clarus CAG:160	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides clarus CAG:160
+UniRef50_A0A069D751	1	0.995	0.995	0.958	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_J9GL54	1	0.982	0.982	0.978	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_A0A7I9ZZ92	1	1.000	1.000	0.974	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1G4GBD0	1	1.000	1.000	0.945	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1V6H920	1	0.490	0.490	1.000	1852802	species	Bacteroidetes bacterium ADurb.Bin057	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium ADurb.Bin057
+UniRef50_R7KPL6	1	0.974	0.974	0.868	1263054	species	Bacteroides thetaiotaomicron CAG:40	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides thetaiotaomicron CAG:40
+UniRef50_U5Q376	1	1.000	1.000	0.946	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0K6BV66	1	0.992	0.992	0.946	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_Q5LD21	1	1.000	1.000	0.859	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_Q64RL2	1	1.000	1.000	0.971	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A0P0M2S1	1	0.996	0.996	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A1M6CD76	1	1.000	1.000	0.968	200643	class	Bacteroidia	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+UniRef50_A0A374UYU8	1	0.988	0.988	0.982	2646097	no rank	unclassified Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_unclassified Bacteroides
+UniRef50_A0A1V5IQS1	1	0.925	0.925	0.955	1852816	species	Bacteroidetes bacterium ADurb.BinA104	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium ADurb.BinA104
+UniRef50_F5J3N9	1	1.000	1.000	0.975	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0FA67	1	0.938	0.938	0.897	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A9S0	1	0.996	0.996	0.978	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A7M6	1	0.986	0.986	0.950	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R5JQW7	1	0.861	0.861	0.859	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R5PBG8	1	1.000	1.000	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_F0R720	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0ET45	1	0.993	0.993	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0FPV2	1	1.000	1.000	0.931	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A433QHY3	1	0.418	0.418	0.553	994334	species	Jimgerdemannia flammicorona	Fungi;Mucoromycota;Endogonaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Fungi incertae sedis;p_Mucoromycota;-_Mucoromycotina;c_Endogonomycetes;o_Endogonales;f_Endogonaceae;g_Jimgerdemannia;s_Jimgerdemannia flammicorona
+UniRef50_A0A7U0VL26	1	0.959	0.959	0.992	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_K9ENI1	1	0.992	0.992	0.909	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A4S2AX24	1	0.992	0.992	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0ERT0	1	0.987	0.987	0.957	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A6F9ZB20	1	0.998	0.998	0.948	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1B2YQM0	1	1.000	1.000	1.000	77133	species	uncultured bacterium	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium
+UniRef50_J9GBQ5	1	0.202	0.202	1.000	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_U5Q695	1	1.000	1.000	1.000	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A645E4H7	1	0.904	0.904	0.877	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_UPI0004BB3F4F	1	0.985	0.985	0.956	1347393	species	Bacteroides neonati	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides neonati
+UniRef50_A0A0P0FBP6	1	1.000	1.000	0.923	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI00125F5CAC	1	1.000	1.000	0.974	371601	species	Bacteroides xylanisolvens	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides xylanisolvens
+UniRef50_Q89YZ7	1	0.998	0.998	0.969	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0GMI5	1	1.000	1.000	0.950	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_U2IS34	1	0.991	0.991	0.914	836	genus	Porphyromonas	unknown;Bacteroidetes;Porphyromonadaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;g_Porphyromonas
+UniRef50_A0A015RVU1	1	0.732	0.732	0.970	1339289	strain	Bacteroides fragilis str. 3986 N(B)19	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis;-_Bacteroides fragilis str. 3986 N(B)19
+UniRef50_I9SA86	1	1.000	1.000	0.926	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_I8X0Z7	1	0.986	0.986	0.988	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3L7ZY15	1	0.928	0.928	0.227	823	species	Parabacteroides distasonis	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides distasonis
+UniRef50_K9EK82	1	1.000	1.000	0.938	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174IBZ9	1	0.986	0.986	0.911	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A353RKZ7	1	0.952	0.952	0.967	2049046	species	Porphyromonadaceae bacterium	unknown;Bacteroidetes;Porphyromonadaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;-_unclassified Porphyromonadaceae;s_Porphyromonadaceae bacterium
+UniRef50_A0A6L5DDA1	1	1.000	1.000	0.891	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_R9HQS5	1	1.000	1.000	0.973	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_F7LYD0	1	0.998	0.998	0.969	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A139JZZ4	1	1.000	1.000	1.000	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_W4P379	1	0.976	0.976	0.971	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A108T8E6	1	0.993	0.993	0.953	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_A0A178IJM1	1	0.989	0.989	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A7I9ZZL5	1	0.998	0.998	0.966	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q08PC9	1	0.492	0.492	0.931	378806	strain	Stigmatella aurantiaca DW4/3-1	unknown;Proteobacteria;Archangiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Myxococcales;-_Cystobacterineae;f_Archangiaceae;g_Stigmatella;s_Stigmatella aurantiaca;-_Stigmatella aurantiaca DW4/3-1
+UniRef50_UPI00166A2B47	1	0.394	0.394	1.000	2045106	species	Parapedobacter defluvii	unknown;Bacteroidetes;Sphingobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Parapedobacter;s_Parapedobacter defluvii
+UniRef50_A0A081TVE3	1	1.000	1.000	0.923	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_A0A5J4SL81	1	0.991	0.991	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A9S8	1	1.000	1.000	0.950	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1V5KH82	1	0.491	0.491	0.600	84086	no rank	unclassified Firmicutes sensu stricto	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_unclassified Firmicutes sensu stricto
+UniRef50_Q8A7M7	1	1.000	1.000	0.931	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1V5N1S2	1	0.991	0.991	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6TER2	1	0.993	0.993	0.914	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3R5ZN23	1	0.410	0.410	0.716	46503	species	Parabacteroides merdae	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides merdae
+UniRef50_A0A380YRE2	1	1.000	1.000	0.979	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6DGL6	1	1.000	1.000	0.976	1262750	species	Bacteroides sp. CAG:754	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:754
+UniRef50_I9SAB1	1	0.989	0.989	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B8HG89	1	0.957	0.957	0.922	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_K9E1V8	1	0.991	0.991	0.890	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_W4PDL8	1	1.000	1.000	0.968	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A6D0R301	1	0.971	0.971	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_F3PP37	1	1.000	1.000	0.921	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1V5FSA4	1	0.954	0.954	0.967	1852819	species	Bacteroidetes bacterium ADurb.BinA261	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;-_unclassified Bacteroidetes;s_Bacteroidetes bacterium ADurb.BinA261
+UniRef50_D0T9B3	1	0.994	0.994	0.924	200643	class	Bacteroidia	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+UniRef50_A0A1C5ME15	1	1.000	1.000	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E1WNH5	1	1.000	1.000	0.375	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_A0A645JBS1	1	1.000	1.000	0.983	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_I9HLV1	1	1.000	1.000	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0J9I998	1	1.000	1.000	0.943	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0P0LPB2	1	0.995	0.995	0.964	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q8ABB0	1	0.996	0.996	0.933	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0LJL5	1	1.000	1.000	0.926	131567	no rank	cellular organisms	unknown;unknown;unknown	-_cellular organisms
+UniRef50_Q5LD33	1	1.000	1.000	0.958	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A6A2J8C0	1	1.000	1.000	0.895	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A7V3X3	1	0.912	0.912	0.614	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A081UID8	1	1.000	1.000	0.936	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A380YR92	1	1.000	1.000	0.959	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G0L0U4	1	0.999	0.999	0.734	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3P1ZZW3	1	0.953	0.953	0.940	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_Q5LA32	1	0.981	0.981	0.906	200643	class	Bacteroidia	unknown;Bacteroidetes;uc_Bacteroidia	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia
+UniRef50_I8XMJ0	1	0.263	0.263	0.526	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_I9GS87	1	1.000	1.000	0.976	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A7P3	1	1.000	1.000	0.948	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_C6IFV2	1	1.000	1.000	0.992	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q5LD85	1	1.000	1.000	0.780	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A081ULR2	1	1.000	1.000	0.892	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R6AHU8	1	0.969	0.969	0.577	1263053	species	Bacteroides stercoris CAG:120	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides stercoris CAG:120
+UniRef50_A0A415CPR2	1	1.000	1.000	0.968	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_I9R7R6	1	1.000	1.000	0.944	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q5LD24	1	0.850	0.850	0.974	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_R5N437	1	0.992	0.992	0.860	1262735	species	Bacteroides sp. CAG:1076	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:1076
+UniRef50_Q8A9S7	1	0.998	0.998	0.964	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_E1WWF7	1	1.000	1.000	0.977	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0F7H5	1	0.992	0.992	0.920	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A642PWT7	1	1.000	1.000	0.987	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_Q89YY3	1	1.000	1.000	0.916	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R5JFM9	1	1.000	1.000	0.717	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_W4UNJ5	1	0.066	0.066	0.975	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_R6NUJ6	1	1.000	1.000	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A645EXY2	2	0.965	1.218	0.784	1076179	species	bioreactor metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_ecological metagenomes;s_bioreactor metagenome
+UniRef50_A0A6C9G588	1	1.000	1.000	0.969	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I8XG60	1	1.000	1.000	1.000	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_UPI0010086499	1	0.926	0.926	0.743	691816	species	Bacteroides rodentium	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides rodentium
+UniRef50_A0A653AJK0	1	1.000	1.000	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1C5SEQ5	1	0.974	0.974	0.954	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B1A1E2	1	0.865	0.865	0.774	367791	species	Flammeovirga yaeyamensis	unknown;Bacteroidetes;Flammeovirgaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Cytophagia;o_Cytophagales;f_Flammeovirgaceae;g_Flammeovirga;s_Flammeovirga yaeyamensis
+UniRef50_F5ISL5	1	1.000	1.000	0.984	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_Q8AB56	1	0.932	0.932	0.973	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A173S3Q0	1	1.000	1.000	0.957	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8A6K1	1	1.000	1.000	0.980	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_B0NQW9	1	0.984	0.984	0.418	449673	strain	Bacteroides stercoris ATCC 43183	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides stercoris;-_Bacteroides stercoris ATCC 43183
+UniRef50_B0NM39	1	1.000	1.000	0.894	449673	strain	Bacteroides stercoris ATCC 43183	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides stercoris;-_Bacteroides stercoris ATCC 43183
+UniRef50_R5C863	1	0.421	0.421	0.869	1262743	species	Bacteroides sp. CAG:598	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides sp. CAG:598
+UniRef50_A0A5J4QIQ1	1	0.830	0.830	0.665	433724	species	termite gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_termite gut metagenome
+UniRef50_A0A174RN64	1	0.319	0.319	0.965	818	species	Bacteroides thetaiotaomicron	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides thetaiotaomicron
+UniRef50_UPI00195BB8BD	1	0.331	0.331	0.905	1841856	species	Bacteroides mediterraneensis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides mediterraneensis
+UniRef50_A0A0Q4B3F6	1	0.995	0.995	0.966	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_A0A6N2S307	1	1.000	1.000	0.931	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_Q8A9U9	1	0.988	0.988	0.875	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A413H6D3	1	1.000	1.000	0.846	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A108TC73	1	0.998	0.998	0.930	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_I9UW76	1	0.900	0.900	0.945	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0N7IET9	1	0.998	0.998	0.944	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_G1UKH1	1	0.778	0.778	1.000	2646097	no rank	unclassified Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_unclassified Bacteroides
+UniRef50_A0A0P0GQ77	1	1.000	1.000	0.970	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A180FGH1	1	1.000	1.000	0.949	1633203	species	Bacteroidales bacterium Barb7	unknown;Bacteroidetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;-_unclassified Bacteroidales;s_Bacteroidales bacterium Barb7
+UniRef50_J9CB95	2	0.895	1.459	0.437	749906	species	gut metagenome	unknown;unknown;unknown	-_unclassified entries;-_unclassified sequences;-_metagenomes;-_organismal metagenomes;s_gut metagenome
+UniRef50_N9LND2	1	0.968	0.968	0.955	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A3M4B655	1	0.494	0.494	0.320	286	genus	Pseudomonas	unknown;Proteobacteria;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UniRef50_K9DZV2	1	1.000	1.000	0.956	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P0EUJ1	1	0.997	0.997	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A5Q5GLM4	1	0.925	0.925	0.552	165179	species	Prevotella copri	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella copri
+UniRef50_E0NSR3	1	1.000	1.000	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_W4UMR3	1	1.000	1.000	0.946	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A396BVD5	1	0.578	0.578	0.981	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A0P0GKK0	1	0.991	0.991	0.971	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174LLK8	1	0.991	0.991	0.955	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8ABA8	1	0.997	0.997	0.977	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q8AAZ8	1	0.996	0.996	0.992	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A515ILC4	1	1.000	1.000	0.954	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_A0A412X4J3	1	1.000	1.000	0.362	815	family	Bacteroidaceae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae
+UniRef50_UPI001961209F	1	1.000	1.000	0.926	1841865	species	Mediterranea massiliensis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Mediterranea;s_Mediterranea massiliensis
+UniRef50_A0A174HLL0	1	1.000	1.000	0.924	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0K6BSM7	1	1.000	1.000	0.939	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1M6C011	1	1.000	1.000	0.924	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A174UP82	1	0.592	0.592	0.963	820	species	Bacteroides uniformis	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides uniformis
+UniRef50_I9SA92	1	0.986	0.986	0.937	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R6J2Q1	1	0.993	0.993	0.235	1263050	species	Bacteroides ovatus CAG:22	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides ovatus CAG:22
+UniRef50_P0A6C1	1	0.975	0.975	0.982	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A1M6JWC0	1	0.962	0.962	0.884	871324	species	Bacteroides stercorirosoris	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides stercorirosoris
+UniRef50_E6SR68	1	0.995	0.995	0.940	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_R5LXB3	1	0.959	0.959	0.758	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A0D5BPP4	1	0.984	0.984	0.913	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A3E5BAX9	1	0.912	0.912	0.912	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A1G6XMH8	1	0.168	0.168	0.961	1760	class	Actinomycetia	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+UniRef50_A0A1M5MI99	1	0.955	0.955	0.459	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_A0A4Q0J0C8	1	0.962	0.962	0.967	2	superkingdom	Bacteria	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+UniRef50_Q02550	1	0.981	0.981	1.000	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_Q89YY6	1	1.000	1.000	0.942	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0018ABF7D3	1	0.995	0.995	0.987	291645	species	Bacteroides nordii	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides nordii
+UniRef50_Q5LD26	1	1.000	1.000	0.927	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_W8YWX8	1	0.340	0.340	0.194	483908	species	Paenibacillus sp. P22	unknown;Firmicutes;Paenibacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Bacillales;f_Paenibacillaceae;g_Paenibacillus;-_unclassified Paenibacillus;s_Paenibacillus sp. P22
+UniRef50_R6TSH3	1	0.976	0.976	0.254	1263015	species	Firmicutes bacterium CAG:272	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_environmental samples;s_Firmicutes bacterium CAG:272
+UniRef50_I9FDP4	1	0.880	0.880	0.942	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_UPI00129C20B3	2	1.000	1.904	0.778	291644	species	Bacteroides salyersiae	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides salyersiae
+UniRef50_W2CMU2	1	1.000	1.000	0.625	1411022	isolate	Tannerella sp. oral taxon BU063 isolate Cell 1/3	unknown;Bacteroidetes;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Tannerella;-_unclassified Tannerella;s_Tannerella sp. oral taxon HOT-286;-_Tannerella sp. oral taxon BU063 isolate Cell 1/3
+UniRef50_R6JB15	2	1.000	1.393	0.750	1263050	species	Bacteroides ovatus CAG:22	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;-_environmental samples;s_Bacteroides ovatus CAG:22
+UniRef50_A0A7J4YU23	1	1.000	1.000	0.524	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_UPI000AE21C5A	1	0.998	0.998	0.451	28137	species	Prevotella veroralis	unknown;Bacteroidetes;Prevotellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae;g_Prevotella;s_Prevotella veroralis
+UniRef50_A0A6A5LA59	1	0.750	0.750	0.651	3870	species	Lupinus albus	Viridiplantae;Streptophyta;Fabaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_fabids;o_Fabales;f_Fabaceae;-_Papilionoideae;-_50 kb inversion clade;-_genistoids sensu lato;-_core genistoids;-_Genisteae;g_Lupinus;s_Lupinus albus
+UniRef50_F0R7U4	1	0.987	0.987	1.000	976	phylum	Bacteroidetes	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+UniRef50_Q89YZ2	1	1.000	1.000	0.979	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_A0A0P5Z1V3	1	0.811	0.811	0.782	35525	species	Daphnia magna	Metazoa;Arthropoda;Daphniidae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Crustacea;c_Branchiopoda;-_Phyllopoda;o_Diplostraca;-_Cladocera;-_Anomopoda;f_Daphniidae;g_Daphnia;s_Daphnia magna
+UniRef50_K9DWQ6	1	0.953	0.953	0.985	171549	order	Bacteroidales	unknown;Bacteroidetes;uc_Bacteroidales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales
+UniRef50_I9GDF4	1	0.942	0.942	0.965	816	genus	Bacteroides	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides
+UniRef50_A0A0P0M2V2	1	0.993	0.993	0.937	1	no rank	root	unknown;unknown;unknown	-_root
+UniRef50_UPI0004AEA5AF	1	1.000	1.000	0.964	1347393	species	Bacteroides neonati	unknown;Bacteroidetes;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides neonati
