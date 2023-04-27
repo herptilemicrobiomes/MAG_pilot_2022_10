@@ -1,0 +1,56 @@
+Genome	TaxID	TaxRank	Final classification	# prot	# prot w/ label	# prot agree	Label support	Classification	Full classification
+UHM91.bin.46.fa	543	family	Enterobacteriaceae	368	361	232	0.650	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.52.fa	4893	family	Saccharomycetaceae	3092	2901	1562	0.540	Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;;	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Saccharomycotina;c_Saccharomycetes;o_Saccharomycetales;f_Saccharomycetaceae
+UHM91.bin.37.fa	543	family	Enterobacteriaceae	1407	1394	747	0.540	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.48.fa	543	family	Enterobacteriaceae	18	18	12	0.650	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.8.fa	1239	phylum	Bacillota	1216	1120	652	0.580	Bacteria;;Bacillota;;;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+UHM91.bin.55.fa	1236	class	Gammaproteobacteria	761	741	566	0.760	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.27.fa	1236	class	Gammaproteobacteria	1538	1488	1054	0.710	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.1.fa	543	family	Enterobacteriaceae	165	163	149	0.910	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.36.fa	91347	order	Enterobacterales	2155	2125	1759	0.830	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+UHM91.bin.20.fa	91061	class	Bacilli	1479	1410	1046	0.740	Bacteria;;Bacillota;Bacilli;;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+UHM91.bin.9.fa	28211	class	Alphaproteobacteria	1744	1674	903	0.530	Bacteria;;Pseudomonadota;Alphaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+UHM91.bin.47.fa	91347	order	Enterobacterales	196	189	151	0.800	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+UHM91.bin.40.fa	2	superkingdom	Bacteria	131	122	105	0.860	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.18.fa	91061	class	Bacilli	1443	1377	1041	0.750	Bacteria;;Bacillota;Bacilli;;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+UHM91.bin.24.fa	543	family	Enterobacteriaceae	235	229	150	0.650	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.41.fa	286	genus	Pseudomonas	1278	1227	654	0.530	Bacteria;;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+UHM91.bin.16.fa	1760	class	Actinomycetes	1106	1036	669	0.640	Bacteria;;Actinomycetota;Actinomycetes;;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes
+UHM91.bin.17.fa	4932	species	Saccharomyces cerevisiae	530	505	269	0.540	Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces cerevisiae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Saccharomycotina;c_Saccharomycetes;o_Saccharomycetales;f_Saccharomycetaceae;g_Saccharomyces;s_Saccharomyces cerevisiae
+UHM91.bin.33.fa	91061	class	Bacilli	692	663	515	0.770	Bacteria;;Bacillota;Bacilli;;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+UHM91.bin.15.fa	1224	phylum	Pseudomonadota	62	59	49	0.840	Bacteria;;Pseudomonadota;;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+UHM91.bin.34.fa	1224	phylum	Pseudomonadota	1395	1330	1035	0.770	Bacteria;;Pseudomonadota;;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+UHM91.bin.23.fa	543	family	Enterobacteriaceae	2752	2710	1579	0.590	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.45.fa	2	superkingdom	Bacteria	159	149	126	0.850	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.13.fa	1236	class	Gammaproteobacteria	1026	999	747	0.740	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.32.fa	85007	order	Corynebacteriales	102	97	59	0.590	Bacteria;;Actinomycetota;Actinomycetes;Corynebacteriales;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales
+UHM91.bin.2.fa	2	superkingdom	Bacteria	1125	1062	886	0.830	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.19.fa	543	family	Enterobacteriaceae	1520	1490	800	0.540	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.35.fa	2	superkingdom	Bacteria	841	807	660	0.810	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.22.fa	1236	class	Gammaproteobacteria	2775	2690	2031	0.750	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.50.fa	1236	class	Gammaproteobacteria	601	589	403	0.680	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.11.fa	543	family	Enterobacteriaceae	3253	3223	2764	0.860	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.10.fa	2	superkingdom	Bacteria	266	258	216	0.840	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.3.fa	2	superkingdom	Bacteria	116	111	93	0.840	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.7.fa	1236	class	Gammaproteobacteria	693	684	473	0.690	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.12.fa	91347	order	Enterobacterales	154	149	130	0.870	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+UHM91.bin.21.fa	4932	species	Saccharomyces cerevisiae	3033	2819	1559	0.560	Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces cerevisiae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_saccharomyceta;-_Saccharomycotina;c_Saccharomycetes;o_Saccharomycetales;f_Saccharomycetaceae;g_Saccharomyces;s_Saccharomyces cerevisiae
+UHM91.bin.31.fa	2	superkingdom	Bacteria	256	249	204	0.820	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.30.fa	543	family	Enterobacteriaceae	3273	3224	2637	0.820	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.29.fa	1236	class	Gammaproteobacteria	102	98	72	0.720	Bacteria;;Pseudomonadota;Gammaproteobacteria;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+UHM91.bin.14.fa	91347	order	Enterobacterales	2518	2476	2036	0.820	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+UHM91.bin.51.fa	543	family	Enterobacteriaceae	250	249	205	0.830	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.25.fa	2	superkingdom	Bacteria	286	271	233	0.850	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.49.fa	1224	phylum	Pseudomonadota	545	528	407	0.770	Bacteria;;Pseudomonadota;;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+UHM91.bin.6.fa	2	superkingdom	Bacteria	130	124	102	0.820	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.54.fa	1224	phylum	Pseudomonadota	130	124	107	0.860	Bacteria;;Pseudomonadota;;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+UHM91.bin.42.fa	976	phylum	Bacteroidota	472	454	243	0.530	Bacteria;;Bacteroidota;;;;;	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota
+UHM91.bin.26.fa	543	family	Enterobacteriaceae	3327	3284	2847	0.870	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.43.fa	543	family	Enterobacteriaceae	238	232	172	0.750	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.28.fa	543	family	Enterobacteriaceae	1130	1108	606	0.550	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.53.fa	2	superkingdom	Bacteria	526	505	415	0.820	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.4.fa	1224	phylum	Pseudomonadota	998	949	735	0.770	Bacteria;;Pseudomonadota;;;;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+UHM91.bin.39.fa	543	family	Enterobacteriaceae	364	357	206	0.580	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+UHM91.bin.44.fa	2	superkingdom	Bacteria	45	42	37	0.880	Bacteria;;;;;;;	-_cellular organisms;d_Bacteria
+UHM91.bin.38.fa	91061	class	Bacilli	845	811	610	0.750	Bacteria;;Bacillota;Bacilli;;;;	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+UHM91.bin.5.fa	543	family	Enterobacteriaceae	115	113	62	0.550	Bacteria;;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;;	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
